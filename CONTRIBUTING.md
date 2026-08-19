@@ -22,10 +22,20 @@ Do not submit private conversations, personal information, confidential business
 
 ## Generated files
 
-`README.md` is generated from `data/use-cases.json`. Do not edit individual prompt sections manually. Update the catalog and run:
+The root `README.md` and all seven `prompts/*/README.md` category pages are generated from `data/use-cases.json`. Do not edit individual prompt sections manually. Update the catalog and run:
 
 ```bash
 npm run generate
-npm run validate
+npm run check
 ```
 
+## Preview asset policy
+
+- Public use-case previews may use stable URLs on the PagePop-controlled CDN. They do not need to be copied into this repository.
+- Repository-owned brand assets, including the banner and GitHub social preview, live in `assets/` so the repository identity does not depend on an external image host.
+- Do not submit expiring signed URLs, private storage URLs, or third-party media without explicit publication permission.
+- Every preview must have descriptive alternative text and a working PagePop result link.
+
+## Pull requests
+
+Generated files must be committed together with their source catalog change. Before opening a pull request, run `npm run check` and confirm the diff contains no personal information, private conversation data, internal identifiers, or tool traces.

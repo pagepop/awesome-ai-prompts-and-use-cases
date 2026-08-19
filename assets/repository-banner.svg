@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1983" height="793" viewBox="0 0 1983 793" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome AI Creative Prompts and Real-World Use Cases by PagePop</title>
+  <desc id="desc">A PagePop collection of 78 natural-language prompts, finished results, and creative workflows.</desc>
+  <image href="repository-background.png" width="1983" height="793" preserveAspectRatio="xMidYMid slice"/>
+  <g transform="translate(250 132)">
+    <rect x="18" y="18" width="720" height="520" rx="34" fill="#252525"/>
+    <rect width="720" height="520" rx="34" fill="#FBFAFF" stroke="#252525" stroke-width="7"/>
+    <g transform="translate(58 48)">
+      <g transform="scale(1.7)">
+        <path d="M3 4.08333H23.8C25.6202 4.08333 26.5303 4.08333 27.2255 4.43756C27.837 4.74915 28.3342 5.24634 28.6458 5.85786C29 6.55308 29 7.46316 29 9.28333V10.5833H8.2C6.37983 10.5833 5.46974 10.5833 4.77453 10.2291C4.163 9.91752 3.66582 9.42033 3.35423 8.8088C3 8.11359 3 7.2035 3 5.38333V4.08333Z" fill="#8B47EB"/>
+        <path d="M3 19.25H23.8C25.6202 19.25 26.5303 19.25 27.2255 18.8958C27.837 18.5842 28.3342 18.087 28.6458 17.4755C29 16.7803 29 15.8702 29 14.05V12.75H8.2C6.37983 12.75 5.46974 12.75 4.77453 13.1042C4.163 13.4158 3.66582 13.913 3.35423 14.5245C3 15.2197 3 16.1298 3 17.95V19.25Z" fill="#8B47EB"/>
+        <path d="M18.8889 21.4167H8.2C6.37983 21.4167 5.46974 21.4167 4.77453 21.7709C4.163 22.0825 3.66582 22.5797 3.35423 23.1912C3 23.8864 3 24.7965 3 26.6167V27.9167H13.6889C15.5091 27.9167 16.4191 27.9167 17.1144 27.5624C17.7259 27.2508 18.2231 26.7537 18.5347 26.1421C18.8889 25.4469 18.8889 24.5368 18.8889 22.7167V21.4167Z" fill="#8B47EB"/>
+      </g>
+      <text x="72" y="42" fill="#252525" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800">PagePop</text>
+      <rect y="82" width="580" height="8" rx="4" fill="#252525"/>
+      <text x="0" y="154" fill="#252525" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="900">Awesome AI Creative</text>
+      <text x="0" y="222" fill="#252525" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="900">Prompts &amp; Use Cases</text>
+      <text x="0" y="284" fill="#625C6B" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Real requests · finished results · public workflows</text>
+      <g transform="translate(0 330)">
+        <rect x="8" y="8" width="214" height="66" rx="18" fill="#252525"/>
+        <rect width="214" height="66" rx="18" fill="#FFDE59" stroke="#252525" stroke-width="5"/>
+        <text x="107" y="43" text-anchor="middle" fill="#252525" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">78 USE CASES</text>
+        <rect x="246" y="0" width="250" height="66" rx="18" fill="#8B47EB" stroke="#252525" stroke-width="5"/>
+        <text x="371" y="43" text-anchor="middle" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">7 CATEGORIES</text>
+      </g>
+    </g>
+  </g>
+</svg>

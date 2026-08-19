@@ -2,13 +2,16 @@
   "name": "awesome-ai-prompts-and-use-cases",
   "version": "0.1.0",
   "private": true,
+  "license": "UNLICENSED",
   "description": "Real-world AI creative prompts and use cases by PagePop.",
   "type": "module",
   "scripts": {
     "import": "node scripts/import-pagepop-catalog.mjs",
-    "generate": "node scripts/generate-readme.mjs",
+    "generate:root": "node scripts/generate-readme.mjs",
+    "generate:categories": "node scripts/generate-category-readmes.mjs",
+    "generate": "npm run generate:root && npm run generate:categories",
     "validate": "node scripts/validate.mjs",
-    "check": "npm run generate && npm run validate && git diff --exit-code -- README.md"
+    "check": "node scripts/check-generated.mjs"
   },
   "engines": {
     "node": ">=20"

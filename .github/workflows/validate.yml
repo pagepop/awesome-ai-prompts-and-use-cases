@@ -17,7 +17,4 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm run generate
-      - run: npm run validate
-      - run: git diff --exit-code -- README.md
-
+      - run: npm run check
