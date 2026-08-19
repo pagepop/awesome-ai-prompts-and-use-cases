@@ -1,0 +1,62 @@
+name: Submit a creative prompt and use case
+description: Propose an original prompt and result for the public collection.
+title: "[Submission]: "
+labels:
+  - submission
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing. Do not include private conversations, personal data, or material you do not have permission to publish.
+  - type: input
+    id: title
+    attributes:
+      label: Use-case title
+      placeholder: A specific description of the result
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Video
+        - Poster & Flyer
+        - Image Editor
+        - E-commerce
+        - Document
+        - Slides
+        - Social Post
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Original prompt
+      description: Paste the exact natural-language prompt that started the work.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Result preview and source
+      description: Add public image/video/file URLs and attribution or source links.
+    validations:
+      required: true
+  - type: input
+    id: pagepop
+    attributes:
+      label: PagePop result URL
+      placeholder: https://www.pagepop.ai/use-cases/...
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Rights and privacy confirmation
+      options:
+        - label: I created this submission or have permission to publish every included prompt and asset.
+          required: true
+        - label: I have removed personal, confidential, and private information.
+          required: true
+        - label: I allow PagePop to review, edit, and publish this submission in the repository and web gallery.
+          required: true
+

@@ -1,0 +1,2746 @@
+{
+  "schemaVersion": 1,
+  "title": "Awesome AI Creative Prompts & Real-World Use Cases",
+  "description": "Real-world natural-language prompts with generated results for video, posters, image editing, e-commerce, documents, presentations, and social media.",
+  "publisher": "PagePop",
+  "website": "https://www.pagepop.ai/use-cases",
+  "locale": "en-US",
+  "sourceUpdatedAt": "2026-05-19T12:21:15.248Z",
+  "supportedModels": [
+    "Nano Banana Pro",
+    "GPT Image 2",
+    "Seedance 2.0",
+    "Seedance 2.5",
+    "Gemini 3 Pro"
+  ],
+  "categories": [
+    {
+      "slug": "video",
+      "label": "Video",
+      "order": 1,
+      "caseCount": 6
+    },
+    {
+      "slug": "poster-and-flyer",
+      "label": "Poster & Flyer",
+      "order": 2,
+      "caseCount": 12
+    },
+    {
+      "slug": "image-editor",
+      "label": "Image Editor",
+      "order": 3,
+      "caseCount": 12
+    },
+    {
+      "slug": "e-commerce",
+      "label": "E-commerce",
+      "order": 4,
+      "caseCount": 12
+    },
+    {
+      "slug": "document",
+      "label": "Document",
+      "order": 5,
+      "caseCount": 12
+    },
+    {
+      "slug": "slides",
+      "label": "Slides",
+      "order": 6,
+      "caseCount": 12
+    },
+    {
+      "slug": "social-post",
+      "label": "Social Post",
+      "order": 7,
+      "caseCount": 12
+    }
+  ],
+  "cases": [
+    {
+      "slug": "aroma-diffuser-promo-video",
+      "category": "video",
+      "title": "Aroma Diffuser Promo Video",
+      "summary": "I'll help you create an e-commerce promotional video for your aroma diffuser. Let me use the ecommerce-video-generate skill to create a 10-second video in 720p resolution with a 16:9 aspect ratio based on your product image.",
+      "originalPrompt": "The picture is of my product - the aroma diffuser. The original details of the product remain unchanged. An e-commerce promotional video is to be generated, lasting 10 seconds, in 720p resolution, with a 16:9 aspect ratio.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/aroma-diffuser-promo-video",
+      "updatedAt": "2026-05-19T12:21:15.248Z",
+      "result": {
+        "kind": "video",
+        "title": "Aroma Diffuser Promo Video",
+        "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779193257970_40932350_TnEWu.jpg",
+        "assets": [
+          {
+            "kind": "video",
+            "url": "https://img-volc.jianpian.info/super/video_concat/video/40932350/1779193256874_40932350_GoXHN.mp4",
+            "title": "Aroma Diffuser Promo Video",
+            "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779193257970_40932350_TnEWu.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "comedy-tank-standoff",
+      "category": "video",
+      "title": "Comedy Tank Standoff",
+      "summary": "I'll help you generate this comedy video scene. Let me use the common-video-generate skill to create this humorous family moment.",
+      "originalPrompt": "Generate a video with a comedy scene set in a living room at home. A little girl and a dog are sitting inside a toy tank with serious and focused expressions. Opposite them, a small kitten is standing on a coffee table, creating a funny standoff between the two sides. Warm family environment, bright lighting, cartoon comedy style, and a humorous atmosphere.  15s，720p",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/comedy-tank-standoff",
+      "updatedAt": "2026-05-19T10:56:05.835Z",
+      "result": {
+        "kind": "video",
+        "title": "Comedy Tank Standoff",
+        "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188153588_40932350_jAFvt.jpg",
+        "assets": [
+          {
+            "kind": "video",
+            "url": "https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188152384_40932350_6QX1Y.mp4",
+            "title": "Comedy Tank Standoff",
+            "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188153588_40932350_jAFvt.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "dolphin-sunset-transition",
+      "category": "video",
+      "title": "Dolphin Sunset Transition",
+      "summary": "I'll help you create a magical video that transitions from underwater dolphins to an ocean sunset. Let me use the common-video-generate skill to create this beautiful nature documentary-style video",
+      "originalPrompt": "Generate a video based on the reference image I provided. Start underwater with a group of dolphins swimming through clear blue ocean water, then smoothly transition as the camera rises toward the surface and moves into a peaceful wide ocean sunset view. Make the video feel magical, relaxing, and inspiring, like a beautiful nature documentary moment. Keep the movement smooth and natural, with gentle light rays, flowing water, and a calm emotional atmosphere.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/dolphin-sunset-transition",
+      "updatedAt": "2026-05-19T11:01:39.875Z",
+      "result": {
+        "kind": "video",
+        "title": "Dolphin Sunset Transition",
+        "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188491734_40932350_8TPtz.jpg",
+        "assets": [
+          {
+            "kind": "video",
+            "url": "https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188490823_40932350_HEDLy.mp4",
+            "title": "Dolphin Sunset Transition",
+            "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188491734_40932350_8TPtz.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "grandma-moons-sweet-dream",
+      "category": "video",
+      "title": "Grandma Moon's Sweet Dream",
+      "summary": "I'll help you create a cartoon video for \"Grandma Moon's Sweet Dream\" using the kid_edu_cartoon skill, which is designed for creating educational cartoon videos for children aged 3-6.",
+      "originalPrompt": "Generate a cartoon video:\n\"Grandma Moon’s Sweet Dream\"\n\nAt night, the moon hung high in the sky.\n\nBunny Sister said,\n“Grandma Moon likes children who go to sleep early the most.”\n\nKitten Sister asked,\n“Why?”\n\nBunny Sister said,\n“Because when you go to sleep early, Grandma Moon will send you a sweet dream.”\n\nAs soon as Kitten Sister heard that, she quickly lay down.\n\nShe closed her eyes and said,\n“Grandma Moon, I’m all tucked in.”\n\nBefore long, Kitten Sister fell asleep.\nShe dreamed that she was sitting in a little moon boat, rocking gently and smiling happily.\n\nThe next morning, Kitten Sister said happily,\n“Bunny Sister, I really did get a sweet dream!”",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/grandma-moons-sweet-dream",
+      "updatedAt": "2026-05-18T04:18:04.360Z",
+      "result": {
+        "kind": "video",
+        "title": "Grandma Moon's Sweet Dream",
+        "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077875529_41202504_HdNou.jpg",
+        "assets": [
+          {
+            "kind": "video",
+            "url": "https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077874120_41202504_QlZU4.mp4",
+            "title": "Grandma Moon's Sweet Dream",
+            "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077875529_41202504_HdNou.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "kitten-sisters-clean-teeth",
+      "category": "video",
+      "title": "Kitten Sister's Clean Teeth",
+      "summary": "I'll help you create a cartoon video based on this cute bedtime story about Kitten Sister and Bunny Sister. Let me use the kid_edu_cartoon skill which is specifically designed for creating educational cartoon videos for children.",
+      "originalPrompt": "Generate a cartoon video:\n\nAt night, after Kitten Sister finished her little cookies, she wanted to go to sleep.\n\nBunny Sister said, “Wait a moment, there are still little cookie bits hiding in your tiny teeth.”\n\nKitten Sister opened her mouth wide and asked, “Where are they?”\n\nBunny Sister smiled and said, “Let the little toothbrush go find them.”\n\nKitten Sister picked up her toothbrush and brushed, brush, brush.\n\nShe brushed the top, the bottom, the inside, and the outside.\n\nBunny Sister said, “Look, all the little cookie bits are gone now.”\n\nKitten Sister said happily, “My teeth are nice and clean now. I can go to sleep!”",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/kitten-sisters-clean-teeth",
+      "updatedAt": "2026-05-18T04:14:56.341Z",
+      "result": {
+        "kind": "video",
+        "title": "Kitten Sister's Clean Teeth",
+        "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077686593_41202504_2KE8Y.jpg",
+        "assets": [
+          {
+            "kind": "video",
+            "url": "https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077682990_41202504_9YgVT.mp4",
+            "title": "Kitten Sister's Clean Teeth",
+            "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077686593_41202504_2KE8Y.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "quirky-object-transformations",
+      "category": "video",
+      "title": "Quirky Object Transformations",
+      "summary": "I'll help you create a quirky, attention-grabbing 15-second funny video for social media. Let me use the common video generation skill to create this for you.",
+      "originalPrompt": "Help me create a 15-second funny video that is suitable for posting on social media platforms. The style should be quirky and easy to attract clicks.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/quirky-object-transformations",
+      "updatedAt": "2026-05-19T07:31:54.961Z",
+      "result": {
+        "kind": "video",
+        "title": "Quirky Object Transformations",
+        "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779175906528_40932350_Vt6ym.jpg",
+        "assets": [
+          {
+            "kind": "video",
+            "url": "https://img-volc.jianpian.info/super/video_concat/video/40932350/1779175905311_40932350_fm3Zt.mp4",
+            "title": "Quirky Object Transformations",
+            "coverUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779175906528_40932350_Vt6ym.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "academic-conference-poster-mangrove-rodent-eradication-technology",
+      "category": "poster-and-flyer",
+      "title": "Academic Conference Poster - Mangrove Rodent Eradication Technology",
+      "summary": "I'll help you create an academic conference poster with infographics based on the text you provided. This is a visual design task that requires professional layout and graphics.",
+      "originalPrompt": "Invasive rodents have been successfully eradicated from islandsworldwide,\nrestoring native species and their habitats, boosting island resilience tCo\nclimate change and supporting social wellbeing. There is growing interest in\nlarge-scale eradications but many tropical islands are unable to ireap the\nbenefits of rodent eradication due to technological gaps in baiting largge areas\nof mangrove forest, a common habitat of tropical islands. An emergin09\nproduct is bait bolas (bait pellets connected by string), which, on\ndeployment, entangle in the mangrove canopy, preventing themfrom being\nwashed away, ensuring the rats can access it. Scaling-up the useof bolas\nrequires mechanisation of bola production and the developmentof a method\nto aerially deploy bolas effectively, without the bolas getting entangled with\none another. The estimated cost of developing mangrove baitingtechnology\nis around US$850,000. We estimate that a combined total of around two\nmillion hectares of biodiverse tropical island could become feasilble for\neradication were this technology available. We call on beneficiariies and\nphilanthropists to invest in this technology now, to unlock significant\nbiodiversity and climate resilience gains.\nCreate an academic conference poster that includes infographicsand\nsections according to the paper attached",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/academic-conference-poster-mangrove-rodent-eradication-technology",
+      "updatedAt": "2025-12-17T08:48:38.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Academic Conference Poster - Mangrove Rodent Eradication Technology",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961263136_1000_mIYia.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961263136_1000_mIYia.png",
+            "title": "Academic Conference Poster - Mangrove Rodent Eradication Technology"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961265468_1000_3IyTB.png",
+            "title": "Academic Poster - Scientific Data Visualization"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961283543_1000_tTHj5.png",
+            "title": "Academic Poster - Conservation Narrative Style"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961265430_1000_JPyLN.png",
+            "title": "Academic Poster - Technical Blueprint Style"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "american-frontier-western-wagon-prints-4-artistic-styles",
+      "category": "poster-and-flyer",
+      "title": "American Frontier Western Wagon Prints - 4 Artistic Styles",
+      "summary": "I'll create 4 prints with different styles featuring American Frontier Era Western Wagon Scene themes with brighter tones. Let me get started on this creative project for you.",
+      "originalPrompt": "Create 4 prints with different styles, a brighter tone, themed around American Frontier Era Western Wagon Scene Print . You can freely develop the copy on the prints or leave them without any copy.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/american-frontier-western-wagon-prints-4-artistic-styles",
+      "updatedAt": "2025-11-25T07:14:50.000Z",
+      "result": {
+        "kind": "image",
+        "title": "American Frontier Western Wagon Prints - 4 Artistic Styles",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054606388_1000_fCa52.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054606388_1000_fCa52.png",
+            "title": "American Frontier Western Wagon Prints - 4 Artistic Styles"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054427993_1000_OCgFj.png",
+            "title": "Luminous Watercolor Style - Prairie Wagon Sunset"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054409260_1000_ThFIv.png",
+            "title": "Contemporary Illustrative Style - Detailed Frontier Journey"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "brooklyn-bridge-urban-landscape-prints-4-style-variations",
+      "category": "poster-and-flyer",
+      "title": "Brooklyn Bridge Urban Landscape Prints - 4 Style Variations",
+      "summary": "I'd be happy to help you create 4 prints with different styles featuring the Brooklyn Bridge urban landscape! This is a wonderful theme with lots of creative possibilities. Let me clarify a few details to ensure the prints match your vision: 1. **Print format**: What size/orientation would you pref…",
+      "originalPrompt": "Create 4 prints with different styles, a brighter tone, themed around Brooklyn Bridge (New York) Urban Landscape Print . You can freely develop the copy on the prints or leave them without any copy.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/brooklyn-bridge-urban-landscape-prints-4-style-variations",
+      "updatedAt": "2025-11-25T07:22:53.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Brooklyn Bridge Urban Landscape Prints - 4 Style Variations",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055330176_1000_sOXT3.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055330176_1000_sOXT3.png",
+            "title": "Brooklyn Bridge Urban Landscape Prints - 4 Style Variations"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055312796_1000_ycyQf.png",
+            "title": "Abstract Geometric Brooklyn Bridge"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055323265_1000_DViqR.png",
+            "title": "Contemporary Photographic Brooklyn Bridge"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "country-music-legends-portrait-prints-4-styles",
+      "category": "poster-and-flyer",
+      "title": "Country Music Legends Portrait Prints - 4 Styles",
+      "summary": "I'll create 4 portrait prints of legendary American country music singers with different styles and brighter tones. Let me get started on this creative project right away!",
+      "originalPrompt": "Create 4 prints with different styles, a brighter tone, themed around  Portrait Print of Legendary American Country Music Singers. You can freely develop the copy on the prints or leave them without any copy.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/country-music-legends-portrait-prints-4-styles",
+      "updatedAt": "2025-11-25T07:12:33.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Country Music Legends Portrait Prints - 4 Styles",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054611646_1000_FC7zm.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054611646_1000_FC7zm.png",
+            "title": "Country Music Legends Portrait Prints - 4 Styles"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054621644_1000_pBfpf.png",
+            "title": "Dolly Parton - Vibrant Pop Art Portrait"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054620349_1000_XlTiI.png",
+            "title": "Willie Nelson - Warm Illustrated Portrait"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054612766_1000_d5JCm.png",
+            "title": "Patsy Cline - Vintage Elegant Portrait"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "meritus-paramedical-institute-posters-vertical-layout",
+      "category": "poster-and-flyer",
+      "title": "Meritus Paramedical Institute Posters - Vertical Layout",
+      "summary": "I'll help you create a professional, colorful poster for Meritus Paramedical Institute. Let me hand this over to our design specialist who will create a high-quality, horizontal layout poster with all your information and eye-catching visuals.",
+      "originalPrompt": "please prepare a poster for my Meritus Paramedical Institute (MPI). please use\nyour knowledge to make this better. please use bigger fonts. itshould be\nhorizontal layout. Contact- [phone redacted], [phone redacted], Email-\n[email redacted] address- [address redacted] eligibility 12th\nor equivalent with any stream. course are DMLT, B.Sc MLT, B.VcC MLT, DOTT,\nB.Sc OT, B.Voc OT, X-Ray technician, Dialysis technician & EmergencMedical\nTechnician Etc. please provide colorful and 4k quality",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/meritus-paramedical-institute-posters-vertical-layout",
+      "updatedAt": "2025-12-17T09:14:34.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Meritus Paramedical Institute Posters - Vertical Layout",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765962691698_1000_SnkXc.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765962691698_1000_SnkXc.png",
+            "title": "Meritus Paramedical Institute Posters - Vertical Layout"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765962661478_1000_ikh6z.png",
+            "title": "MPI Vertical Poster - Vibrant Medical Green"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765962660074_1000_adwyA.png",
+            "title": "MPI Vertical Poster - Bold Orange Accent"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765962656863_1000_6lTpc.png",
+            "title": "MPI Vertical Poster - Premium Healthcare Design"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "new-orleans-jazz-prints-4-artistic-styles",
+      "category": "poster-and-flyer",
+      "title": "New Orleans Jazz Prints - 4 Artistic Styles",
+      "summary": "I'd love to help you create 4 prints with different styles themed around New Orleans Jazz Music! This is a perfect project for visual design. Let me clarify a few details to ensure the prints match your vision: 1. **What size/format do you prefer for these prints?** (e.g., square, portrait, landsca…",
+      "originalPrompt": "Create 4 prints with different styles, a brighter tone, themed around New Orleans Jazz Music Element Decorative Print . You can freely develop the copy on the prints or leave them without any copy.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/new-orleans-jazz-prints-4-artistic-styles",
+      "updatedAt": "2025-11-25T07:10:55.000Z",
+      "result": {
+        "kind": "image",
+        "title": "New Orleans Jazz Prints - 4 Artistic Styles",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054570598_1000_N4eJx.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054570598_1000_N4eJx.png",
+            "title": "New Orleans Jazz Prints - 4 Artistic Styles"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054574963_1000_62aaN.png",
+            "title": "Abstract Expressionist Jazz Print"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054578067_1000_8pzOo.png",
+            "title": "Street Art Jazz Print"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054557273_1000_bUtSo.png",
+            "title": "Minimalist Line Art Jazz Print"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "nyc-street-art-exhibition-prints-4-distinct-styles",
+      "category": "poster-and-flyer",
+      "title": "NYC Street Art Exhibition Prints - 4 Distinct Styles",
+      "summary": "I'll create 4 prints with different styles for the New York Street Art Exhibition Promotion with brighter tones. Let me get started on these creative designs right away!",
+      "originalPrompt": "Create 4 prints with different styles, a brighter tone, themed around New York Street Art Exhibition Promotion . You can freely develop the copy on the prints or leave them without any copy.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/nyc-street-art-exhibition-prints-4-distinct-styles",
+      "updatedAt": "2025-12-23T06:33:28.000Z",
+      "result": {
+        "kind": "image",
+        "title": "NYC Street Art Exhibition Prints - 4 Distinct Styles",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764053915104_1000_hOTyw.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764053915104_1000_hOTyw.png",
+            "title": "NYC Street Art Exhibition Prints - 4 Distinct Styles"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764053920507_1000_nhAld.png",
+            "title": "Print 1: Bold Graffiti Typography"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764053931321_1000_rcBi4.png",
+            "title": "Print 3: Urban Collage Layers"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764053967385_1000_EanWG.png",
+            "title": "Print 4: Geometric Street Art"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "nyfw-collection-launch-posters-updated-to-2026",
+      "category": "poster-and-flyer",
+      "title": "NYFW Collection Launch Posters - Updated to 2026",
+      "summary": "I'll create 4 posters with different styles for the New York Fashion Week new collection launch preview. Each will feature a brighter tone with realistic photography style and unique design approaches.",
+      "originalPrompt": "Create 4 Posters with different styles, a brighter tone, Realistic photography style, themed around Preview of New Collection Launch at New York Fashion Week . You can freely develop the copy on the Posters.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/nyfw-collection-launch-posters-updated-to-2026",
+      "updatedAt": "2025-12-23T06:33:03.000Z",
+      "result": {
+        "kind": "image",
+        "title": "NYFW Collection Launch Posters - Updated to 2026",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055589805_1000_2izlO.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055589805_1000_2izlO.png",
+            "title": "NYFW Collection Launch Posters - Updated to 2026"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055592618_1000_xKPeu.png",
+            "title": "NYFW Poster 1 - Urban Energy (2026)"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055592001_1000_EUwE7.png",
+            "title": "NYFW Poster 3 - Runway Moment (2026)"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055592246_1000_Uh1wW.png",
+            "title": "NYFW Poster 4 - Artisan Detail (2026)"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "organic-produce-launch-prints-4-styles",
+      "category": "poster-and-flyer",
+      "title": "Organic Produce Launch Prints - 4 Styles",
+      "summary": "I'd love to help you create 4 prints with different styles for a Grocery Store New Product Launch! Before I start designing, let me clarify a few details to ensure the prints perfectly match your vision: 1. **What type of grocery products are being launched?** (e.g., organic produce, snacks, bevera…",
+      "originalPrompt": "Create 4 prints with different styles, a brighter tone, themed around Grocery Store New Product Launch . You can freely develop the copy on the prints or leave them without any copy.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/organic-produce-launch-prints-4-styles",
+      "updatedAt": "2025-11-25T07:01:20.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Organic Produce Launch Prints - 4 Styles",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054014658_1000_TA2bD.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054014658_1000_TA2bD.png",
+            "title": "Organic Produce Launch Prints - 4 Styles"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054012757_1000_LgyZI.png",
+            "title": "Vibrant Photography-based Organic Print"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054003035_1000_AajhS.png",
+            "title": "Geometric Modern Organic Print"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "pop-bar-football-event-posters-complete-campaign",
+      "category": "poster-and-flyer",
+      "title": "Pop Bar Football Event Posters - Complete Campaign",
+      "summary": "I'll create 4 different style posters for Pop Bar's Football Game Event with brighter tones and realistic photography style. Let me get started on these designs right away.",
+      "originalPrompt": "Create 4 Posters with different styles, a brighter tone, Realistic photography style, themed around Pop Bar's Football Game Event . You can freely develop the copy on the Posters.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/pop-bar-football-event-posters-complete-campaign",
+      "updatedAt": "2025-11-25T07:39:53.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Pop Bar Football Event Posters - Complete Campaign",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764056275663_1000_u6Uot.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764056275663_1000_u6Uot.png",
+            "title": "Pop Bar Football Event Posters - Complete Campaign"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764056280252_1000_HnwAQ.png",
+            "title": "Pop Bar Football Event - Social Gathering Poster"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764056279974_1000_QNdpO.png",
+            "title": "Pop Bar Football Event - Drinks & Snacks Poster"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764056293495_1000_ieCHP.png",
+            "title": "Pop Bar Football Event - Victory Celebration Poster"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "route-66-vintage-americana-posters-retro-road-trip-series",
+      "category": "poster-and-flyer",
+      "title": "Route 66 Vintage Americana Posters - Retro Road Trip Series",
+      "summary": "I'll create 4 posters with different styles for your Route 66 retro road trip promotion. Let me report this task and start designing these posters with bright tones and realistic photography style.",
+      "originalPrompt": "Create 4 Posters with different styles, a brighter tone, Realistic photography style, themed around Promotion of Retro Road Trip on Route 66 . You can freely develop the copy on the Posters.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/route-66-vintage-americana-posters-retro-road-trip-series",
+      "updatedAt": "2025-11-25T07:26:38.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Route 66 Vintage Americana Posters - Retro Road Trip Series",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055464196_1000_xr74g.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055464196_1000_xr74g.png",
+            "title": "Route 66 Vintage Americana Posters - Retro Road Trip Series"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055503701_1000_foscv.png",
+            "title": "Route 66 Vintage Americana Poster - Dynamic Profile"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055470532_1000_d34rd.png",
+            "title": "Route 66 Vintage Americana Poster - Environmental Wide"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055468032_1000_5sFKU.png",
+            "title": "Route 66 Vintage Americana Poster - Sunset Silhouette"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "summer-sounds-fest-2027-poster-festival-design-collection",
+      "category": "poster-and-flyer",
+      "title": "Summer Sounds Fest 2027 Poster - Festival Design Collection",
+      "summary": "I'll help you create a summer festival poster with this content. This is a perfect job for our design specialist who can create a high-quality, visually appealing poster that captures the vibrant festival atmosphere.",
+      "originalPrompt": "create a summer festival poster using this content. SUMNMER SOUNDS FEST\n(Perth, WA)\nSUMMER SOUNDS FEST 2027\nPerth's Ultimate Summer Music Festival\nJanuary 1-3, 2027 • Langley Park, Perth WA\n3 Days. 4 Stages . 40+ Artists • Beachfront Vibes\nHEADLINERS:\nTame Impala\nFlume\nFisher\nThe Kid LAROI\nPeking Duk\nVera Blue\nTickets:\nWeekend Pass: $300\nSingle Day: $125\nVIP Camping Package: $550\nRegular Camping Pass: $300\nCAMP ON SITE . SUNSET STAGE · SILENT DISCO.FOOD TRUCK VILLAGE.\nBEACH BAR\nGet tickets now before prices rise!\nwww.summersoundsfest.com",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/summer-sounds-fest-2027-poster-festival-design-collection",
+      "updatedAt": "2025-12-17T08:51:14.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Summer Sounds Fest 2027 Poster - Festival Design Collection",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961407402_1000_rPQXn.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961407402_1000_rPQXn.png",
+            "title": "Summer Sounds Fest 2027 Poster - Festival Design Collection"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961410952_1000_JTdGa.png",
+            "title": "Summer Sounds Fest - Sunset Gradient Vibes"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961408295_1000_uQDFB.png",
+            "title": "Summer Sounds Fest - Retro Beach Wave"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961407826_1000_PcVXv.png",
+            "title": "Summer Sounds Fest - Tropical Maximalist"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "beach-beauty-clean-background",
+      "category": "image-editor",
+      "title": "Beach Beauty Clean Background",
+      "summary": "¡Listo! He eliminado a los transeúntes y los escombros del fondo. Ahora la imagen muestra solo a la mujer en la playa con un fondo limpio y despejado, conservando el hermoso paisaje del océano y la arena dorada. 🏖️✨",
+      "originalPrompt": "Eliminar a los transeúntes y escombros en el fondo, conservar solo las bellezas completas y dejar la playa limpia en el Fondo",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/beach-beauty-clean-background",
+      "updatedAt": "2025-12-09T07:54:32.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Beach Beauty Clean Background",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765266855278_1000_MJL5V.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765266855278_1000_MJL5V.png",
+            "title": "Beach Beauty Clean Background"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "beach-sunset-without-watermark",
+      "category": "image-editor",
+      "title": "Beach Sunset Without Watermark",
+      "summary": "I'll help you remove the watermarks from the image. Let me first read the image to see what we're working with.",
+      "originalPrompt": "Remove watermarks from images",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/beach-sunset-without-watermark",
+      "updatedAt": "2025-12-09T11:55:00.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Beach Sunset Without Watermark",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765281257670_1000_cUEDd.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765281257670_1000_cUEDd.png",
+            "title": "Beach Sunset Without Watermark"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "couple-bedroom-photo",
+      "category": "image-editor",
+      "title": "Couple Bedroom Photo",
+      "summary": "I'll help you read the image first and then add the handsome guy as you described.",
+      "originalPrompt": "Add a tall young handsome guy with bare upper body and eight pack abs to the left of the girl. The handsome guy hugs the girl's shoulder and looks affectionately at her, but she doesn't move",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/couple-bedroom-photo",
+      "updatedAt": "2025-12-09T12:31:31.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Couple Bedroom Photo",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282426262_1000_hvzBu.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282426262_1000_hvzBu.png",
+            "title": "Couple Bedroom Photo"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "edited-photo",
+      "category": "image-editor",
+      "title": "Edited Photo",
+      "summary": "I'll help you remove the man on the left from the image. Let me first read the image to see what we're working with.",
+      "originalPrompt": "Remove the man on the left, don't change anything else",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/edited-photo",
+      "updatedAt": "2025-12-09T09:19:31.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Edited Photo",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271936489_1000_yQObA.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271936489_1000_yQObA.png",
+            "title": "Edited Photo"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "grand-finals-opening-poster",
+      "category": "image-editor",
+      "title": "Grand Finals Opening Poster",
+      "summary": "I'll help you modify the image with the requested text elements. Let me first read the uploaded image to understand its content.",
+      "originalPrompt": "Modify the image by adding a large white title \"GRAND FINALS OPENING\" and a small font time of \"9.2.2026\" above the image\nAdd the Chinese subtitle \"FIRST WHISTLE. FULL THOTTTLE.\" below the image\nImage ratio 4:5",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/grand-finals-opening-poster",
+      "updatedAt": "2025-12-09T08:41:41.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Grand Finals Opening Poster",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765269358113_1000_jz2n9.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765269358113_1000_jz2n9.png",
+            "title": "Grand Finals Opening Poster"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "hiker-on-snowy-peak",
+      "category": "image-editor",
+      "title": "Hiker on Snowy Peak",
+      "summary": "¡Listo! He cambiado el fondo de tu imagen. Ahora el excursionista se encuentra en la cima de una montaña nevada, con un impresionante paisaje de picos nevados y glaciares a su alrededor. La escena mantiene al personaje con su mochila y vestimenta original, pero ahora está parado en la cumbre de la…",
+      "originalPrompt": "Cambia el Fondo por una montaña nevada y los personajes se paran en la cima de la montaña",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/hiker-on-snowy-peak",
+      "updatedAt": "2025-12-09T08:30:20.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Hiker on Snowy Peak",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765268744073_1000_hH5zP.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765268744073_1000_hH5zP.png",
+            "title": "Hiker on Snowy Peak"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "kitten-raising-paw",
+      "category": "image-editor",
+      "title": "Kitten Raising Paw",
+      "summary": "I'll help you make the kitten sit up. Let me first read the uploaded image to see what we're working with.",
+      "originalPrompt": "Make the kitten sit up",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/kitten-raising-paw",
+      "updatedAt": "2025-12-09T08:54:23.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Kitten Raising Paw",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765270361955_1000_9pYkn.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765270361955_1000_9pYkn.png",
+            "title": "Kitten Raising Paw"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "manicura-rosa-con-diamantes-y-lazos",
+      "category": "image-editor",
+      "title": "Manicura rosa con diamantes y lazos",
+      "summary": "¡Listo! He modificado la imagen cambiando la manicura de la mujer por una exagerada manicura rosa con diamantes y lazos decorativos, manteniendo el resto de la imagen igual (su cabello, pose y el fondo rosa vibrante). La nueva manicura tiene un estilo glamuroso y ultra-femenino con detalles brillan…",
+      "originalPrompt": "Cambie a la mujer por una exagerada manicura rosa con diamantes y lazos en la manicura, el resto no cambie",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/manicura-rosa-con-diamantes-y-lazos",
+      "updatedAt": "2025-12-09T09:20:14.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Manicura rosa con diamantes y lazos",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271876566_1000_v2APx.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271876566_1000_v2APx.png",
+            "title": "Manicura rosa con diamantes y lazos"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "modified-combat-photo",
+      "category": "image-editor",
+      "title": "Modified Combat Photo",
+      "summary": "He modificado la foto según tus indicaciones. El hombre ahora lleva un uniforme de combate militar y un casco de combate, y el fondo ha sido cambiado a un campo de batalla con explosiones. Los demás elementos de la composición se han mantenido igual. ¿Te gustaría hacer algún ajuste adicional a la i…",
+      "originalPrompt": "Modificar la foto, cambiar a los hombres por trajes y sombreros de combate, cambiar el Fondo por el campo de batalla donde ocurrió la explosión, otros no cambian",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/modified-combat-photo",
+      "updatedAt": "2025-12-09T11:14:52.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Modified Combat Photo",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765278684644_1000_Ge8Jd.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765278684644_1000_Ge8Jd.png",
+            "title": "Modified Combat Photo"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "modified-poster",
+      "category": "image-editor",
+      "title": "Modified Poster",
+      "summary": "I'll read the image first to understand what needs to be modified.",
+      "originalPrompt": "Change GUNS to LOVE and change the title color to white",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/modified-poster",
+      "updatedAt": "2025-12-09T12:49:49.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Modified Poster",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765284563780_1000_ryUHY.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765284563780_1000_ryUHY.png",
+            "title": "Modified Poster"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "nina-con-cabeza-de-conejo",
+      "category": "image-editor",
+      "title": "Niña con cabeza de conejo",
+      "summary": "¡Listo! He reemplazado la cabeza de la niña por una linda cabeza de conejo blanco con orejas rosadas y una expresión adorable. El conejo mantiene el mismo estilo encantador y de cuento de hadas de la imagen original. 🐰✨ ¿Te gustaría que hiciera algún ajuste adicional?",
+      "originalPrompt": "Cambia la cabeza de la niña por una linda cabeza de conejo",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/nina-con-cabeza-de-conejo",
+      "updatedAt": "2025-12-09T08:11:13.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Niña con cabeza de conejo",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765267567930_1000_n2LkD.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765267567930_1000_n2LkD.png",
+            "title": "Niña con cabeza de conejo"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "soda-bottle-on-beach",
+      "category": "image-editor",
+      "title": "Soda Bottle on Beach",
+      "summary": "I'll read the image first to see what we're working with.",
+      "originalPrompt": "Turn the background into a soft beach, don't change anything else",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/soda-bottle-on-beach",
+      "updatedAt": "2025-12-09T12:12:54.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Soda Bottle on Beach",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282356468_1000_eI33o.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282356468_1000_eI33o.png",
+            "title": "Soda Bottle on Beach"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "american-campus-stationery-special-offer-4-style-variations",
+      "category": "e-commerce",
+      "title": "American Campus Stationery Special Offer - 4 Style Variations",
+      "summary": "I'd love to help you create 4 e-commerce images with different styles for Special Offer on American Campus-style Stationery Sets with a fashion-forward approach! Before I start creating these for you, I have a couple of quick questions to ensure the designs perfectly match your vision: 1. **What sp…",
+      "originalPrompt": "Create 4 E-commerces with different styles, a brighter tone, themed around Special Offer on American Campus - style Stationery Sets. You can freely develop the copy on the E-commerces or leave them without any copy.About Fashion",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/american-campus-stationery-special-offer-4-style-variations",
+      "updatedAt": "2025-12-03T02:41:09.000Z",
+      "result": {
+        "kind": "image",
+        "title": "American Campus Stationery Special Offer - 4 Style Variations",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729481504_1000_wUrxO.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729481504_1000_wUrxO.png",
+            "title": "American Campus Stationery Special Offer - 4 Style Variations"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729498759_1000_Cg98O.png",
+            "title": "Vibrant Colorful Campus Stationery"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729487294_1000_mxbG7.png",
+            "title": "Elegant Sophisticated Campus Stationery"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729518315_1000_gjjrG.png",
+            "title": "Playful Youthful Campus Stationery"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "american-outdoor-camping-gear-value-sets-e-commerce-showcase",
+      "category": "e-commerce",
+      "title": "American Outdoor Camping Gear Value Sets - E-commerce Showcase",
+      "summary": "I'll create 4 e-commerce images with different styles for American Outdoor Camping Gear Value Sets with brighter tones. Let me get started on this creative task right away!",
+      "originalPrompt": "Create 4 E-commerces with different styles, a brighter tone, themed around American Outdoor Camping Gear Value Sets. You can freely develop the copy on the E-commerces or leave them without any copy.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/american-outdoor-camping-gear-value-sets-e-commerce-showcase",
+      "updatedAt": "2025-12-03T02:32:34.000Z",
+      "result": {
+        "kind": "image",
+        "title": "American Outdoor Camping Gear Value Sets - E-commerce Showcase",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728941190_1000_kyPuU.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728941190_1000_kyPuU.png",
+            "title": "American Outdoor Camping Gear Value Sets - E-commerce Showcase"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728940110_1000_vfAvp.png",
+            "title": "Style 2: Adventure Lifestyle Scene"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728929470_1000_WQvva.png",
+            "title": "Style 3: Patriotic American Theme"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728988663_1000_5TZh1.png",
+            "title": "Style 4: Modern Minimalist Clean"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "artisanal-coffee-e-commerce-collection-bright-and-vibrant-styles",
+      "category": "e-commerce",
+      "title": "Artisanal Coffee E-commerce Collection - Bright & Vibrant Styles",
+      "summary": "I'll create 4 e-commerce images with different styles for \"Artisanal Coffee Crafted with Passion\" with a brighter tone. Let me get started on this creative task right away!",
+      "originalPrompt": "Create 4 E-commerces with different styles, a brighter tone, themed around Artisanal Coffee Crafted with Passion. You can freely develop the copy on the E-commerces or leave them without any copy.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/artisanal-coffee-e-commerce-collection-bright-and-vibrant-styles",
+      "updatedAt": "2025-12-03T02:32:56.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Artisanal Coffee E-commerce Collection - Bright & Vibrant Styles",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728956240_1000_pTz1b.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728956240_1000_pTz1b.png",
+            "title": "Artisanal Coffee E-commerce Collection - Bright & Vibrant Styles"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728970043_1000_XjE3K.png",
+            "title": "Rustic Artisanal Coffee E-commerce Image"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728962531_1000_yrbXK.png",
+            "title": "Vibrant Energetic Coffee E-commerce Image"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728957662_1000_jpNMC.png",
+            "title": "Elegant Premium Coffee E-commerce Image"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "black-friday-electronics-modern-minimalist-variations",
+      "category": "e-commerce",
+      "title": "BLACK FRIDAY Electronics - Modern Minimalist Variations",
+      "summary": "I'd love to help you create 4 BLACK FRIDAY e-commerce images with different styles and brighter tones! To ensure I create exactly what you need, let me clarify a few details: 1. **What products or categories** should these e-commerce images feature? (e.g., electronics, fashion, beauty, general/mixe…",
+      "originalPrompt": "Create 4 E-commerces with different styles, a brighter tone, themed around BLACK FRIDAY. You can freely develop the copy on the E-commerces or leave them without any copy.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/black-friday-electronics-modern-minimalist-variations",
+      "updatedAt": "2025-12-03T02:33:14.000Z",
+      "result": {
+        "kind": "image",
+        "title": "BLACK FRIDAY Electronics - Modern Minimalist Variations",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729081399_1000_3XT4d.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729081399_1000_3XT4d.png",
+            "title": "BLACK FRIDAY Electronics - Modern Minimalist Variations"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729077591_1000_WybcN.png",
+            "title": "Image 2 - Elegant Typography Focus"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729078713_1000_FdmKV.png",
+            "title": "Image 3 - Dynamic Layout"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729080490_1000_dOTU9.png",
+            "title": "Image 4 - Sophisticated Simplicity"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "british-retro-winter-collection-e-commerce-banners",
+      "category": "e-commerce",
+      "title": "British Retro Winter Collection - E-commerce Banners",
+      "summary": "I'll create 4 e-commerce images with different styles for your British Retro-style Winter Collection launch. Let me generate these with varying bright tones and fashion-forward designs.",
+      "originalPrompt": "Create 4 E-commerces with different styles, a brighter tone, themed around Launch of New Winter Collection of British Retro - style Clothing. You can freely develop the copy on the E-commerces or leave them without any copy.About Fashion。",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/british-retro-winter-collection-e-commerce-banners",
+      "updatedAt": "2025-12-03T02:51:50.000Z",
+      "result": {
+        "kind": "image",
+        "title": "British Retro Winter Collection - E-commerce Banners",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764730036359_1000_wazoM.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764730036359_1000_wazoM.png",
+            "title": "British Retro Winter Collection - E-commerce Banners"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764730041801_1000_P1AkL.png",
+            "title": "Vintage Mod - Contemporary Vibrant Palette"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764730043109_1000_6neAt.png",
+            "title": "Pattern Revolution - Cheerful Textures"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764730086924_1000_XQiqo.png",
+            "title": "Fresh Heritage - Lively Modern Presentation"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "diffuseur-dambiance-collection-avec-textes-marketing-francais",
+      "category": "e-commerce",
+      "title": "Diffuseur d'Ambiance - Collection avec Textes Marketing Français",
+      "summary": "Bonjour ! Je comprends parfaitement votre besoin de créer quatre images e-commerce photoréalistes pour un diffuseur d'ambiance intelligent destiné au marché français. Pour créer des visuels parfaitement adaptés à vos besoins, j'aimerais clarifier quelques détails : 1. **Style de maison française**…",
+      "originalPrompt": "Faire quatre images de commerce électronique de style photoréaliste, avec la scène thématique centrée sur ceci :Diffuseur d'ambiance intelligentParfait pour la maison française, crée une atmosphère agréable avec parfum et lumière réglables.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/diffuseur-dambiance-collection-avec-textes-marketing-francais",
+      "updatedAt": "2025-12-05T02:47:45.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Diffuseur d'Ambiance - Collection avec Textes Marketing Français",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764902442473_1000_H6YLD.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764902442473_1000_H6YLD.png",
+            "title": "Diffuseur d'Ambiance - Collection avec Textes Marketing Français"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764902443964_1000_rQym8.png",
+            "title": "Chambre - Cocon de sérénité personnalisé"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764902476714_1000_UAZhB.png",
+            "title": "Bureau - Ambiance qui stimule l'esprit"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764902454567_1000_sWEKV.png",
+            "title": "Salle de Bain - Rituel bien-être quotidien"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "low-sugar-dried-fruits-e-commerce-4-distinct-styles",
+      "category": "e-commerce",
+      "title": "Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles",
+      "summary": "こんにちは!低糖ドライフルーツをテーマに、4つの異なるスタイルで明るいトーンのEコマース用コンテンツを作成させていただきます。 デザインを始める前に、いくつか確認させてください: 1. **商品の具体的な特徴**:特定のドライフルーツの種類(マンゴー、イチジク、ベリー類など)や、強調したい健康効果はありますか? 2. **ターゲット層**:どのような顧客層を想定されていますか?(例:健康志向の女性、フィットネス愛好家、ダイエット中の方など)",
+      "originalPrompt": "「低糖ドライフルーツ」をテーマに、スタイルが異なり明るいトーンの E コマース用コンテンツを 4 つ作成してください。E コマース用コピーは自由に作成していただいて構いません。",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/low-sugar-dried-fruits-e-commerce-4-distinct-styles",
+      "updatedAt": "2025-12-03T03:14:25.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles",
+        "coverUrl": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731517118_1000_lEL6u.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731517118_1000_lEL6u.jpeg",
+            "title": "Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731520766_1000_mIxLb.jpeg",
+            "title": "Vibrant Sporty Style"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731518437_1000_LnnSQ.jpeg",
+            "title": "Natural Organic Style"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731583304_1000_VxOdk.png",
+            "title": "Premium Lifestyle Style"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "pendientes-flamenco-pasion-flamenca",
+      "category": "e-commerce",
+      "title": "Pendientes Flamenco - Pasión Flamenca",
+      "summary": "¡Perfecto! Me encanta la idea de crear imágenes comerciales de pendientes estilo flamenco con lunares rojos. Es una temática muy vibrante y festiva. Para crear las mejores imágenes posibles para ti, necesito conocer algunos detalles más: 1. **¿Qué tipo de uso tendrán estas imágenes?** (redes social…",
+      "originalPrompt": "Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática centrada en esto:Pendientes estilo flamencoPendientes con lunares rojos que reflejan el espíritu festivo del flamenco.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/pendientes-flamenco-pasion-flamenca",
+      "updatedAt": "2025-12-05T03:04:36.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Pendientes Flamenco - Pasión Flamenca",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764903066413_1000_Sw7tP.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764903066413_1000_Sw7tP.png",
+            "title": "Pendientes Flamenco - Pasión Flamenca"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764903044128_1000_kOGsZ.png",
+            "title": "Pendientes Flamenco - Pasión Flamenca 2"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764903055490_1000_AuFWV.png",
+            "title": "Pendientes Flamenco - Pasión Flamenca 3"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764903064596_1000_GnaOK.png",
+            "title": "Pendientes Flamenco - Pasión Flamenca 4"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "oden-family-set-frozen-delivery-ecommerce-banners",
+      "category": "e-commerce",
+      "title": "おでん食材家庭用セット冷凍配送 - ECバナー4スタイル",
+      "summary": "こんにちは!「おでん食材家庭用セット冷凍配送」をテーマに、4つの異なるスタイルで明るいトーンのEコマース用コンテンツを作成させていただきますね。 ご要望を正しく理解するために、いくつか確認させてください: 1. **コンテンツの形式**は何をご希望ですか? - 商品ページ用のバナー画像 - SNS投稿用のビジュアル - 広告用のポスター - その他 2. **4つの異なるスタイル**について、どのようなバリエーションをお考えですか? - 例:和風モダン、ポップ、ナチュラル、高級感など - それとも、デザインはお任せでよろしいですか?",
+      "originalPrompt": "「おでん食材家庭用セット冷凍配送」をテーマに、スタイルが異なり明るいトーンの E コマース用コンテンツを 4 つ作成してください。E コマース用コピーは自由に作成していただいて構いません。",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/oden-family-set-frozen-delivery-ecommerce-banners",
+      "updatedAt": "2025-12-03T03:07:39.000Z",
+      "result": {
+        "kind": "image",
+        "title": "おでん食材家庭用セット冷凍配送 - ECバナー4スタイル",
+        "coverUrl": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731159333_1000_DObsc.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731159333_1000_DObsc.jpeg",
+            "title": "おでん食材家庭用セット冷凍配送 - ECバナー4スタイル"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731156990_1000_GH7G1.jpeg",
+            "title": "ポップ&カラフルスタイル - おでんバナー"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731158482_1000_E7vL7.jpeg",
+            "title": "ナチュラル&温かみスタイル - おでんバナー"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731158766_1000_p37G0.jpeg",
+            "title": "シンプル&洗練スタイル - おでんバナー"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "silk-revival-ecommerce-content-4-styles",
+      "category": "e-commerce",
+      "title": "シルク・リバイバル Eコマースコンテンツ - 4スタイル",
+      "summary": "こんにちは!「シルク・リバイバル、伝統シルク、現代によみがえる」をテーマに、4つの異なるスタイルで明るいトーンのEコマース用コンテンツを作成させていただきますね。 コンテンツ作成を始める前に、いくつか確認させてください: 1. **商品の種類**:シルク製品の具体的なカテゴリーはありますか?(例:衣類、スカーフ、寝具、アクセサリーなど) 2. **ターゲット層**:主なターゲット顧客層はどなたですか?(例:20-30代女性、高級志向の方、伝統工芸品愛好家など)",
+      "originalPrompt": "「シルク・リバイバル、伝統シルク、現代によみがえる」をテーマに、スタイルが異なり明るいトーンの E コマース用コンテンツを 4 つ作成してください。E コマース用コピーは自由に作成していただいて構いません。",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/silk-revival-ecommerce-content-4-styles",
+      "updatedAt": "2025-12-10T06:04:00.000Z",
+      "result": {
+        "kind": "image",
+        "title": "シルク・リバイバル Eコマースコンテンツ - 4スタイル",
+        "coverUrl": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731012640_1000_iS1ic.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731012640_1000_iS1ic.jpeg",
+            "title": "シルク・リバイバル Eコマースコンテンツ - 4スタイル"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "natural-ingredient-face-cream-ecommerce-product-images",
+      "category": "e-commerce",
+      "title": "天然成分フェイスクリーム - Eコマース商品画像",
+      "summary": "こんにちは!天然成分のスキンケア製品をテーマに、明るいトーンで4つの異なるスタイルのEコマース用コンテンツを作成させていただきますね。 ご要望を確認させてください: 1. **商品の具体的な種類**は何でしょうか?(例:フェイスクリーム、セラム、クレンジング、マスクなど) 2. **ブランド名やロゴ**はございますか?それとも一般的なデザインで進めてよろしいでしょうか?",
+      "originalPrompt": "「天然成分のスキンケア製品の商品画像」をテーマに、スタイルが異なり明るいトーンの E コマース用コンテンツを 4 つ作成してください。E コマース用コピーは自由に作成していただいて構いません。",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/natural-ingredient-face-cream-ecommerce-product-images",
+      "updatedAt": "2025-12-23T06:49:48.000Z",
+      "result": {
+        "kind": "image",
+        "title": "天然成分フェイスクリーム - Eコマース商品画像",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731498008_1000_reA6F.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731498008_1000_reA6F.png",
+            "title": "天然成分フェイスクリーム - Eコマース商品画像"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731483022_1000_AIaK6.png",
+            "title": "ミニマリスト・クリーンビューティー"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731489692_1000_X7s3H.png",
+            "title": "モダン・ラグジュアリー"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731491552_1000_5kA40.png",
+            "title": "ライフスタイル・コンテクスチュアル"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "new-year-lucky-bag-blind-box-promotion-4-styles",
+      "category": "e-commerce",
+      "title": "正月福袋ブラインドボックス超価格プロモーション - 4スタイル",
+      "summary": "こんにちは!「正月福袋ブラインドボックス超価格プロモーション」をテーマに、4つの異なるスタイルで明るいトーンのEコマース用ビジュアルコンテンツを作成させていただきます。 ご要望を確認させてください: 1. **商品の詳細情報**について教えていただけますか? - 福袋の価格帯や割引率 - 含まれる商品カテゴリー(コスメ、ファッション、雑貨など) - ターゲット層(年齢層、性別など) 2. **ブランドやショップの情報**はありますか? - ロゴやブランド名 - ブランドカラーやイメージ",
+      "originalPrompt": "「正月福袋ブラインドボックス超価格プロモーション」をテーマに、スタイルが異なり明るいトーンの E コマース用コンテンツを 4 つ作成してください。E コマース用コピーは自由に作成していただいて構いません。",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/new-year-lucky-bag-blind-box-promotion-4-styles",
+      "updatedAt": "2025-12-10T06:02:07.000Z",
+      "result": {
+        "kind": "image",
+        "title": "正月福袋ブラインドボックス超価格プロモーション - 4スタイル",
+        "coverUrl": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764732195472_1000_kjEoq.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764732195472_1000_kjEoq.jpeg",
+            "title": "正月福袋ブラインドボックス超価格プロモーション - 4スタイル"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764732196193_1000_KhLgZ.jpeg",
+            "title": "和モダンスタイル - 正月福袋プロモーション"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764732194257_1000_svLMG.jpeg",
+            "title": "キュート&ポップスタイル - 正月福袋プロモーション"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "2024-pet-adoption-day-at-greenfield-park",
+      "category": "document",
+      "title": "2024 Pet Adoption Day at Greenfield Park",
+      "summary": "I'll help you create this Pet Adoption Day flyer. Since this is a text-heavy informational flyer with multiple modules and detailed content, I'll hand this over to our specialized agent who excels at creating well-structured, information-rich visual layouts.",
+      "originalPrompt": "Design a flyer themed Pet Adoption Day.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🐾 Find Your Furry Soulmate: Pet Adoption Day!\nA Day of Love, Connection, and Forever Homes\nHost: Paws & Hearts Animal Rescue | Partner: Community Pet Wellness Center\nDate: [Saturday, November 9, 2024] | Time: 10:00 AM – 4:00 PM\nLocation: Greenfield Community Park (234 Oak Street, Maplewood, CA 90210)\nContact: [phone redacted] | [email redacted] | www.pawsandheartsrescue.org/adoptionday\n\n❤️ Why Adopt?\nOpening your home to a rescue pet means saving a life—and gaining a loyal, loving companion! When you adopt, you:\nGive a second chance to animals who were abandoned, neglected, or surrendered\nSkip expensive puppy/kitten mills and support ethical animal care\nReceive a pet that’s already spayed/neutered, vaccinated, and microchipped (100% free!)\nExperience the joy of bonding with a pet who will shower you with unconditional love\nJoin a community of fellow pet parents and receive ongoing support from our rescue team\n[Real-shot photo suggestion: A smiling child hugging a rescue dog in the park.]\n\n🐱🐶 Meet Our Adoptable Pets\nAll our furry friends are healthy, socialized, and ready for their forever homes! We have:\nPet Type\nDetails\nDogs\nPuppies (8 weeks–1 year), young adults (1–3 years), seniors (5+ years) – mixed breeds, Labradors, Chihuahuas, Beagles, and more! All are house-trained (where applicable) and friendly with kids/pets.\nCats\nKittens (10 weeks–1 year), adult cats (1–5 years), senior cats (6+ years) – domestic shorthairs, Persians, Siamese mixes, and tabbies. Litter-trained and socialized.\nSpecial Friends\nA few rabbits, guinea pigs, and birds available (ask our volunteers for details!)\n\n[Real-shot photo suggestion: A row of adoptable cats in cozy crates, looking at the camera.]\n\n📋 Adoption Process (Simple & Stress-Free!)\nMeet & Greet (15 mins): Spend time with your potential pet in our interaction area—see if you’re a perfect match!\nApplication (10 mins): Fill out a short, friendly form (no complicated questions!). We’ll ask about your home, lifestyle, and experience with pets.\nInterview (5–10 mins): Chat with a volunteer to ensure the pet’s needs align with your home (we want the best for everyone!).\nApproval (Same Day!): Most applications are approved on the spot—we don’t have long waiting lists.\nTake Home Your New Friend: Sign the adoption agreement (no adoption fee—donations are welcome!) and receive a welcome kit.\n[Real-shot photo suggestion: Volunteer helping a family fill out an adoption application with a puppy on their lap.]\n\n🎯 Adoption Requirements (For Their Safety & Happiness)\nBe 18 years or older (minors must be accompanied by a parent/guardian)\nHave a stable home (own or rent—renters need permission from landlords)\nAgree to provide regular veterinary care, food, shelter, and love\nPromise never to abandon, surrender, or rehome the pet without contacting us first\nHave the time and resources to care for a pet (e.g., walks for dogs, playtime for cats)\nNote: We do not discriminate based on living situation, family size, or experience—we just want responsible, loving homes!\n\n✨ What You’ll Receive (Free Welcome Kit!)\nEvery adopter gets a 礼包 to help their new pet settle in:\nSpay/neuter certificate and vaccination records\nMicrochip registration (lifetime ID for your pet)\n1-month supply of pet food (brand tailored to your pet’s age/needs)\nCollar, leash (for dogs), or carrier (for cats)\nPet wellness coupon (free first check-up at Community Pet Wellness Center)\nTraining guide and behavior tips from our experts\n[Real-shot photo suggestion: A display of welcome kits with pet food, collars, and guides.]\n\n🎉 Event Highlights (Fun for the Whole Family!)\nPet costume contest (12:00 PM) – Prizes for “Cutest,” “Funniest,” and “Most Creative”!\nFree pet photo booth (11:00 AM – 3:00 PM) – Capture memories with your new furry friend\nKids’ craft station (make DIY pet toys) – Free for children 12 and under\nPet wellness checks (10:00 AM – 3:00 PM) – Free exams for adoptable pets (and advice for your current pets!)\nFood trucks and refreshments – Delicious snacks for humans (proceeds support our rescue!)\n[Real-shot photo suggestion: A family posing with their newly adopted dog at the photo booth.]\n\n❓ Frequently Asked Questions\nQ: Is there an adoption fee?\nA: No! All adoptions are free—we rely on donations and sponsorships to cover vet costs. Any donation you choose to give helps us save more animals.\nQ: Can I bring my current pets to meet the adoptable one?\nA: Absolutely! We encourage it—just bring them on a leash (dogs) or in a carrier (cats) to ensure everyone’s safety.\nQ: What if my new pet doesn’t get along with my family/pets?\nA: We offer a 2-week trial period. If it’s not a good fit, bring the pet back, and we’ll help you find a better match—no questions asked.\nQ: Do you have pets with special needs?\nA: Yes! Some of our pets have minor health issues or behavioral needs (e.g., anxiety, blindness). We’ll share all details upfront, and our team will provide support to help you care for them.\nQ: Can I pre-meet a pet before the event?\nA: Yes! Email us with the pet’s name (check our website for profiles) to schedule a private meet-and-greet at our rescue center.\n\n🤝 How to Support Us\nEven if you can’t adopt, you can help:\nDonate: Pet food, toys, blankets, or monetary gifts (drop off at the event or online).\nVolunteer: Help with pet care, event setup, or fostering (we always need foster homes!).\nShare: Tell friends, family, and social media about Adoption Day—you might help a pet find their forever home!\n\n📞 For More Information\nPhone: [phone redacted] (Mon–Fri, 9:00 AM – 5:00 PM)\nEmail: [email redacted]\nWebsite: www.pawsandheartsrescue.org/adoptionday\nSocial Media: @PawsAndHeartsRescue (Facebook/Instagram) – Follow for pet profiles!\n\n🐾 “Home is Where the Paws Are”\n— Paws & Hearts Animal Rescue Team\nAll pets are rescued, rehabilitated, and ready to love—we just need you to open your heart and home!",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/2024-pet-adoption-day-at-greenfield-park",
+      "updatedAt": "2025-12-18T03:04:54.000Z",
+      "result": {
+        "kind": "webpage",
+        "title": "2024 Pet Adoption Day at Greenfield Park",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xgq4x/xgq4x-1766027092671.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xgq4x/xgq4x-1766027092671.jpeg",
+            "title": "2024 Pet Adoption Day at Greenfield Park"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "8k-flyer-design-for-community-health-free-clinic",
+      "category": "document",
+      "title": "8K Flyer Design for Community Health Free Clinic",
+      "summary": "Okay, I will create the Community Health Free Clinic flyer for you. First, I plan to search for the latest information on community health clinic visuals, medical consultation photos, and healthcare facility images to enhance the flyer's professional appearance and authenticity.",
+      "originalPrompt": "Design a flyer themed Community Health Free Clinic.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🏥 Community Health Free Clinic: Care for All, No Cost to You!\nServing [Maplewood & Surrounding Neighborhoods] Since 2018\nAddress: [address redacted]\nContact: [phone redacted] | [email redacted] | www.maplewoodfreeclinic.org\n\n❤️ Our Mission\nWe believe quality healthcare is a right, not a privilege. Our volunteer-driven clinic provides free, confidential medical services to uninsured, underinsured, and low-income residents. No insurance, ID, or citizenship status required—we care for you simply because you need it.\n\n🩺 Services We Offer (100% Free)\nService Category\nDetails\nPrimary Care\nRoutine check-ups, cold/flu treatment, chronic disease management (diabetes, hypertension), vaccinations (flu, COVID-19, MMR, etc.)\nPediatric Care\nWell-child visits, immunizations, minor illness treatment, growth/development screenings (for kids 0–18)\nWomen’s Health\nAnnual exams, prenatal consultations, contraceptive counseling, menstrual health support\nDental Care\nCleanings, cavity fillings, extractions, oral health education (limited slots—pre-registration recommended)\nMental Health\nIndividual counseling, stress/anxiety support, referrals for ongoing care (by licensed therapists)\nAdditional Support\nFree prescriptions (generic medications), lab tests (blood work, urine tests), health education workshops, referrals to specialists\n\n[Real-shot photo suggestion: Friendly doctor consulting with a patient in a bright exam room.]\n\n📅 Operating Hours\nDay\nTime\nServices Available\nMonday\n2:00 PM – 7:00 PM\nPrimary Care, Pediatrics, Lab Tests\nWednesday\n10:00 AM – 5:00 PM\nPrimary Care, Women’s Health, Mental Health\nFriday\n1:00 PM – 6:00 PM\nPrimary Care, Dental Care (by appointment)\nSaturday\n9:00 AM – 1:00 PM\nWalk-in Clinic (Minor Illnesses/Injuries Only)\n\nNote: Dental and mental health services require advance booking. All other services accept walk-ins.\n\n📝 How to Receive Care\nCheck-In (10 mins): Visit the front desk with basic contact information (no ID needed). Let staff know your reason for visit.\nConsultation (20–30 mins): Meet with a volunteer provider (doctor, nurse, or specialist) for evaluation and treatment.\nFollow-Up (As Needed): Receive prescriptions, lab orders, or referrals. Staff will schedule return visits if required.\nResources (Post-Visit): Get free health materials, nutrition tips, or information on community support programs.\n[Real-shot photo suggestion: Front desk staff assisting a patient with check-in.]\n\n🎯 Who Can Visit?\nUninsured or underinsured adults and children\nLow-income residents (household income below 200% of federal poverty level)\nHomeless individuals and families\nImmigrants (regardless of citizenship status)\nAnyone unable to access affordable healthcare\n\n✨ What You Need to Bring\nNothing is required! But feel free to bring:\n• Current medications (bottles or list)\n• Medical records (if available)\n• Eyeglasses (for vision-related concerns)\n• A friend/companion for support (optional)\n\n❓ Frequently Asked Questions\nQ: Is there any cost for services?\nA: No! All medical care, medications, and tests are 100% free. We do not accept payments or insurance.\nQ: Do I need an appointment?\nA: Walk-ins are welcome for primary care and urgent minor issues. Dental, mental health, and pediatric services are better with appointments (call or email to book).\nQ: Are services confidential?\nA: Yes! Your medical information is protected by HIPAA—we never share personal details without your permission.\nQ: Can I get a prescription filled here?\nA: We provide free generic medications on-site for most conditions. For specialized drugs, we offer referrals to low-cost pharmacies.\nQ: Are language services available?\nA: Yes! We have volunteers who speak Spanish, Mandarin, Vietnamese, and Arabic. Request an interpreter at check-in.\n[Real-shot photo suggestion: Volunteer pharmacist handing a patient free medication.]\n\n🤝 How to Support Us\nWe rely on donations and volunteers to serve our community:\nDonate: Give medical supplies, funds, or non-perishable snacks for patients (visit our website to donate online).\nVolunteer: Doctors, nurses, dentists, therapists, and administrative volunteers are always needed.\nSpread the Word: Tell friends, neighbors, or local organizations about our free services!\n\n📞 For More Information\nPhone: [phone redacted] (Mon–Fri, 9:00 AM – 4:00 PM)\nEmail: [email redacted]\nWebsite: www.maplewoodfreeclinic.org\nSocial Media: @MaplewoodFreeClinic (Facebook/Instagram)\n\n🌟 “Healthy Communities Start with Accessible Care”\n— Maplewood Community Health Free Clinic Team\nWe are a 501(c)(3) non-profit organization. All donations are tax-deductible.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/8k-flyer-design-for-community-health-free-clinic",
+      "updatedAt": "2025-12-24T11:59:35.000Z",
+      "result": {
+        "kind": "webpage",
+        "title": "8K Flyer Design for Community Health Free Clinic",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/51805611/19txvi/19txvi-1766577573851.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/overseas/thumbnail/51805611/19txvi/19txvi-1766577573851.jpeg",
+            "title": "8K Flyer Design for Community Health Free Clinic"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "accessibility-dilemmas-in-the-u-s-healthcare-system",
+      "category": "document",
+      "title": "Accessibility Dilemmas in the U.S. Healthcare System",
+      "summary": "I'll start by reading the three uploaded documents to understand the reference materials, then create a comprehensive document on the U.S. healthcare accessibility theme.",
+      "originalPrompt": "Summarize the information from the reference documents and generate a document (doc) on the theme: \"Accessibility Dilemmas in the U.S. Healthcare System: A Study on the Middle Class's Healthcare Burden and Health Insurance Coverage Gaps\". Present the content in a graphical format with a word count of 2,000.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/accessibility-dilemmas-in-the-u-s-healthcare-system",
+      "updatedAt": "2025-12-05T05:54:04.000Z",
+      "result": {
+        "kind": "document",
+        "title": "Accessibility Dilemmas in the U.S. Healthcare System",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/mfdzz/mfdzz-1764914041705.jpeg",
+        "assets": [
+          {
+            "kind": "document",
+            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/bpuWVj3TVqwx9okoBiLQZZTXQf.docx",
+            "title": "Accessibility Dilemmas in the U.S. Healthcare System"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "american-red-cross-hurricane-emergency-response-team-training-manual",
+      "category": "document",
+      "title": "American Red Cross Hurricane Emergency Response Team Training Manual",
+      "summary": "I'll first read the uploaded document to understand its current content and formatting, then help you make it look nicer.",
+      "originalPrompt": "Make the attached document’s formatting look nicer",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/american-red-cross-hurricane-emergency-response-team-training-manual",
+      "updatedAt": "2025-12-05T05:53:50.000Z",
+      "result": {
+        "kind": "document",
+        "title": "American Red Cross Hurricane Emergency Response Team Training Manual",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/mdy75/mdy75-1764914028000.jpeg",
+        "assets": [
+          {
+            "kind": "document",
+            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/qDfJSMJ3n92vAy04s5uYzZjVmp.docx",
+            "title": "American Red Cross Hurricane Emergency Response Team Training Manual"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "community-free-vaccination-sites-complete-guide",
+      "category": "document",
+      "title": "Community Free Vaccination Sites: Complete Guide",
+      "summary": "Okay, I will create this comprehensive Community Free Vaccination Sites flyer for you. First, I plan to search for relevant vaccination site images and the latest community health information to ensure your flyer has high-quality visual elements and accurate context.",
+      "originalPrompt": "Design a flyer themed Guidance on Community Free Vaccination Sites.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🩹 Community Free Vaccination Sites: Complete Guidance\nYour Health, Our Priority – Get Vaccinated Safely & Conveniently!\n\n🌟 What You Need to Know First\nWe’re offering free, no-cost vaccinations for residents of [Your City/Neighborhood] and surrounding areas. This initiative aims to protect our community from preventable diseases, boost immunity, and promote public health for all ages. No insurance, ID, or appointment is required (walk-ins welcome!), but pre-registration is encouraged to save time.\n📍 Vaccination Site Locations & Operating Hours\nSite Name\nAddress\nDays of Operation\nTime\nContact Number\nGreenfield Community Center\n123 Maple Street, Greenfield\nMonday – Friday\n9:00 AM – 6:00 PM\n[phone redacted]\nRivertown Health Clinic\n456 Oak Avenue, Rivertown\nTuesday – Saturday\n10:00 AM – 7:00 PM\n[phone redacted]\nWestside Senior Center\n789 Pine Road, Westside\nWednesday – Sunday\n8:30 AM – 5:00 PM\n[phone redacted]\nDowntown Public Library (Conference Room)\n321 Cedar Lane, Downtown\nSaturday – Monday\n11:00 AM – 4:00 PM\n[phone redacted]\n\nNote: All sites are wheelchair-accessible and provide free parking.\n💉 Vaccines Available (For All Eligible Ages)\nCOVID-19 (Primary Series & Boosters, including updated variants)\nInfluenza (Flu Shot – Seasonal)\nMeasles, Mumps, Rubella (MMR)\nHepatitis A & B\nTetanus, Diphtheria, Pertussis (Tdap)\nPolio\nVaricella (Chickenpox)\nHPV (Human Papillomavirus) – For teens & young adults (9–26 years old)\nPlease ask staff for age-specific eligibility and vaccine details.\n📝 Step-by-Step Vaccination Process\nCheck-In (5–10 mins): Provide basic information (name, age, contact) – no ID required. Pre-register online at [www.yourcommunityhealth.org/vaccine] to skip the line!\nConsultation (10 mins): A healthcare provider will answer your questions, review your health history, and confirm eligibility.\nVaccination (5 mins): Quick, gentle administration by a licensed nurse or pharmacist.\nObservation (15–30 mins): Stay in the designated area to monitor for rare allergic reactions (refreshments provided!).\nFollow-Up (Post-Vaccine): Receive a digital/physical vaccine record card. Staff will share post-vaccine care tips (e.g., managing mild soreness).\n❗ Important Notes for Attendees\nEligibility: Open to all residents (adults, children, seniors) – no citizenship or residency status required.\nFor Minors: Children under 18 must be accompanied by a parent/guardian. Bring a copy of the child’s immunization record (if available).\nHealth Considerations: Inform staff of any allergies, current medications, or recent illnesses (e.g., fever, severe cold) before vaccination.\nAccessibility: Free language interpretation (Spanish, Chinese, Arabic, etc.) is available – request at check-in.\nSafety Measures: All sites follow CDC guidelines (cleaning protocols, optional masking for immunocompromised individuals).\n❓ Frequently Asked Questions (FAQs)\nQ: Do I need to make an appointment?\nA: No – walk-ins are always welcome! Pre-registration (online or by phone) helps reduce wait times.\nQ: Is there any cost involved?\nA: No! All vaccines, consultations, and materials are 100% free. No insurance or payment information is collected.\nQ: Can I get multiple vaccines in one visit?\nA: Yes – healthcare providers can administer eligible vaccines during the same appointment (e.g., flu shot + COVID booster).\nQ: Will I receive proof of vaccination?\nA: Yes – you’ll get a official vaccine record card (digital and physical copies available) for your records.\nQ: What if I feel unwell after vaccination?\nA: Mild side effects (soreness, fatigue, low fever) are normal and usually last 1–2 days. Contact the site or your doctor if symptoms persist or worsen.\n\n📞 For More Information\nOfficial Website: [www.yourcommunityhealth.org/vaccine]\nToll-Free Hotline: [phone redacted] (Mon–Fri, 8:00 AM – 8:00 PM)\nEmail: [email redacted]\n🤝 Stay Protected, Stay Connected\nVaccination is the best way to keep yourself, your family, and our community healthy. Spread the word – bring a friend, neighbor, or family member to get vaccinated together!\n“Healthy Communities Start with Vaccinated Residents”\n— [Your City Health Department / Local Health Organization]",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/community-free-vaccination-sites-complete-guide",
+      "updatedAt": "2025-12-18T02:37:57.000Z",
+      "result": {
+        "kind": "webpage",
+        "title": "Community Free Vaccination Sites: Complete Guide",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xffl4/xffl4-1766025473535.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xffl4/xffl4-1766025473535.jpeg",
+            "title": "Community Free Vaccination Sites: Complete Guide"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "corporate-team-building-activity-guide",
+      "category": "document",
+      "title": "Corporate Team Building Activity Guide",
+      "summary": "I'll first read the uploaded images to understand the content, then create a comprehensive Corporate Team Building Activity Guide for you.",
+      "originalPrompt": "Please generate a Corporate Team Building Activity Guide with the following requirements:\nComprehensive structure: Including Introduction, Value of Team Building, Core Benefits, Planning Process, Activity Types, Evaluation Methods, Post-Activity Follow-up, and Conclusion;\nPractical content: Incorporating specific activity cases, process steps, and venue selection recommendations;\nFormal and professional style, suitable for corporate HR professionals;\nWord count: Approximately 500 words, in Word format.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/corporate-team-building-activity-guide",
+      "updatedAt": "2025-12-05T05:53:43.000Z",
+      "result": {
+        "kind": "document",
+        "title": "Corporate Team Building Activity Guide",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/m64lk/m64lk-1764914020696.jpeg",
+        "assets": [
+          {
+            "kind": "document",
+            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/gWmXbuCXTBQJzLbtv3bjXV33o7.docx",
+            "title": "Corporate Team Building Activity Guide"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "four-leaflets-for-family-adolescent-mental-health",
+      "category": "document",
+      "title": "Four Leaflets for Family Adolescent Mental Health",
+      "summary": "I'll help you create these four family-based adolescent mental health leaflets. Since these are text-heavy informational materials requiring precise layout and typography control, I'll hand this over to our specialized agent for information-rich visual content.",
+      "originalPrompt": "Please help me generate four leaflets on family-based adolescent mental health (please note these are leaflets). The overall layout should be well-spaced, and the background should reflect a healing and positive mental health atmosphere.\n\nThe main title, \"Protecting the Minds of Youth, Building Harmonious Families,\" should be centered at the top, with the italicized subtitle below, \"Using Love as a Bridge to Protect Growth—Families Empowering Adolescent Mental Health.\" One leaflet should be for teenagers.\n\nThe left vertical column should include core information: Target audience (12-18 years old), core purpose (popularizing mental health knowledge, providing methods for family support, and building a collaborative support system involving families, schools, and communities), and organizing body (Adolescent Mental Health Association, Family Education Exchange Center).\n\nThe top left area should present \"Core Understanding\": a brief overview of the current mental health situation among teenagers (15%-20% experience psychological distress, including academic anxiety and social difficulties, which are increasingly affecting younger and more hidden individuals), emphasizing the core role of the family in adolescent mental health (creating a supportive environment, fostering positive communication, and balancing rules with inclusivity).\n\nThe right-hand section is divided into two parts: the upper part is the \"Guide to Identifying Psychological Distress,\" which extracts key warning signs across four dimensions: emotion, behavior, social interaction, and academic performance (such as abnormal mood swings, disrupted sleep patterns, social withdrawal, and a sudden drop in grades, marked \"Be alert if multiple signs persist for more than two weeks\"); the lower part is \"Common Misconceptions in Family Support,\" listing four common misconceptions and correct approaches (such as not equating psychological problems with rebellion, balancing protection and letting go).\n\nThe lower left section is the \"Family Action Guide,\" which focuses on four dimensions: communication, inclusion, empowerment, and boundaries, extracting core methods (equal dialogue and listening, respecting privacy and differences, cultivating emotional management skills, and jointly developing reasonable rules). Each point is paired with a small icon for easy understanding.\n\nThe bottom banner prominently displays \"Local Support Resources\" and initiatives: Emergency Assistance (Mental Health Crisis Hotline 116 123, Medical Assistance 15), and Regular Resources (School Counselors, Hospital Psychology Departments, Non-profit Organizations, and Online Resources). On the right, a family initiative, \"Accompanying with Love, Protecting Youthful Growth with Understanding,\" is displayed in gentle handwriting, with a consultation hotline below (+33-1-XXXX-XXXX, weekdays 9:00-18:00).\n\nThe overall design combines a sense of healing with sophistication, with moderate contrast between text and background and soft details (icons with light shadows and gradient light-colored blocks used for section transitions).",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/four-leaflets-for-family-adolescent-mental-health",
+      "updatedAt": "2026-01-07T07:46:09.029Z",
+      "result": {
+        "kind": "webpage",
+        "title": "Four Leaflets for Family Adolescent Mental Health",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/47834393/fd966dcc-1433-4f65-9764-27df12af24e9-1767771963628.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/overseas/thumbnail/47834393/fd966dcc-1433-4f65-9764-27df12af24e9-1767771963628.jpeg",
+            "title": "Four Leaflets for Family Adolescent Mental Health"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "free-kids-english-lectures-register-now",
+      "category": "document",
+      "title": "Free Kids' English Lectures: Register Now!",
+      "summary": "I'll help you create this detailed flyer for the Children's English Enlightenment public lectures. Since this is a text-heavy, information-dense flyer with multiple modules, tables, and precise content requirements, I'll hand this over to our specialized info flyer agent who can ensure perfect text…",
+      "originalPrompt": "Design a flyer themed Registration Promotion for Public Lectures on Children's English Enlightenment.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🎈 Spark Your Child’s English Journey: Free Public Lectures on Early English Enlightenment\nFor Kids Ages 3–8 & Their Parents | Interactive, Fun & 100% Free\nHost: Little English Explorers Foundation | Partner: Kids’ Language Hub\nContact: [phone redacted] | [email redacted] | www.littleexplorers.org/english-kids\n🌟 Why You Can’t Miss These Lectures\nTired of boring drills that kill your child’s interest in English? Our expert-designed lectures blend play-based learning and scientifically proven strategies to make English a joy, not a chore!\nAttend and you’ll get:\nParent-friendly tools: Turn daily routines (mealtime, bedtime, playtime) into English learning moments—no extra time or money needed!\nHands-on activities: Live demos of songs, rhymes, story games, and crafts that boost listening, speaking, and phonics skills.\nExpert guidance: Q&A sessions with certified ESL teachers (10+ years of early childhood education experience).\nFree resources pack: Printable flashcards, story scripts, game templates, and a parent handbook—valued at $49!\nExclusive community access: Join our private parent group for ongoing tips, resource sharing, and support.\n[Real-shot photo spot: Kids and parents laughing while playing an English vocabulary game together.]\n📅 Lecture Schedule & Topics\nDate\tTime\tTarget Age Group\tLecture Topic\tLocation\tKey Takeaways\nSaturday, [Dec 14]\t10:00 AM – 11:30 AM\t3–5 Years\tSongs & Rhymes: Build English Ears Easily\tSunflower Community Center (123 Maple Street)\t5 catchy songs to teach letters/numbers; fingerplays for daily vocabulary; bath-time learning hacks\nSaturday, [Dec 21]\t2:00 PM – 3:30 PM\t4–6 Years\tStorytime Magic: Ignite Reading Interest\tCity Library Meeting Room (456 Oak Avenue)\tHow to read English picture books with expression; role-play activities; free age-appropriate e-book list\nSunday, [Dec 28]\t10:00 AM – 11:30 AM\t5–8 Years\tPlayful Conversations: Get Kids Speaking Confidently\tLittle Explorers Learning Hub (789 Pine Road)\t10+ daily dialogue prompts; game-based speaking practice; tips to encourage shy kids to talk\n🎯 Who Should Come?\nParents/guardians of children aged 3–8 who want to introduce English in a fun, low-pressure way\nPreschool teachers and caregivers looking for classroom-ready English activities\nFamilies new to English education, or those tired of ineffective learning methods\n🎁 Free Gift for All Registrants!\nEvery child gets a English Starter Kit on the day, including:\nWaterproof vocab flashcards (animals, colors, food)\nDIY English game templates (bingo, matching)\nSticker chart to track learning progress\nA free English picture book (limited to first 50 families!)\n[Real-shot photo spot: A child showing off their English Starter Kit with a big smile.]\n📲 How to Register (Limited Slots!)\nSpots fill fast—register now to secure your place!\nOnline Registration (Fastest!): Visit [www.littleexplorers.org/english-kids] and fill in the simple form (name, contact, child’s age, preferred lecture date).\nPhone Registration: Call [phone redacted] (Mon–Fri, 9:00 AM – 5:00 PM).\nOn-Site Registration: Drop by Little Explorers Learning Hub during business hours.\n✅ Bonus: Register for 2+ lectures and get a free 30-day access to our online English mini-course!✅ Confirmation: A digital ticket will be sent to your email/SMS within 24 hours.\n📌 Important Notes\nEach child must be accompanied by 1–2 adults (to join parent-child activities).\nNo English background required for parents—we provide simple, easy-to-follow guidance.\nLight snacks and water will be provided for kids (allergen-free options available).\nTranslation services (Mandarin, Spanish) are available—request when registering.\nAll lectures are free—no hidden fees, no mandatory purchases.\n❓ Frequently Asked Questions\nQ: My child has zero English experience—can they join?A: Absolutely! The lectures are designed for beginners. We focus on building interest first, not perfection.\nQ: What if I can’t attend after registering?A: Please inform us 24 hours in advance via phone/email, so we can offer your spot to another family.\nQ: Will there be follow-up support after the lectures?A: Yes! All registrants get access to our private parent group with weekly tips and live Q&A sessions.\n📣 Spread the Word!\nKnow other parents who want to make English fun for their kids? Share this flyer or tag them on social media with #LittleEnglishExplorers. Learning together is more fun!\n“Every Child Can Fall in Love with English—They Just Need the Right Start!”\n— Little English Explorers Foundation Team",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/free-kids-english-lectures-register-now",
+      "updatedAt": "2025-12-18T03:14:07.000Z",
+      "result": {
+        "kind": "webpage",
+        "title": "Free Kids' English Lectures: Register Now!",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh843/xh843-1766027645963.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh843/xh843-1766027645963.jpeg",
+            "title": "Free Kids' English Lectures: Register Now!"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "globallink-annual-technology-summit-invitation",
+      "category": "document",
+      "title": "GlobalLink Annual Technology Summit Invitation",
+      "summary": "I'll read the uploaded document and image first to understand the content and then create a formal invitation letter for you.",
+      "originalPrompt": "Please generate a formal invitation letter in Word format. The content is provided in the attached file, and please incorporate the images I supplied.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/globallink-annual-technology-summit-invitation",
+      "updatedAt": "2025-12-05T05:53:36.000Z",
+      "result": {
+        "kind": "document",
+        "title": "GlobalLink Annual Technology Summit Invitation",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/m4j9c/m4j9c-1764914015419.jpeg",
+        "assets": [
+          {
+            "kind": "document",
+            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/7VVsNDQkhPAbCk21o7zd5F0vLJ.docx",
+            "title": "GlobalLink Annual Technology Summit Invitation"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "maplewood-open-house-2024-discover-childs-future",
+      "category": "document",
+      "title": "Maplewood Open House 2024: Discover Child's Future",
+      "summary": "Okay, I will create the School Open House flyer for you. First, I plan to search for the latest information on school open house events and high-quality real-shot photos of school campuses, classrooms, and educational facilities to enhance the visual appeal of your flyer.",
+      "originalPrompt": "Design a flyer themed School Open House.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🎉 [School Name] Open House: Discover Your Child’s Future!\nDate: [Saturday, October 19, 2024] | Time: 9:00 AM – 3:00 PM\nAddress: [address redacted] Contact: [phone redacted] | [email redacted]\n\n🌟 Why Attend Our Open House?\nJoin us for a day of exploration, connection, and discovery! This is your chance to:\nTour our state-of-the-art classrooms, science labs, art studios, and sports facilities\nMeet dedicated teachers, administrators, and current students/families\nLearn about our rigorous academic programs, extracurricular activities, and college prep support\nExperience interactive demos (STEM workshops, music performances, language classes)\nGet answers to all your questions about admissions, tuition assistance, and student life\nEnjoy free refreshments and fun activities for kids (crafts, campus scavenger hunt, playground time)\n\n🎯 Who Should Come?\nProspective students (Preschool – 12th Grade) and their parents/guardians\nFamilies considering a school transfer\nCommunity members interested in our programs\nAlumni and current families (bring a friend!)\n\n✨ What Makes [School Name] Unique?\nStudent-Centered Learning: Small class sizes (1:12 teacher-student ratio) and personalized lesson plans\nTop-Tier Faculty: 95% of teachers hold advanced degrees in their fields\nHolistic Development: Balance of academics, athletics, arts, and character education\nSafe & Inclusive Community: Anti-bullying policies, diverse student body, and mental health support\nProven Results: 98% college acceptance rate for graduates (top 50 universities nationwide)\nTuition Assistance: Scholarships, grants, and payment plans available for eligible families\n\n📲 How to Register (Optional but Recommended)\nSave time on the day by pre-registering!\nOnline: Visit [www.maplewoodacademy.edu/openhouse]\nPhone: Call [phone redacted] (Mon-Fri, 8:00 AM – 4:00 PM)\nEmail: Send your name, number of attendees, and grade level interest to [email redacted]\nWalk-ins are always welcome – no registration required!\n\n📌 Important Notes\nFree parking available on campus (enter via Oak Street entrance)\nAccessible facilities for strollers, wheelchairs, and mobility aids\nTranslation services available (Spanish, Mandarin, French) – request at registration\nDress comfortably (campus involves walking outdoors!)\n\n📣 Spread the Word!\nTag a friend or family member who might be interested – share this event on social media with #MaplewoodOpenHouse2024!\nWe can’t wait to welcome you to our campus and show you how [School Name] inspires students to grow, learn, and thrive.\nYour child’s journey to excellence starts here!\n“Education is not the filling of a pail, but the lighting of a fire.” – William Butler Yeats\n— [Maplewood International Academy]",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/maplewood-open-house-2024-discover-childs-future",
+      "updatedAt": "2025-12-18T03:12:34.000Z",
+      "result": {
+        "kind": "webpage",
+        "title": "Maplewood Open House 2024: Discover Child's Future",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh1a4/xh1a4-1766027552078.jpeg",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh1a4/xh1a4-1766027552078.jpeg",
+            "title": "Maplewood Open House 2024: Discover Child's Future"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "stanford-university-class-of-2010-15th-reunion-planning-proposal",
+      "category": "document",
+      "title": "Stanford University Class of 2010: 15th Reunion Planning Proposal",
+      "summary": "I'll read the reference document first to understand the content and structure, then help you create the Stanford University Class of 2010: 15th Reunion Planning Proposal.",
+      "originalPrompt": "Write a document on the theme: \"Stanford University Class of 2010: 15th Reunion Planning Proposal\", using the reference document",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/stanford-university-class-of-2010-15th-reunion-planning-proposal",
+      "updatedAt": "2025-12-05T05:53:57.000Z",
+      "result": {
+        "kind": "document",
+        "title": "Stanford University Class of 2010: 15th Reunion Planning Proposal",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/mey4z/mey4z-1764914034647.jpeg",
+        "assets": [
+          {
+            "kind": "document",
+            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/0mueT86FtxJe0Vt06ztr5YcF5k.docx",
+            "title": "Stanford University Class of 2010: 15th Reunion Planning Proposal"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "student-organization-recruitment-plan",
+      "category": "document",
+      "title": "Student Organization Recruitment Plan",
+      "summary": "I'll first read the uploaded document to understand the context, then help you create a comprehensive student organization recruitment plan document.",
+      "originalPrompt": "Generate a student organization recruitment plan document including the following sections: Recruitment Objectives, Recruitment Timeline & Schedule, Recruitment Activities, Membership Benefits, Recruitment Strategies, Budget Allocation, Evaluation & Follow-up, and Contact Information.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/student-organization-recruitment-plan",
+      "updatedAt": "2025-12-05T05:53:39.000Z",
+      "result": {
+        "kind": "document",
+        "title": "Student Organization Recruitment Plan",
+        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/m4svh/m4svh-1764914018745.jpeg",
+        "assets": [
+          {
+            "kind": "document",
+            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/GeTAdaqIm9cxHi3CfqR4PUJ7Lh.docx",
+            "title": "Student Organization Recruitment Plan"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ai-development-direction-plan-2026",
+      "category": "slides",
+      "title": "AI Development Direction Plan 2026",
+      "summary": "I'll help you create a professional slide deck for your media company's AI development plan for 2026. Let me first gather some current information about AI trends and applications in the media industry to ensure the content is practical and forward-looking.",
+      "originalPrompt": "We are an ordinary media company. Please generate a slideshow for a feasible AI development direction plan for 2026.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/ai-development-direction-plan-2026",
+      "updatedAt": "2026-01-30T07:55:39.043Z",
+      "result": {
+        "kind": "slides",
+        "title": "AI Development Direction Plan 2026",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685016955_47834393_yj1DV.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685016955_47834393_yj1DV.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685034489_47834393_afdUf.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685133063_47834393_Tu8Rv.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685074819_47834393_pDGiE.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685181744_47834393_iJQTj.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685035954_47834393_6CWqd.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685408642_47834393_is6a5.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685376197_47834393_uEWvf.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685381229_47834393_ax6xD.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685358587_47834393_v9OsG.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685380814_47834393_1fgLr.png",
+            "title": "AI Development Direction Plan 2026"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685494990_47834393_91FZq.png",
+            "title": "AI Development Direction Plan 2026"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "cosmic-neighborhood-101-a-journey-through-our-solar-system",
+      "category": "slides",
+      "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System",
+      "summary": "I'll create a professional and engaging popular science PPT about the solar system for students and beginners. Let me start by designing the content structure and gathering materials.",
+      "originalPrompt": "Please create an 8-10 page popular science PPT about the \"solar system\". Suitable for students and beginners in popular science scenarios.\nHighlight key points in bold, avoid complex and obscure professional terms, and use plain and understandable language. The copy should only retain the core key points and avoid excessive explanatory information to ensure that the audience can quickly grasp the core information on each page. It should be concise and clear, combining text and images. The entire PPT has a uniform style, clear logic, prominent key points, and bright visual effects, which are in line with the cognitive level of students and beginners.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/cosmic-neighborhood-101-a-journey-through-our-solar-system",
+      "updatedAt": "2026-01-29T12:05:31.991Z",
+      "result": {
+        "kind": "slides",
+        "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687943110_51957609_o3v2h.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687943110_51957609_o3v2h.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688104322_51957609_vgnhe.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688099205_51957609_aHNke.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687927264_51957609_7MHHF.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687945647_51957609_wxjXV.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687827325_51957609_ZIyda.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687946864_51957609_dQFS2.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688237980_51957609_1LIgq.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688234033_51957609_90TwC.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688240028_51957609_yNusE.png",
+            "title": "Cosmic Neighborhood 101: A Journey Through Our Solar System"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "exodus-the-horizon-protocol",
+      "category": "slides",
+      "title": "Exodus: The Horizon Protocol",
+      "summary": "I'll help you create an epic space adventure comic presentation about humanity's search for a new home! Let me start by designing a compelling narrative structure with dramatic scenes and character dialogue.",
+      "originalPrompt": "Create a space adventure comic about humanity searching for a new livable home in outer space to save mankind.Adopt a sleek modern futuristic comic style (contemporary western comic + clean sci-fi anime hybrid), high detail, dynamic lighting, vibrant futuristic colors, absolutely no retro/old outdated style.Each PPT slide shows ONE single complete full scene, no multi-panel grid, no main titles.Only add character lines as text content.Output in standard PPT format.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/exodus-the-horizon-protocol",
+      "updatedAt": "2026-03-05T11:58:59.706Z",
+      "result": {
+        "kind": "slides",
+        "title": "Exodus: The Horizon Protocol",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770793432831_51957609_z5vlj.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770793432831_51957609_z5vlj.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770794223034_51957609_mvrk5.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770794210759_51957609_174zV.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770794254382_51957609_2fE2M.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770794442115_51957609_VvTee.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770794204532_51957609_f3izK.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770794683772_51957609_pbyyp.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770794201749_51957609_sZM76.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770794219415_51957609_VUkXf.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770793978614_51957609_5Mm0g.png",
+            "title": "Exodus: The Horizon Protocol"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770793778397_51957609_MiQAN.png",
+            "title": "Exodus: The Horizon Protocol"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "global-representative-wines-a-journey-through-worlds-premier-wine-regions",
+      "category": "slides",
+      "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions",
+      "summary": "I'll create a professional PowerPoint presentation about global representative wines from different countries. Let me start by gathering comprehensive information about wines from major wine-producing regions around the world.",
+      "originalPrompt": "do me a powerpoint slides with at least 6 pages, which is about global representative wines in different countries. Make sure there are attractive and brief introduction with nice and correct pics on each page.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/global-representative-wines-a-journey-through-worlds-premier-wine-regions",
+      "updatedAt": "2026-01-29T12:17:11.179Z",
+      "result": {
+        "kind": "slides",
+        "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683058274_49068998_l1KAS.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683058274_49068998_l1KAS.png",
+            "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683033701_49068998_9W08n.png",
+            "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683054949_49068998_1kbaP.png",
+            "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683056428_49068998_UqR2o.png",
+            "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683048790_49068998_CazCw.png",
+            "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683181822_49068998_hYzzg.png",
+            "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683186862_49068998_SS8Es.png",
+            "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683173436_49068998_VCKvw.png",
+            "title": "Global Representative Wines: A Journey Through World's Premier Wine Regions"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "kiki-the-fluffy-adventurer",
+      "category": "slides",
+      "title": "KIKI: The Fluffy Adventurer",
+      "summary": "I'll read the uploaded image first to understand your reference material, then help you create this comic.",
+      "originalPrompt": "Please adapt this short story into a comic with an American comic style. Except for the character lines, do not include any other characters (no other characters are allowed). Do not add titles to all pages except the first page. Please maintain the consistency of the character image and present it in the form of slides.\nHere is my story：KIKI is a cute kitty with soft fur.\nOne day, she jumps out the window to explore the yard.\nShe finds a big sunflower, with a little butterfly inside!\nThe butterfly flies away, and KIKI chases it happily.\nSoon, she gets to a small garden with sweet berries.\nA strong wind blows, leaves rustle—KIKI feels a little scared.\nThen she hears her owner’s call, and runs home fast.\nIn her owner’s arms, KIKI thinks: What a great adventure!",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/kiki-the-fluffy-adventurer",
+      "updatedAt": "2026-03-05T11:55:49.557Z",
+      "result": {
+        "kind": "slides",
+        "title": "KIKI: The Fluffy Adventurer",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797976150_51957609_mIPsT.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797976150_51957609_mIPsT.png",
+            "title": "KIKI: The Fluffy Adventurer"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797988186_51957609_8Xggc.png",
+            "title": "KIKI: The Fluffy Adventurer"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797980991_51957609_FHABz.png",
+            "title": "KIKI: The Fluffy Adventurer"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797992273_51957609_NnCXf.png",
+            "title": "KIKI: The Fluffy Adventurer"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797966807_51957609_2JCD3.png",
+            "title": "KIKI: The Fluffy Adventurer"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797986658_51957609_H6GQe.png",
+            "title": "KIKI: The Fluffy Adventurer"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797997635_51957609_Tj80a.png",
+            "title": "KIKI: The Fluffy Adventurer"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798128329_51957609_afDw7.png",
+            "title": "KIKI: The Fluffy Adventurer"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "pophie-the-era-of-organic-ai-companionship",
+      "category": "slides",
+      "title": "Pophie: The Era of Organic AI Companionship",
+      "summary": "I'll help you read the documents and website first, then create the marketing slide deck for you.",
+      "originalPrompt": "Make a product marketing slide deck from this document and website.You must use the documents and website content I provided. The images must be from the website, as that is the robot produced by our company, and I am promoting it.The overall style should be simple and in the pink color scheme.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/pophie-the-era-of-organic-ai-companionship",
+      "updatedAt": "2026-01-29T11:33:58.843Z",
+      "result": {
+        "kind": "slides",
+        "title": "Pophie: The Era of Organic AI Companionship",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685002814_47834393_laQ2m.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685002814_47834393_laQ2m.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684946428_47834393_7DB42.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684916445_47834393_OlSAj.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685218448_47834393_WbX9E.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684932683_47834393_6Raxh.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685399070_47834393_rdMWB.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685695584_47834393_byqBv.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685369642_47834393_fdljz.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685465231_47834393_9fNYv.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685834774_47834393_Bdpo1.png",
+            "title": "Pophie: The Era of Organic AI Companionship"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "the-chameleon-identity-architecture",
+      "category": "slides",
+      "title": "The Chameleon Identity Architecture",
+      "summary": "I'll help you read the image first and then process your request.",
+      "originalPrompt": "Please change the clothes, background and pose of the person in the image, ensure there is no text at all, keep the character consistent, and export the result in PPT format.\n1.Business Elite: A young blonde man in a tailored navy suit holds whiskey in a Manhattan skyscraper lobby.\n2.Athletic: A young blonde man in neon compression wear holds a basketball on a sunlit LA court.\n3.Street Style: A young blonde man in a denim jacket leans on a Brooklyn graffiti wall with a skateboard.\n4.Tech Futurist: A young blonde man in a silver LED jacket interacts with holograms in a Silicon Valley lab.\n5.Cowboy Heritage: A young blonde man in a leather vest holds a lasso on a Texas ranch at golden hour.\n6.Superhero: A young blonde man in a red-gold tactical suit stands heroically on a rain-soaked city rooftop.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/the-chameleon-identity-architecture",
+      "updatedAt": "2026-03-05T11:52:42.410Z",
+      "result": {
+        "kind": "slides",
+        "title": "The Chameleon Identity Architecture",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799950064_51957609_Za2qU.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799950064_51957609_Za2qU.png",
+            "title": "The Chameleon Identity Architecture"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799977631_51957609_K7eMP.png",
+            "title": "The Chameleon Identity Architecture"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799958840_51957609_72ACZ.png",
+            "title": "The Chameleon Identity Architecture"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799940155_51957609_Auiro.png",
+            "title": "The Chameleon Identity Architecture"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799938415_51957609_PloaB.png",
+            "title": "The Chameleon Identity Architecture"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799932460_51957609_yFQde.png",
+            "title": "The Chameleon Identity Architecture"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "the-knights-and-the-naughty-dragon-a-bedtime-tale",
+      "category": "slides",
+      "title": "The Knights and the Naughty Dragon: A Bedtime Tale",
+      "summary": "I'll help you create this bedtime story slide presentation! Let me design a charming, cartoon-style story about the black dragon and the brave knights, perfect for young children.",
+      "originalPrompt": "I want AI to help me create a bedtime story. The story is about a black dragon causing trouble in a city-state, and finally being defeated by a team of knights. It should be picture-dominant with simple text, not too many words, simple plot, cartoon style, and suitable for young children.ppt",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/the-knights-and-the-naughty-dragon-a-bedtime-tale",
+      "updatedAt": "2026-03-05T11:51:26.570Z",
+      "result": {
+        "kind": "slides",
+        "title": "The Knights and the Naughty Dragon: A Bedtime Tale",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807638629_51957609_p9CB0.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807638629_51957609_p9CB0.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807616468_51957609_c9nG7.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807692113_51957609_0oZIR.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807639862_51957609_a99Dv.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807689735_51957609_rEYLx.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807738562_51957609_siAN1.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807688405_51957609_iUwxa.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807723413_51957609_FLelL.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807627739_51957609_SlvjU.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807987689_51957609_HweDf.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807754917_51957609_d2iAU.png",
+            "title": "The Knights and the Naughty Dragon: A Bedtime Tale"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "the-little-prince-a-visual-whisper-journey",
+      "category": "slides",
+      "title": "The Little Prince: A Visual Whisper Journey",
+      "summary": "I'll help you create this beautiful children's picture book-style presentation for The Little Prince! Let me start by designing the structure and gathering the classic scenes from this beloved story.",
+      "originalPrompt": "Create a 12-page children's picture book-style PPT for The Little Prince, designed for the US children's market.The overall style is cartoon hand-drawn, gentle and heartwarming, suitable for young children. Use a soft macaron pastel color scheme.Each page presents one classic scene from The Little Prince, with large illustrations, very simple and short English text, round and lovely fonts, and plenty of white space, just like a warm, easy-to-read American children's picture book.Do not add titles to any pages except the first page. Keep the character design consistent throughout all pages.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/the-little-prince-a-visual-whisper-journey",
+      "updatedAt": "2026-03-05T11:53:30.470Z",
+      "result": {
+        "kind": "slides",
+        "title": "The Little Prince: A Visual Whisper Journey",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798981531_51957609_1A9DP.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798981531_51957609_1A9DP.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798939947_51957609_0t7dq.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798962478_51957609_AARp9.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798955584_51957609_52p9d.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798929678_51957609_lrM4m.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798967059_51957609_A7wgc.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798956753_51957609_PBfyE.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798947686_51957609_MEXuQ.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798965773_51957609_PRoPN.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798934560_51957609_IEbqX.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798956219_51957609_ZzKR9.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798954244_51957609_1EecQ.png",
+            "title": "The Little Prince: A Visual Whisper Journey"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "the-midnight-protocol-a-noir-graphic-narrative",
+      "category": "slides",
+      "title": "The Midnight Protocol: A Noir Graphic Narrative",
+      "summary": "I'll help you create a detective story comic presentation set on a rainy night with the retro comic style you described. Let me start by understanding your needs better and then design the slides for you.",
+      "originalPrompt": "Generate a detective story comic set on a rainy night, retro comic style, cool dark tones, thick black outlines, vintage print texture, suspenseful and eerie atmosphere, each page is an independent complete scene, no multi-panel layout。ppt",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/the-midnight-protocol-a-noir-graphic-narrative",
+      "updatedAt": "2026-03-05T11:56:49.743Z",
+      "result": {
+        "kind": "slides",
+        "title": "The Midnight Protocol: A Noir Graphic Narrative",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770790319501_51957609_07olZ.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770790319501_51957609_07olZ.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770791211606_51957609_dQaqs.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770791078436_51957609_h3Ve4.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770791121429_51957609_xmOzN.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770791180391_51957609_WUOgU.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770791073371_51957609_7xpMe.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770791175745_51957609_XFse7.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770790747898_51957609_fFoeV.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770791069340_51957609_KBfhQ.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770790454522_51957609_3m3k3.png",
+            "title": "The Midnight Protocol: A Noir Graphic Narrative"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "the-trousdale-pinnacle-a-modern-masterpiece",
+      "category": "slides",
+      "title": "The Trousdale Pinnacle: A Modern Masterpiece",
+      "summary": "I'll help you create a professional property presentation for your Beverly Hills listing. Let me first gather some current information about Beverly Hills real estate to make this presentation realistic and compelling.",
+      "originalPrompt": "I'm a real estate agent in Los Angeles and I need a 10 to 13-page ppt to introduce information about a representative property in Beverly Hills to clients. The PPT should include property pictures, floor plans, surrounding facilities, price details, etc., to give customers a more intuitive understanding of the property and improve communication efficiency. However, the copy on each page should not be too much, and only key information should be retained",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/the-trousdale-pinnacle-a-modern-masterpiece",
+      "updatedAt": "2026-01-29T12:24:33.433Z",
+      "result": {
+        "kind": "slides",
+        "title": "The Trousdale Pinnacle: A Modern Masterpiece",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769689451063_51957609_gZtrV.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769689451063_51957609_gZtrV.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687968600_51957609_F4G4u.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688234351_51957609_hNx0G.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688095518_51957609_fA6EL.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687964034_51957609_IsRa7.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688083135_51957609_kMNLc.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688387875_51957609_4Volh.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688385857_51957609_l9zxW.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688384078_51957609_sODkZ.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688376944_51957609_GzQBr.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688385808_51957609_AzuZo.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769688523792_51957609_tS66w.png",
+            "title": "The Trousdale Pinnacle: A Modern Masterpiece"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "what-does-a-healthy-city-mean-the-metabolic-city-framework",
+      "category": "slides",
+      "title": "What Does a Healthy City Mean? - The Metabolic City Framework",
+      "summary": "I'll read the PDF file first to understand the content, then help you create a product marketing slide deck.",
+      "originalPrompt": "Make a product marketing slide deck from this pdf。",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/what-does-a-healthy-city-mean-the-metabolic-city-framework",
+      "updatedAt": "2026-03-02T08:24:24.856Z",
+      "result": {
+        "kind": "slides",
+        "title": "What Does a Healthy City Mean? - The Metabolic City Framework",
+        "coverUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684742250_47834393_agwE2.png",
+        "assets": [
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684742250_47834393_agwE2.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684733071_47834393_2W0UB.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684752369_47834393_40FGp.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684741923_47834393_XWfYh.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684744343_47834393_2saRs.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684747423_47834393_LPnN4.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685194171_47834393_xwI6c.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685200188_47834393_MTWVl.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685195461_47834393_wt4aW.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685045025_47834393_tgTAD.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          },
+          {
+            "kind": "slide",
+            "url": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685060325_47834393_2oxrB.png",
+            "title": "What Does a Healthy City Mean? - The Metabolic City Framework"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "christmas-carnival-instagram-posts-festive-activities",
+      "category": "social-post",
+      "title": "Christmas Carnival Instagram Posts - Festive Activities",
+      "summary": "That sounds like a wonderful Christmas carnival project! I'd love to help you create these Instagram images. Let me gather a few more details to ensure the images perfectly match your vision: 1. **What specific content or message** should each of the 4 images convey? (For example: event announcemen…",
+      "originalPrompt": "I need to create four social media operation images with a 1:1 aspect ratio, intended for use on Instagram, with the theme centered around Christmas carnival activities.",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/christmas-carnival-instagram-posts-festive-activities",
+      "updatedAt": "2025-12-05T06:14:33.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Christmas Carnival Instagram Posts - Festive Activities",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915142729_1000_0eH0o.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915142729_1000_0eH0o.png",
+            "title": "Christmas Carnival Instagram Posts - Festive Activities"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915141179_1000_2Hvzl.png",
+            "title": "Live Performances & Entertainment"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915138387_1000_EP6Mh.png",
+            "title": "Delicious Holiday Treats & Food"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915140883_1000_B7myH.png",
+            "title": "Photo Opportunities & Decorations"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "cinque-terre-village-travel-guide",
+      "category": "social-post",
+      "title": "Cinque Terre Village Travel Guide",
+      "summary": "I'll create 4 stunning social media images for your \"Global Niche Travel Guide\" theme with movie aesthetics and warm tones. Let me generate these for you:",
+      "originalPrompt": "I need 4 different social media images with the theme of \"Global Niche Travel Guide\", such as Lisbon's colorful narrow streets, soft buildings, cobblestone roads, vintage bicycles, and soft golden time lights (the other 3 should be completely different attractions). Movie aesthetics, warm tones (blue+yellow), 1:1 aspect ratio, balanced frame, handwritten font \"Off the Beaten Path\", small font (bottom right corner) \"Travel Diary\", 4K high-resolution",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/cinque-terre-village-travel-guide",
+      "updatedAt": "2025-12-22T07:39:58.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Cinque Terre Village Travel Guide",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389011879_1000_kdm2c.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389011879_1000_kdm2c.png",
+            "title": "Cinque Terre Village Travel Guide"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389015331_1000_tUmzx.png",
+            "title": "Paris Bookshop Travel Guide"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389016168_1000_rcfnq.png",
+            "title": "Lisbon Streets Travel Guide"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389020506_1000_0Adm2.png",
+            "title": "Kyoto Temple Travel Guide"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "energy-boost-station-2",
+      "category": "social-post",
+      "title": "Energy Boost Station 2",
+      "summary": "I'll create 4 different social media images with the \"Worker's Energy Boost Station\" theme for you. Let me generate these images with the specifications you've provided.",
+      "originalPrompt": "I need 4 different social media images with the theme of \"Worker's Energy Boost Station\", featuring bright neutral tones, a professional and fashionable atmosphere, a 1:1 aspect ratio, close-up shots of essential items, a balanced frame, modern sans serif font overlay text \"Worker's Energy Boost\" (gray, top center), Xiaomi color font \"Easy&Practical\" (bottom center), clear details, 4K resolution",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/energy-boost-station-2",
+      "updatedAt": "2025-12-22T07:08:35.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Energy Boost Station 2",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387156008_1000_l1x0t.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387156008_1000_l1x0t.png",
+            "title": "Energy Boost Station 2"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387158956_1000_EnkMc.png",
+            "title": "Energy Boost Station 1"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387169940_1000_MPEjQ.png",
+            "title": "Energy Boost Station 3"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387177459_1000_XeuTo.png",
+            "title": "Energy Boost Station 4"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "foundation-texture-close-up",
+      "category": "social-post",
+      "title": "Foundation Texture Close-up",
+      "summary": "I'll help you create these 4 social media pictures for your \"Beauty Product Measurement Laboratory\" theme. Let me generate all four images with the specifications you've provided.",
+      "originalPrompt": "I need 4 social media pictures with different contents, the theme of which is \"Beauty Product Measurement Laboratory\". The four pictures show that t wrist color test (warm skin color), high detail (liquid foundation texture),here are 3 bottles of liquid foundation+cosmetic sponge, and high detail (liquid foundation liquidity) on the platform. A clean white dressing table with a neutral color tone (white+light pink), 1:1 aspect ratio, flat and close-up combination, overlaid with the text \"Makeup Test Laboratory\", using bold sans serif font (light pink, top left corner), \"True Evaluation\" using small white font (bottom right corner), clear lighting, 4K image quality",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/foundation-texture-close-up",
+      "updatedAt": "2025-12-22T08:36:56.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Foundation Texture Close-up",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766392467916_1000_1f8BZ.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766392467916_1000_1f8BZ.png",
+            "title": "Foundation Texture Close-up"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766392471717_1000_e8l2N.png",
+            "title": "Foundation Bottles and Sponges"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766392471819_1000_tFCO5.png",
+            "title": "Foundation Liquidity Detail"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "healing-social-media-morning-tea",
+      "category": "social-post",
+      "title": "Healing Social Media - Morning Tea",
+      "summary": "I'll create these 4 emotional healing social media images for you with different cozy scenes. Each will feature the dreamy atmosphere, warm tones, and text overlays you requested.",
+      "originalPrompt": "I need 4 different social media images with the theme of 'Emotional Healing Little Happiness', such as a comfortable reading corner with hot cocoa, knitted blanket, unwinding, string lights, and soft warm tones (brown+cream) (the other 3 images need different scenes and content). Dreamy bokeh background, calm atmosphere, 1:1 aspect ratio, centered composition, close-up shots, overlaid text in soft font (cream color, center top) with the words \"Healing Your Little Joy\", thin brown font (bottom right) with the words \"Warm and Comfortable\", 4K",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/healing-social-media-morning-tea",
+      "updatedAt": "2025-12-30T08:14:20.532Z",
+      "result": {
+        "kind": "image",
+        "title": "Healing Social Media - Morning Tea",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389511773_1000_pgOoY.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389511773_1000_pgOoY.png",
+            "title": "Healing Social Media - Morning Tea"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389517756_1000_636al.png",
+            "title": "Healing Social Media - Reading Corner"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389519270_1000_Somhf.png",
+            "title": "Healing Social Media - Window Seat"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "healthy-meal-image-4",
+      "category": "social-post",
+      "title": "Healthy Meal Image 4",
+      "summary": "I'll create 4 social media images for you with healthy food themes, each with unique content while maintaining the fresh, clean aesthetic you described.",
+      "originalPrompt": "I need 4 social media images with different content: focusing on healthy food, such as fresh avocado toast and cherry tomatoes on a white ceramic board, a glass of lemonade, a wooden breakfast table, morning sunshine, and a bright and clean color palette (green+white+yellow). 1: 1 aspect ratio, flat composition, no clutter, bold sans serif font (green, top left corner) overlaid text \"3-min Healthy Meal\", thin font (yellow, bottom right corner) \"Quick&Nutritional\", high contrast, 4K",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/healthy-meal-image-4",
+      "updatedAt": "2025-12-30T11:50:31.183Z",
+      "result": {
+        "kind": "image",
+        "title": "Healthy Meal Image 4",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766386446772_1000_GprfP.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766386446772_1000_GprfP.png",
+            "title": "Healthy Meal Image 4"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766386447758_1000_DbZWF.png",
+            "title": "Healthy Meal Image 2"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766386450112_1000_i5Vrn.png",
+            "title": "Healthy Meal Image 3"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766386455338_1000_ynXfB.png",
+            "title": "Healthy Meal Image 1"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "hidden-cafe-image-2",
+      "category": "social-post",
+      "title": "Hidden Cafe Image 2",
+      "summary": "Perfect! I've created all 4 social media images for you featuring the cozy hidden café with your exact specifications: ✅ **Cozy urban alley café setting** with warm fairy lights ✅ **Vintage wooden tables** and potted succulents ✅ **Soft natural light** through sheer curtains ✅ **Film grain texture*…",
+      "originalPrompt": "I need 4 social media images: Cozy hidden caf é in a quiet urban alley, warm fairy lights, vintage wooden tables, potted succulents, soft natural light through sheer curtains, film grain texture, warm tone (beige + terracotta), 1:1 aspect ratio, centered composition, minimal people, overlaid text 'Hidden Gem Alert' in handwritten script font (terracotta color, top center), 'City Secret Spot' in small sans-serif font (beige color, bottom right), Instagram-worthy, 4K",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/hidden-cafe-image-2",
+      "updatedAt": "2025-12-22T06:37:31.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Hidden Cafe Image 2",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766385281530_1000_vYuBs.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766385281530_1000_vYuBs.png",
+            "title": "Hidden Cafe Image 2"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766385284472_1000_Qqwne.png",
+            "title": "Hidden Cafe Image 1"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766385285919_1000_hQ68a.png",
+            "title": "Hidden Cafe Image 4"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766385288157_1000_KN6NA.png",
+            "title": "Hidden Cafe Image 3"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "minimalist-life-stones",
+      "category": "social-post",
+      "title": "Minimalist Life - Stones",
+      "summary": "I'll create 4 minimalist social media images for you with the theme \"Minimalist Life with Separation\". Each image will feature different content while maintaining the consistent aesthetic you've described.",
+      "originalPrompt": "I need 4 social media images with different content, with the theme of \"Minimalist Life with Separation\". The images should have simple lines, soft natural light, monochrome (white+gray), no clutter, 1:1 aspect ratio, and a centered composition, covering the text \"Minimal Life\" in a fashionable sans serif font (gray, center at the top), \"Less is More\" in a fine white font (center at the bottom), 4K resolution",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/minimalist-life-stones",
+      "updatedAt": "2025-12-22T07:29:37.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Minimalist Life - Stones",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766388395354_1000_bUOJL.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766388395354_1000_bUOJL.png",
+            "title": "Minimalist Life - Stones"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766388403266_1000_nLFo7.png",
+            "title": "Minimalist Life - Vase"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766388410670_1000_hXje2.png",
+            "title": "Minimalist Life - Linen"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766388411891_1000_rGi0u.png",
+            "title": "Minimalist Life - Cup"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "nature-healing-1-misty-forest",
+      "category": "social-post",
+      "title": "Nature Healing 1 - Misty Forest",
+      "summary": "I'll create 4 beautiful social media images for you with the \"Nature Healing Everyday\" theme, each featuring unique natural landscapes with a dreamy, peaceful atmosphere and the text overlays you specified.",
+      "originalPrompt": "I need 4 different social media images with the theme of \"Nature Healing Everyday\", featuring unique natural landscapes, a dreamy and peaceful atmosphere, a 1:1 aspect ratio, a central composition, no one, and overlaid text such as \"Nature Reset\" (soft handwritten font, upper middle), \"Calm&Peaceful\" (thin font, lower left), 4K image quality",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/nature-healing-1-misty-forest",
+      "updatedAt": "2025-12-22T07:19:33.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Nature Healing 1 - Misty Forest",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387322246_1000_CbzwD.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387322246_1000_CbzwD.png",
+            "title": "Nature Healing 1 - Misty Forest"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387327847_1000_gJIYP.png",
+            "title": "Nature Healing 4 - Twilight Beach"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387330879_1000_Cps7F.png",
+            "title": "Nature Healing 3 - Lavender Field"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387405705_1000_TMoIx.png",
+            "title": "Nature Healing 2 - Mountain Lake"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "pet-therapy-golden-retriever",
+      "category": "social-post",
+      "title": "Pet Therapy - Golden Retriever",
+      "summary": "I'll create 4 different social media images with the \"Pet Healing Everyday\" theme for you. Each will feature a different pet scene with warm, cozy atmosphics and the text overlay.",
+      "originalPrompt": "I need 4 different social media images with the theme of \"Pet Healing Everyday\", such as a furry orange cat lying on a beige sofa, holding a small toy mouse, soft and warm lighting, comfortable home atmosphere, warm color tones (orange+cream), cat face close-up (relaxed expression), cute font overlay text \"Pet Therapy\" (top center), (other 3 different scenes with pets). 1: 1 aspect ratio, 4K",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/pet-therapy-golden-retriever",
+      "updatedAt": "2025-12-22T07:39:11.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Pet Therapy - Golden Retriever",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389022186_1000_j3zBf.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389022186_1000_j3zBf.png",
+            "title": "Pet Therapy - Golden Retriever"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389024294_1000_AMWJU.png",
+            "title": "Pet Therapy - Orange Cat"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389027576_1000_GFFAc.png",
+            "title": "Pet Therapy - Stretching Cat"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389034040_1000_fKo9I.png",
+            "title": "Pet Therapy - Rabbit"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "valentines-day-date-guide-romantic-tiktok-series",
+      "category": "social-post",
+      "title": "Valentine's Day Date Guide - Romantic TikTok Series",
+      "summary": "That sounds like a wonderful project! I'd love to help you create four social media operation images for TikTok with an American-Style Valentine's Day Date Guide theme. Before I start creating these images, let me ask you a few questions to ensure the designs perfectly match your vision: 1. **What…",
+      "originalPrompt": "I need to create four social media operation images with a 1:1 aspect ratio, intended for use on tictok, with the theme centered around American-Style Valentine's Day Date Guide",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/valentines-day-date-guide-romantic-tiktok-series",
+      "updatedAt": "2025-12-05T06:23:52.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Valentine's Day Date Guide - Romantic TikTok Series",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915547237_1000_lgaU4.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915547237_1000_lgaU4.png",
+            "title": "Valentine's Day Date Guide - Romantic TikTok Series"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915552149_1000_9dHc8.png",
+            "title": "Sunset Picnic Date"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915556672_1000_RwJCC.png",
+            "title": "Stargazing Night Date"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915553513_1000_EwZC3.png",
+            "title": "Rose Garden Walk Date"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "watercolor-set-social-media-image",
+      "category": "social-post",
+      "title": "Watercolor Set Social Media Image",
+      "summary": "I'll create 4 different social media images for your \"Zero Basic Interest Cultivation Program\" theme. Let me generate these beautiful, beginner-friendly images for you.",
+      "originalPrompt": "I need 4 different social media images with the theme of 'Zero Basic Interest Cultivation Program', such as a beginner watercolor set (brush+paper+paint tube), a simple flower painting on white paper, a wooden table, natural light, soft pink, and the smallest clean. The other 3 images require different scenes and content. 1: 1 aspect ratio, tiled composition, overlay text \"Learn with me\" in friendly font, overlay \"Beginner Friendly\" in small font (bottom left corner), 4K",
+      "websiteUrl": "https://www.pagepop.ai/use-cases/watercolor-set-social-media-image",
+      "updatedAt": "2025-12-22T07:40:38.000Z",
+      "result": {
+        "kind": "image",
+        "title": "Watercolor Set Social Media Image",
+        "coverUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389200204_1000_WOKJ8.png",
+        "assets": [
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389200204_1000_WOKJ8.png",
+            "title": "Watercolor Set Social Media Image"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389203006_1000_9EFhC.png",
+            "title": "Gardening Kit Social Media Image"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389211576_1000_xDU0g.png",
+            "title": "Reading Corner Social Media Image"
+          },
+          {
+            "kind": "image",
+            "url": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389215323_1000_oKHmE.png",
+            "title": "Baking Essentials Social Media Image"
+          }
+        ]
+      }
+    }
+  ]
+}
