@@ -40,7 +40,7 @@ Protect `main` with:
 
 ## Remote creation sequence
 
-1. Create an empty public repository with the exact name above. Do not initialize it with a README, license, or `.gitignore` because those files already exist locally.
+1. Create an empty private repository with the exact name above. Do not initialize it with a README, license, or `.gitignore` because those files already exist locally. Keep it private until the public launch checklist is complete.
 2. Add the final GitHub URL as `origin` and verify it before pushing.
 3. Push `main` without force.
 4. Apply the identity, topics, social preview, labels, and branch-protection settings above.
