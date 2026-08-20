@@ -9,7 +9,7 @@ Thank you for helping build a useful collection of real-world AI creative prompt
 - At least one public result preview.
 - The output category and format.
 - Source and attribution information.
-- Confirmation that you have permission to publish the prompt and preview assets.
+- Confirmation that you own or otherwise control every right needed to submit the prompt, text, metadata, and preview assets under the terms below.
 
 ## Submission process
 
@@ -19,6 +19,17 @@ Thank you for helping build a useful collection of real-world AI creative prompt
 4. Approved submissions are added to the public catalog and generated README.
 
 Do not submit private conversations, personal information, confidential business material, hidden instructions, model credentials, or content you do not have the right to publish.
+
+## Contribution licensing
+
+By submitting material to this repository, you confirm that you have the authority to grant the following permissions and agree that:
+
+- your original prompt, submission text, descriptions, and metadata are published under the [Creative Commons Attribution 4.0 International License](LICENSE);
+- code, scripts, workflow changes, and other software contributions are published under the [MIT License](LICENSE-CODE);
+- PagePop may host or link to, reproduce, resize, crop, and publicly display the submitted preview assets in this repository and the PagePop web gallery for catalog and promotional presentation; and
+- preview assets remain outside CC BY 4.0 unless their source entry or an accompanying notice explicitly licenses them under CC BY 4.0 or another identified license.
+
+Do not submit third-party material, identifiable people, brand assets, fonts, stock media, or other content unless you can grant these permissions and have supplied every attribution or notice the material requires. See [LICENSES.md](LICENSES.md) for the repository-wide licensing scope and exclusions.
 
 ## Generated files
 

@@ -1,7 +1,7 @@
 # Public launch checklist
 
 - [ ] Confirm the GitHub organization and repository owner.
-- [ ] Confirm the public content and code licenses.
+- [x] Confirm the public content and code licenses: CC BY 4.0 for prompts/text/metadata and MIT for repository code, with exclusions documented in `LICENSES.md`.
 - [ ] Confirm publication rights for all 78 prompts and preview assets using [CONTENT-REVIEW.md](CONTENT-REVIEW.md).
 - [x] Run automated catalog checks for personal information, internal IDs, private tool traces, and unstable preview URLs.
 - [ ] Complete the visual/OCR and semantic review in [CONTENT-REVIEW.md](CONTENT-REVIEW.md); automated text checks cannot inspect words embedded in images or decide whether realistic demo information is safe to publish.

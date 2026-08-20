@@ -1991,7 +1991,7 @@ The public, machine-readable catalog is available at [data/use-cases.json](data/
 
 ## Rights and licensing
 
-The repository is being prepared for public launch. Until a public content license is selected, all prompts, previews, and PagePop materials remain © PagePop and their respective contributors. Do not reuse them outside the permissions provided by the linked source.
+The original prompts, repository documentation, descriptive text, and catalog metadata are licensed under [CC BY 4.0](LICENSE). Repository automation and source code are licensed under the [MIT License](LICENSE-CODE). CDN-hosted result previews, PagePop brand assets, third-party material, trademarks, and personality rights are not automatically included in those grants. Read [LICENSES.md](LICENSES.md) for the controlling scope, exclusions, and attribution format.
 
 ---
 

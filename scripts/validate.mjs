@@ -11,6 +11,11 @@ const catalogPath = path.resolve('data/use-cases.json')
 const readmePath = path.resolve('README.md')
 const bannerPath = path.resolve('assets/repository-banner.png')
 const socialPreviewPath = path.resolve('assets/social-preview.png')
+const contentLicensePath = path.resolve('LICENSE')
+const codeLicensePath = path.resolve('LICENSE-CODE')
+const licensingGuidePath = path.resolve('LICENSES.md')
+const contributingPath = path.resolve('CONTRIBUTING.md')
+const issueTemplatePath = path.resolve('.github/ISSUE_TEMPLATE/submit-use-case.yml')
 const catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'))
 const readme = fs.readFileSync(readmePath, 'utf8')
 const readmeBytes = Buffer.byteLength(readme)
@@ -65,6 +70,65 @@ if (
 
 if (!readme.includes(expectedBannerReference)) {
   errors.push('README.md is missing the expected local repository banner reference and alt text.')
+}
+
+const requiredLicenseFiles = [
+  [contentLicensePath, 'CC BY 4.0 content license'],
+  [codeLicensePath, 'MIT code license'],
+  [licensingGuidePath, 'licensing scope guide'],
+]
+for (const [filePath, label] of requiredLicenseFiles) {
+  if (!fs.existsSync(filePath)) errors.push(`Missing ${label}: ${path.relative(process.cwd(), filePath)}.`)
+}
+
+if (fs.existsSync(contentLicensePath)) {
+  const contentLicense = fs.readFileSync(contentLicensePath, 'utf8')
+  if (!contentLicense.includes('Creative Commons Attribution 4.0 International Public License')) {
+    errors.push('LICENSE does not contain the standard CC BY 4.0 legal code.')
+  }
+}
+
+if (fs.existsSync(codeLicensePath)) {
+  const codeLicense = fs.readFileSync(codeLicensePath, 'utf8')
+  if (!codeLicense.startsWith('MIT License\n') || !codeLicense.includes('Copyright (c) 2026 PagePop')) {
+    errors.push('LICENSE-CODE does not contain the expected PagePop MIT license.')
+  }
+}
+
+if (fs.existsSync(licensingGuidePath)) {
+  const licensingGuide = fs.readFileSync(licensingGuidePath, 'utf8')
+  for (const requiredText of [
+    'Content licensed under CC BY 4.0',
+    'Code licensed under MIT',
+    'CDN-hosted previews and other result assets',
+    'PagePop brand assets',
+  ]) {
+    if (!licensingGuide.includes(requiredText)) {
+      errors.push(`LICENSES.md is missing the required licensing boundary: ${requiredText}.`)
+    }
+  }
+}
+
+for (const [filePath, label] of [
+  [contributingPath, 'CONTRIBUTING.md'],
+  [issueTemplatePath, 'submission issue template'],
+]) {
+  if (!fs.existsSync(filePath)) {
+    errors.push(`Missing ${label}: ${path.relative(process.cwd(), filePath)}.`)
+    continue
+  }
+  const contributionText = fs.readFileSync(filePath, 'utf8')
+  if (!contributionText.includes('CC BY 4.0') || !contributionText.includes('publicly display')) {
+    errors.push(`${label} is missing the required content-license and preview-display confirmation.`)
+  }
+}
+
+if (
+  !readme.includes('[CC BY 4.0](LICENSE)') ||
+  !readme.includes('[MIT License](LICENSE-CODE)') ||
+  !readme.includes('[LICENSES.md](LICENSES.md)')
+) {
+  errors.push('README.md is missing the content, code, or licensing-scope links.')
 }
 
 if (

@@ -2,7 +2,7 @@
   "name": "awesome-ai-prompts-and-use-cases",
   "version": "0.1.0",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN LICENSES.md",
   "description": "Real-world AI creative prompts and use cases by PagePop.",
   "type": "module",
   "scripts": {

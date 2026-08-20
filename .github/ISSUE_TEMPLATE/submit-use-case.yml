@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for contributing. Do not include private conversations, personal data, or material you do not have permission to publish.
+        Thanks for contributing. Do not include private conversations, personal data, or material you do not have permission to license and publicly display. Review CONTRIBUTING.md and LICENSES.md before submitting.
   - type: input
     id: title
     attributes:
@@ -53,10 +53,13 @@ body:
     attributes:
       label: Rights and privacy confirmation
       options:
-        - label: I created this submission or have permission to publish every included prompt and asset.
+        - label: I created this submission or control every right needed to license the prompt, text, and metadata and to authorize public display of every included preview asset.
           required: true
         - label: I have removed personal, confidential, and private information.
           required: true
+        - label: I agree that my original prompt, submitted text, descriptions, and metadata will be published under CC BY 4.0.
+          required: true
+        - label: I authorize PagePop to host or link to, reproduce, resize, crop, and publicly display the preview assets in this repository and the PagePop web gallery. I understand that those previews remain outside CC BY 4.0 unless explicitly marked otherwise.
+          required: true
         - label: I allow PagePop to review, edit, and publish this submission in the repository and web gallery.
           required: true
-
