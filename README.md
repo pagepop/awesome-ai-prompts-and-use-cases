@@ -6,9 +6,6 @@
 
 # Awesome AI Creative Prompts & Real-World Use Cases
 
-[![Use cases](https://img.shields.io/badge/real--world_use_cases-78-8B3FEF)](https://www.pagepop.ai/use-cases?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=badge)
-[![Prompts](https://img.shields.io/badge/full_prompts-78-FFE063)](#browse-all-prompts-and-use-cases)
-[![Models](https://img.shields.io/badge/models-5-58D6C7)](#models-used-by-pagepop)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > **Real requests. Natural-language prompts. Finished creative work.**
@@ -29,17 +26,16 @@ PagePop combines leading creative models and automatically selects the right imp
 
 ## Browse all prompts and use cases
 
-All 78 prompts are included in this README. Use the category links below or search this page with <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>F</kbd>.
+The prompt collections published in this repository are included below. Use the category links or search this page with <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>F</kbd>.
 
-| Category | Prompts | Full category page | Visual gallery |
-| --- | ---: | --- | --- |
-| 🎬 [Video](#video) | 6 | [Open category README](prompts/video/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-video) |
-| 🪧 [Poster & Flyer](#poster-and-flyer) | 12 | [Open category README](prompts/posters-and-flyers/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/poster-and-flyer?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-poster-and-flyer) |
-| 🪄 [Image Editor](#image-editor) | 12 | [Open category README](prompts/image-editing/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/image-editor?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-image-editor) |
-| 🛍️ [E-commerce](#e-commerce) | 12 | [Open category README](prompts/ecommerce/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/e-commerce?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-e-commerce) |
-| 📄 [Document](#document) | 12 | [Open category README](prompts/documents/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/document?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-document) |
-| 📊 [Slides](#slides) | 12 | [Open category README](prompts/presentations/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/slides?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-slides) |
-| 📱 [Social Post](#social-post) | 12 | [Open category README](prompts/social-media/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/social-post?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-social-post) |
+| Category | Full category page | Visual gallery |
+| --- | --- | --- |
+| 🎬 [Video](#video) | [Open category README](prompts/video/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-video) |
+| 🪧 [Poster & Flyer](#poster-and-flyer) | [Open category README](prompts/posters-and-flyers/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/poster-and-flyer?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-poster-and-flyer) |
+| 🪄 [Image Editor](#image-editor) | [Open category README](prompts/image-editing/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/image-editor?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-image-editor) |
+| 🛍️ [E-commerce](#e-commerce) | [Open category README](prompts/ecommerce/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/e-commerce?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-e-commerce) |
+| 📊 [Slides](#slides) | [Open category README](prompts/presentations/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/slides?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-slides) |
+| 📱 [Social Post](#social-post) | [Open category README](prompts/social-media/README.md) | [Browse on PagePop](https://www.pagepop.ai/use-cases/categories/social-post?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-social-post) |
 
 ---
 
@@ -49,13 +45,15 @@ All 78 prompts are included in this README. Use the category links below or sear
 
 [Browse the Video gallery on PagePop →](https://www.pagepop.ai/use-cases/categories/video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-heading-video)
 
-### 01. Aroma Diffuser Promo Video
+### Aroma Diffuser Promo Video
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/aroma-diffuser-promo-video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-aroma-diffuser-promo-video"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779193257970_40932350_TnEWu.jpg" alt="Aroma Diffuser Promo Video — generated Video result" width="720"></a>
+  <a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779193256874_40932350_GoXHN.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779193257970_40932350_TnEWu.jpg" alt="Aroma Diffuser Promo Video — generated Video result" width="720"></a>
+  <br>
+  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779193256874_40932350_GoXHN.mp4">▶ Play video (MP4)</a></strong>
 </p>
 
-**Output:** Video · **Result assets:** 1
+**Output:** Video
 
 #### Original prompt
 
@@ -67,13 +65,15 @@ The picture is of my product - the aroma diffuser. The original details of the p
 
 ---
 
-### 02. Comedy Tank Standoff
+### Comedy Tank Standoff
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/comedy-tank-standoff?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-comedy-tank-standoff"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188153588_40932350_jAFvt.jpg" alt="Comedy Tank Standoff — generated Video result" width="720"></a>
+  <a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188152384_40932350_6QX1Y.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188153588_40932350_jAFvt.jpg" alt="Comedy Tank Standoff — generated Video result" width="720"></a>
+  <br>
+  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188152384_40932350_6QX1Y.mp4">▶ Play video (MP4)</a></strong>
 </p>
 
-**Output:** Video · **Result assets:** 1
+**Output:** Video
 
 #### Original prompt
 
@@ -85,13 +85,15 @@ Generate a video with a comedy scene set in a living room at home. A little girl
 
 ---
 
-### 03. Dolphin Sunset Transition
+### Dolphin Sunset Transition
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/dolphin-sunset-transition?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-dolphin-sunset-transition"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188491734_40932350_8TPtz.jpg" alt="Dolphin Sunset Transition — generated Video result" width="720"></a>
+  <a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188490823_40932350_HEDLy.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188491734_40932350_8TPtz.jpg" alt="Dolphin Sunset Transition — generated Video result" width="720"></a>
+  <br>
+  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188490823_40932350_HEDLy.mp4">▶ Play video (MP4)</a></strong>
 </p>
 
-**Output:** Video · **Result assets:** 1
+**Output:** Video
 
 #### Original prompt
 
@@ -103,13 +105,15 @@ Generate a video based on the reference image I provided. Start underwater with 
 
 ---
 
-### 04. Grandma Moon's Sweet Dream
+### Grandma Moon's Sweet Dream
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/grandma-moons-sweet-dream?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-grandma-moons-sweet-dream"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077875529_41202504_HdNou.jpg" alt="Grandma Moon's Sweet Dream — generated Video result" width="720"></a>
+  <a href="https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077874120_41202504_QlZU4.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077875529_41202504_HdNou.jpg" alt="Grandma Moon's Sweet Dream — generated Video result" width="720"></a>
+  <br>
+  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077874120_41202504_QlZU4.mp4">▶ Play video (MP4)</a></strong>
 </p>
 
-**Output:** Video · **Result assets:** 1
+**Output:** Video
 
 #### Original prompt
 
@@ -144,13 +148,15 @@ The next morning, Kitten Sister said happily,
 
 ---
 
-### 05. Kitten Sister's Clean Teeth
+### Kitten Sister's Clean Teeth
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/kitten-sisters-clean-teeth?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-sisters-clean-teeth"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077686593_41202504_2KE8Y.jpg" alt="Kitten Sister's Clean Teeth — generated Video result" width="720"></a>
+  <a href="https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077682990_41202504_9YgVT.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077686593_41202504_2KE8Y.jpg" alt="Kitten Sister's Clean Teeth — generated Video result" width="720"></a>
+  <br>
+  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077682990_41202504_9YgVT.mp4">▶ Play video (MP4)</a></strong>
 </p>
 
-**Output:** Video · **Result assets:** 1
+**Output:** Video
 
 #### Original prompt
 
@@ -178,13 +184,15 @@ Kitten Sister said happily, “My teeth are nice and clean now. I can go to slee
 
 ---
 
-### 06. Quirky Object Transformations
+### Quirky Object Transformations
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/quirky-object-transformations?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-quirky-object-transformations"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779175906528_40932350_Vt6ym.jpg" alt="Quirky Object Transformations — generated Video result" width="720"></a>
+  <a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779175905311_40932350_fm3Zt.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779175906528_40932350_Vt6ym.jpg" alt="Quirky Object Transformations — generated Video result" width="720"></a>
+  <br>
+  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779175905311_40932350_fm3Zt.mp4">▶ Play video (MP4)</a></strong>
 </p>
 
-**Output:** Video · **Result assets:** 1
+**Output:** Video
 
 #### Original prompt
 
@@ -202,13 +210,13 @@ Help me create a 15-second funny video that is suitable for posting on social me
 
 [Browse the Poster & Flyer gallery on PagePop →](https://www.pagepop.ai/use-cases/categories/poster-and-flyer?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-heading-poster-and-flyer)
 
-### 07. Academic Conference Poster - Mangrove Rodent Eradication Technology
+### Academic Conference Poster - Mangrove Rodent Eradication Technology
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/academic-conference-poster-mangrove-rodent-eradication-technology?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-academic-conference-poster-mangrove-rodent-eradication-technology"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961263136_1000_mIYia.png" alt="Academic Conference Poster - Mangrove Rodent Eradication Technology — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -238,13 +246,13 @@ sections according to the paper attached
 
 ---
 
-### 08. American Frontier Western Wagon Prints - 4 Artistic Styles
+### American Frontier Western Wagon Prints - 4 Artistic Styles
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/american-frontier-western-wagon-prints-4-artistic-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-american-frontier-western-wagon-prints-4-artistic-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054606388_1000_fCa52.png" alt="American Frontier Western Wagon Prints - 4 Artistic Styles — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 3
+**Output:** Image
 
 #### Original prompt
 
@@ -256,13 +264,13 @@ Create 4 prints with different styles, a brighter tone, themed around American F
 
 ---
 
-### 09. Brooklyn Bridge Urban Landscape Prints - 4 Style Variations
+### Brooklyn Bridge Urban Landscape Prints - 4 Style Variations
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/brooklyn-bridge-urban-landscape-prints-4-style-variations?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-brooklyn-bridge-urban-landscape-prints-4-style-variations"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055330176_1000_sOXT3.png" alt="Brooklyn Bridge Urban Landscape Prints - 4 Style Variations — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 3
+**Output:** Image
 
 #### Original prompt
 
@@ -274,13 +282,13 @@ Create 4 prints with different styles, a brighter tone, themed around Brooklyn B
 
 ---
 
-### 10. Country Music Legends Portrait Prints - 4 Styles
+### Country Music Legends Portrait Prints - 4 Styles
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/country-music-legends-portrait-prints-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-country-music-legends-portrait-prints-4-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054611646_1000_FC7zm.png" alt="Country Music Legends Portrait Prints - 4 Styles — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -292,13 +300,13 @@ Create 4 prints with different styles, a brighter tone, themed around  Portrait 
 
 ---
 
-### 11. Meritus Paramedical Institute Posters - Vertical Layout
+### Meritus Paramedical Institute Posters - Vertical Layout
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/meritus-paramedical-institute-posters-vertical-layout?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-meritus-paramedical-institute-posters-vertical-layout"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765962691698_1000_SnkXc.png" alt="Meritus Paramedical Institute Posters - Vertical Layout — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -316,13 +324,13 @@ Technician Etc. please provide colorful and 4k quality
 
 ---
 
-### 12. New Orleans Jazz Prints - 4 Artistic Styles
+### New Orleans Jazz Prints - 4 Artistic Styles
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/new-orleans-jazz-prints-4-artistic-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-new-orleans-jazz-prints-4-artistic-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054570598_1000_N4eJx.png" alt="New Orleans Jazz Prints - 4 Artistic Styles — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -334,13 +342,13 @@ Create 4 prints with different styles, a brighter tone, themed around New Orlean
 
 ---
 
-### 13. NYC Street Art Exhibition Prints - 4 Distinct Styles
+### NYC Street Art Exhibition Prints - 4 Distinct Styles
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/nyc-street-art-exhibition-prints-4-distinct-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nyc-street-art-exhibition-prints-4-distinct-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764053915104_1000_hOTyw.png" alt="NYC Street Art Exhibition Prints - 4 Distinct Styles — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -352,13 +360,13 @@ Create 4 prints with different styles, a brighter tone, themed around New York S
 
 ---
 
-### 14. NYFW Collection Launch Posters - Updated to 2026
+### NYFW Collection Launch Posters - Updated to 2026
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/nyfw-collection-launch-posters-updated-to-2026?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nyfw-collection-launch-posters-updated-to-2026"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055589805_1000_2izlO.png" alt="NYFW Collection Launch Posters - Updated to 2026 — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -370,13 +378,13 @@ Create 4 Posters with different styles, a brighter tone, Realistic photography s
 
 ---
 
-### 15. Organic Produce Launch Prints - 4 Styles
+### Organic Produce Launch Prints - 4 Styles
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/organic-produce-launch-prints-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-organic-produce-launch-prints-4-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054014658_1000_TA2bD.png" alt="Organic Produce Launch Prints - 4 Styles — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 3
+**Output:** Image
 
 #### Original prompt
 
@@ -388,13 +396,13 @@ Create 4 prints with different styles, a brighter tone, themed around Grocery St
 
 ---
 
-### 16. Pop Bar Football Event Posters - Complete Campaign
+### Pop Bar Football Event Posters - Complete Campaign
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/pop-bar-football-event-posters-complete-campaign?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pop-bar-football-event-posters-complete-campaign"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764056275663_1000_u6Uot.png" alt="Pop Bar Football Event Posters - Complete Campaign — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -406,13 +414,13 @@ Create 4 Posters with different styles, a brighter tone, Realistic photography s
 
 ---
 
-### 17. Route 66 Vintage Americana Posters - Retro Road Trip Series
+### Route 66 Vintage Americana Posters - Retro Road Trip Series
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/route-66-vintage-americana-posters-retro-road-trip-series?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-route-66-vintage-americana-posters-retro-road-trip-series"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055464196_1000_xr74g.png" alt="Route 66 Vintage Americana Posters - Retro Road Trip Series — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -424,13 +432,13 @@ Create 4 Posters with different styles, a brighter tone, Realistic photography s
 
 ---
 
-### 18. Summer Sounds Fest 2027 Poster - Festival Design Collection
+### Summer Sounds Fest 2027 Poster - Festival Design Collection
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/summer-sounds-fest-2027-poster-festival-design-collection?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-summer-sounds-fest-2027-poster-festival-design-collection"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961407402_1000_rPQXn.png" alt="Summer Sounds Fest 2027 Poster - Festival Design Collection — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -469,13 +477,13 @@ www.summersoundsfest.com
 
 [Browse the Image Editor gallery on PagePop →](https://www.pagepop.ai/use-cases/categories/image-editor?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-heading-image-editor)
 
-### 19. Beach Beauty Clean Background
+### Beach Beauty Clean Background
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/beach-beauty-clean-background?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-beach-beauty-clean-background"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765266855278_1000_MJL5V.png" alt="Beach Beauty Clean Background — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -487,13 +495,13 @@ Eliminar a los transeúntes y escombros en el fondo, conservar solo las bellezas
 
 ---
 
-### 20. Beach Sunset Without Watermark
+### Beach Sunset Without Watermark
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/beach-sunset-without-watermark?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-beach-sunset-without-watermark"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765281257670_1000_cUEDd.png" alt="Beach Sunset Without Watermark — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -505,13 +513,13 @@ Remove watermarks from images
 
 ---
 
-### 21. Couple Bedroom Photo
+### Couple Bedroom Photo
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/couple-bedroom-photo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-couple-bedroom-photo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282426262_1000_hvzBu.png" alt="Couple Bedroom Photo — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -523,13 +531,13 @@ Add a tall young handsome guy with bare upper body and eight pack abs to the lef
 
 ---
 
-### 22. Edited Photo
+### Edited Photo
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/edited-photo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-edited-photo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271936489_1000_yQObA.png" alt="Edited Photo — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -541,13 +549,13 @@ Remove the man on the left, don't change anything else
 
 ---
 
-### 23. Grand Finals Opening Poster
+### Grand Finals Opening Poster
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/grand-finals-opening-poster?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-grand-finals-opening-poster"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765269358113_1000_jz2n9.png" alt="Grand Finals Opening Poster — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -561,13 +569,13 @@ Image ratio 4:5
 
 ---
 
-### 24. Hiker on Snowy Peak
+### Hiker on Snowy Peak
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/hiker-on-snowy-peak?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-hiker-on-snowy-peak"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765268744073_1000_hH5zP.png" alt="Hiker on Snowy Peak — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -579,13 +587,13 @@ Cambia el Fondo por una montaña nevada y los personajes se paran en la cima de 
 
 ---
 
-### 25. Kitten Raising Paw
+### Kitten Raising Paw
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/kitten-raising-paw?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-raising-paw"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765270361955_1000_9pYkn.png" alt="Kitten Raising Paw — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -597,13 +605,13 @@ Make the kitten sit up
 
 ---
 
-### 26. Manicura rosa con diamantes y lazos
+### Manicura rosa con diamantes y lazos
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/manicura-rosa-con-diamantes-y-lazos?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-manicura-rosa-con-diamantes-y-lazos"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271876566_1000_v2APx.png" alt="Manicura rosa con diamantes y lazos — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -615,13 +623,13 @@ Cambie a la mujer por una exagerada manicura rosa con diamantes y lazos en la ma
 
 ---
 
-### 27. Modified Combat Photo
+### Modified Combat Photo
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/modified-combat-photo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-modified-combat-photo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765278684644_1000_Ge8Jd.png" alt="Modified Combat Photo — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -633,13 +641,13 @@ Modificar la foto, cambiar a los hombres por trajes y sombreros de combate, camb
 
 ---
 
-### 28. Modified Poster
+### Modified Poster
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/modified-poster?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-modified-poster"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765284563780_1000_ryUHY.png" alt="Modified Poster — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -651,13 +659,13 @@ Change GUNS to LOVE and change the title color to white
 
 ---
 
-### 29. Niña con cabeza de conejo
+### Niña con cabeza de conejo
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/nina-con-cabeza-de-conejo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nina-con-cabeza-de-conejo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765267567930_1000_n2LkD.png" alt="Niña con cabeza de conejo — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -669,13 +677,13 @@ Cambia la cabeza de la niña por una linda cabeza de conejo
 
 ---
 
-### 30. Soda Bottle on Beach
+### Soda Bottle on Beach
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/soda-bottle-on-beach?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-soda-bottle-on-beach"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282356468_1000_eI33o.png" alt="Soda Bottle on Beach — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -693,13 +701,13 @@ Turn the background into a soft beach, don't change anything else
 
 [Browse the E-commerce gallery on PagePop →](https://www.pagepop.ai/use-cases/categories/e-commerce?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-heading-e-commerce)
 
-### 31. American Campus Stationery Special Offer - 4 Style Variations
+### American Campus Stationery Special Offer - 4 Style Variations
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/american-campus-stationery-special-offer-4-style-variations?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-american-campus-stationery-special-offer-4-style-variations"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729481504_1000_wUrxO.png" alt="American Campus Stationery Special Offer - 4 Style Variations — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -711,13 +719,13 @@ Create 4 E-commerces with different styles, a brighter tone, themed around Speci
 
 ---
 
-### 32. American Outdoor Camping Gear Value Sets - E-commerce Showcase
+### American Outdoor Camping Gear Value Sets - E-commerce Showcase
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/american-outdoor-camping-gear-value-sets-e-commerce-showcase?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-american-outdoor-camping-gear-value-sets-e-commerce-showcase"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728941190_1000_kyPuU.png" alt="American Outdoor Camping Gear Value Sets - E-commerce Showcase — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -729,13 +737,13 @@ Create 4 E-commerces with different styles, a brighter tone, themed around Ameri
 
 ---
 
-### 33. Artisanal Coffee E-commerce Collection - Bright & Vibrant Styles
+### Artisanal Coffee E-commerce Collection - Bright & Vibrant Styles
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/artisanal-coffee-e-commerce-collection-bright-and-vibrant-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-artisanal-coffee-e-commerce-collection-bright-and-vibrant-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728956240_1000_pTz1b.png" alt="Artisanal Coffee E-commerce Collection - Bright & Vibrant Styles — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -747,13 +755,13 @@ Create 4 E-commerces with different styles, a brighter tone, themed around Artis
 
 ---
 
-### 34. BLACK FRIDAY Electronics - Modern Minimalist Variations
+### BLACK FRIDAY Electronics - Modern Minimalist Variations
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/black-friday-electronics-modern-minimalist-variations?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-black-friday-electronics-modern-minimalist-variations"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729081399_1000_3XT4d.png" alt="BLACK FRIDAY Electronics - Modern Minimalist Variations — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -765,13 +773,13 @@ Create 4 E-commerces with different styles, a brighter tone, themed around BLACK
 
 ---
 
-### 35. British Retro Winter Collection - E-commerce Banners
+### British Retro Winter Collection - E-commerce Banners
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/british-retro-winter-collection-e-commerce-banners?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-british-retro-winter-collection-e-commerce-banners"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764730036359_1000_wazoM.png" alt="British Retro Winter Collection - E-commerce Banners — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -783,13 +791,13 @@ Create 4 E-commerces with different styles, a brighter tone, themed around Launc
 
 ---
 
-### 36. Diffuseur d'Ambiance - Collection avec Textes Marketing Français
+### Diffuseur d'Ambiance - Collection avec Textes Marketing Français
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/diffuseur-dambiance-collection-avec-textes-marketing-francais?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-diffuseur-dambiance-collection-avec-textes-marketing-francais"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764902442473_1000_H6YLD.png" alt="Diffuseur d'Ambiance - Collection avec Textes Marketing Français — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -801,13 +809,13 @@ Faire quatre images de commerce électronique de style photoréaliste, avec la s
 
 ---
 
-### 37. Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles
+### Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/low-sugar-dried-fruits-e-commerce-4-distinct-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-low-sugar-dried-fruits-e-commerce-4-distinct-styles"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764731517118_1000_lEL6u.jpeg" alt="Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -819,13 +827,13 @@ Faire quatre images de commerce électronique de style photoréaliste, avec la s
 
 ---
 
-### 38. Pendientes Flamenco - Pasión Flamenca
+### Pendientes Flamenco - Pasión Flamenca
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/pendientes-flamenco-pasion-flamenca?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pendientes-flamenco-pasion-flamenca"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764903066413_1000_Sw7tP.png" alt="Pendientes Flamenco - Pasión Flamenca — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -837,13 +845,13 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ---
 
-### 39. おでん食材家庭用セット冷凍配送 - ECバナー4スタイル
+### おでん食材家庭用セット冷凍配送 - ECバナー4スタイル
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/oden-family-set-frozen-delivery-ecommerce-banners?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-oden-family-set-frozen-delivery-ecommerce-banners"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764731159333_1000_DObsc.jpeg" alt="おでん食材家庭用セット冷凍配送 - ECバナー4スタイル — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -855,13 +863,13 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ---
 
-### 40. シルク・リバイバル Eコマースコンテンツ - 4スタイル
+### シルク・リバイバル Eコマースコンテンツ - 4スタイル
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/silk-revival-ecommerce-content-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-silk-revival-ecommerce-content-4-styles"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764731012640_1000_iS1ic.jpeg" alt="シルク・リバイバル Eコマースコンテンツ - 4スタイル — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 1
+**Output:** Image
 
 #### Original prompt
 
@@ -873,13 +881,13 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ---
 
-### 41. 天然成分フェイスクリーム - Eコマース商品画像
+### 天然成分フェイスクリーム - Eコマース商品画像
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/natural-ingredient-face-cream-ecommerce-product-images?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-natural-ingredient-face-cream-ecommerce-product-images"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731498008_1000_reA6F.png" alt="天然成分フェイスクリーム - Eコマース商品画像 — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -891,13 +899,13 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ---
 
-### 42. 正月福袋ブラインドボックス超価格プロモーション - 4スタイル
+### 正月福袋ブラインドボックス超価格プロモーション - 4スタイル
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/new-year-lucky-bag-blind-box-promotion-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-new-year-lucky-bag-blind-box-promotion-4-styles"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764732195472_1000_kjEoq.jpeg" alt="正月福袋ブラインドボックス超価格プロモーション - 4スタイル — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 3
+**Output:** Image
 
 #### Original prompt
 
@@ -909,623 +917,19 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ---
 
-<a id="document"></a>
-
-## 📄 Document & Webpage Prompts & Use Cases
-
-[Browse the Document gallery on PagePop →](https://www.pagepop.ai/use-cases/categories/document?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-heading-document)
-
-### 43. 2024 Pet Adoption Day at Greenfield Park
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/2024-pet-adoption-day-at-greenfield-park?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-2024-pet-adoption-day-at-greenfield-park"><img src="https://img-volc.jianpian.info/overseas/thumbnail/52426310/xgq4x/xgq4x-1766027092671.jpeg" alt="2024 Pet Adoption Day at Greenfield Park — generated Webpage result" width="720"></a>
-</p>
-
-**Output:** Webpage · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Design a flyer themed Pet Adoption Day.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.
-The detailed content is as follows:
-
-🐾 Find Your Furry Soulmate: Pet Adoption Day!
-A Day of Love, Connection, and Forever Homes
-Host: Paws & Hearts Animal Rescue | Partner: Community Pet Wellness Center
-Date: [Saturday, November 9, 2024] | Time: 10:00 AM – 4:00 PM
-Location: Greenfield Community Park (234 Oak Street, Maplewood, CA 90210)
-Contact: [phone redacted] | [email redacted] | www.pawsandheartsrescue.org/adoptionday
-
-❤️ Why Adopt?
-Opening your home to a rescue pet means saving a life—and gaining a loyal, loving companion! When you adopt, you:
-Give a second chance to animals who were abandoned, neglected, or surrendered
-Skip expensive puppy/kitten mills and support ethical animal care
-Receive a pet that’s already spayed/neutered, vaccinated, and microchipped (100% free!)
-Experience the joy of bonding with a pet who will shower you with unconditional love
-Join a community of fellow pet parents and receive ongoing support from our rescue team
-[Real-shot photo suggestion: A smiling child hugging a rescue dog in the park.]
-
-🐱🐶 Meet Our Adoptable Pets
-All our furry friends are healthy, socialized, and ready for their forever homes! We have:
-Pet Type
-Details
-Dogs
-Puppies (8 weeks–1 year), young adults (1–3 years), seniors (5+ years) – mixed breeds, Labradors, Chihuahuas, Beagles, and more! All are house-trained (where applicable) and friendly with kids/pets.
-Cats
-Kittens (10 weeks–1 year), adult cats (1–5 years), senior cats (6+ years) – domestic shorthairs, Persians, Siamese mixes, and tabbies. Litter-trained and socialized.
-Special Friends
-A few rabbits, guinea pigs, and birds available (ask our volunteers for details!)
-
-[Real-shot photo suggestion: A row of adoptable cats in cozy crates, looking at the camera.]
-
-📋 Adoption Process (Simple & Stress-Free!)
-Meet & Greet (15 mins): Spend time with your potential pet in our interaction area—see if you’re a perfect match!
-Application (10 mins): Fill out a short, friendly form (no complicated questions!). We’ll ask about your home, lifestyle, and experience with pets.
-Interview (5–10 mins): Chat with a volunteer to ensure the pet’s needs align with your home (we want the best for everyone!).
-Approval (Same Day!): Most applications are approved on the spot—we don’t have long waiting lists.
-Take Home Your New Friend: Sign the adoption agreement (no adoption fee—donations are welcome!) and receive a welcome kit.
-[Real-shot photo suggestion: Volunteer helping a family fill out an adoption application with a puppy on their lap.]
-
-🎯 Adoption Requirements (For Their Safety & Happiness)
-Be 18 years or older (minors must be accompanied by a parent/guardian)
-Have a stable home (own or rent—renters need permission from landlords)
-Agree to provide regular veterinary care, food, shelter, and love
-Promise never to abandon, surrender, or rehome the pet without contacting us first
-Have the time and resources to care for a pet (e.g., walks for dogs, playtime for cats)
-Note: We do not discriminate based on living situation, family size, or experience—we just want responsible, loving homes!
-
-✨ What You’ll Receive (Free Welcome Kit!)
-Every adopter gets a 礼包 to help their new pet settle in:
-Spay/neuter certificate and vaccination records
-Microchip registration (lifetime ID for your pet)
-1-month supply of pet food (brand tailored to your pet’s age/needs)
-Collar, leash (for dogs), or carrier (for cats)
-Pet wellness coupon (free first check-up at Community Pet Wellness Center)
-Training guide and behavior tips from our experts
-[Real-shot photo suggestion: A display of welcome kits with pet food, collars, and guides.]
-
-🎉 Event Highlights (Fun for the Whole Family!)
-Pet costume contest (12:00 PM) – Prizes for “Cutest,” “Funniest,” and “Most Creative”!
-Free pet photo booth (11:00 AM – 3:00 PM) – Capture memories with your new furry friend
-Kids’ craft station (make DIY pet toys) – Free for children 12 and under
-Pet wellness checks (10:00 AM – 3:00 PM) – Free exams for adoptable pets (and advice for your current pets!)
-Food trucks and refreshments – Delicious snacks for humans (proceeds support our rescue!)
-[Real-shot photo suggestion: A family posing with their newly adopted dog at the photo booth.]
-
-❓ Frequently Asked Questions
-Q: Is there an adoption fee?
-A: No! All adoptions are free—we rely on donations and sponsorships to cover vet costs. Any donation you choose to give helps us save more animals.
-Q: Can I bring my current pets to meet the adoptable one?
-A: Absolutely! We encourage it—just bring them on a leash (dogs) or in a carrier (cats) to ensure everyone’s safety.
-Q: What if my new pet doesn’t get along with my family/pets?
-A: We offer a 2-week trial period. If it’s not a good fit, bring the pet back, and we’ll help you find a better match—no questions asked.
-Q: Do you have pets with special needs?
-A: Yes! Some of our pets have minor health issues or behavioral needs (e.g., anxiety, blindness). We’ll share all details upfront, and our team will provide support to help you care for them.
-Q: Can I pre-meet a pet before the event?
-A: Yes! Email us with the pet’s name (check our website for profiles) to schedule a private meet-and-greet at our rescue center.
-
-🤝 How to Support Us
-Even if you can’t adopt, you can help:
-Donate: Pet food, toys, blankets, or monetary gifts (drop off at the event or online).
-Volunteer: Help with pet care, event setup, or fostering (we always need foster homes!).
-Share: Tell friends, family, and social media about Adoption Day—you might help a pet find their forever home!
-
-📞 For More Information
-Phone: [phone redacted] (Mon–Fri, 9:00 AM – 5:00 PM)
-Email: [email redacted]
-Website: www.pawsandheartsrescue.org/adoptionday
-Social Media: @PawsAndHeartsRescue (Facebook/Instagram) – Follow for pet profiles!
-
-🐾 “Home is Where the Paws Are”
-— Paws & Hearts Animal Rescue Team
-All pets are rescued, rehabilitated, and ready to love—we just need you to open your heart and home!
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/2024-pet-adoption-day-at-greenfield-park?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-2024-pet-adoption-day-at-greenfield-park)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/2024-pet-adoption-day-at-greenfield-park?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-2024-pet-adoption-day-at-greenfield-park)**
-
----
-
-### 44. 8K Flyer Design for Community Health Free Clinic
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/8k-flyer-design-for-community-health-free-clinic?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-8k-flyer-design-for-community-health-free-clinic"><img src="https://img-volc.jianpian.info/overseas/thumbnail/51805611/19txvi/19txvi-1766577573851.jpeg" alt="8K Flyer Design for Community Health Free Clinic — generated Webpage result" width="720"></a>
-</p>
-
-**Output:** Webpage · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Design a flyer themed Community Health Free Clinic.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.
-The detailed content is as follows:
-
-🏥 Community Health Free Clinic: Care for All, No Cost to You!
-Serving [Maplewood & Surrounding Neighborhoods] Since 2018
-Address: [address redacted]
-Contact: [phone redacted] | [email redacted] | www.maplewoodfreeclinic.org
-
-❤️ Our Mission
-We believe quality healthcare is a right, not a privilege. Our volunteer-driven clinic provides free, confidential medical services to uninsured, underinsured, and low-income residents. No insurance, ID, or citizenship status required—we care for you simply because you need it.
-
-🩺 Services We Offer (100% Free)
-Service Category
-Details
-Primary Care
-Routine check-ups, cold/flu treatment, chronic disease management (diabetes, hypertension), vaccinations (flu, COVID-19, MMR, etc.)
-Pediatric Care
-Well-child visits, immunizations, minor illness treatment, growth/development screenings (for kids 0–18)
-Women’s Health
-Annual exams, prenatal consultations, contraceptive counseling, menstrual health support
-Dental Care
-Cleanings, cavity fillings, extractions, oral health education (limited slots—pre-registration recommended)
-Mental Health
-Individual counseling, stress/anxiety support, referrals for ongoing care (by licensed therapists)
-Additional Support
-Free prescriptions (generic medications), lab tests (blood work, urine tests), health education workshops, referrals to specialists
-
-[Real-shot photo suggestion: Friendly doctor consulting with a patient in a bright exam room.]
-
-📅 Operating Hours
-Day
-Time
-Services Available
-Monday
-2:00 PM – 7:00 PM
-Primary Care, Pediatrics, Lab Tests
-Wednesday
-10:00 AM – 5:00 PM
-Primary Care, Women’s Health, Mental Health
-Friday
-1:00 PM – 6:00 PM
-Primary Care, Dental Care (by appointment)
-Saturday
-9:00 AM – 1:00 PM
-Walk-in Clinic (Minor Illnesses/Injuries Only)
-
-Note: Dental and mental health services require advance booking. All other services accept walk-ins.
-
-📝 How to Receive Care
-Check-In (10 mins): Visit the front desk with basic contact information (no ID needed). Let staff know your reason for visit.
-Consultation (20–30 mins): Meet with a volunteer provider (doctor, nurse, or specialist) for evaluation and treatment.
-Follow-Up (As Needed): Receive prescriptions, lab orders, or referrals. Staff will schedule return visits if required.
-Resources (Post-Visit): Get free health materials, nutrition tips, or information on community support programs.
-[Real-shot photo suggestion: Front desk staff assisting a patient with check-in.]
-
-🎯 Who Can Visit?
-Uninsured or underinsured adults and children
-Low-income residents (household income below 200% of federal poverty level)
-Homeless individuals and families
-Immigrants (regardless of citizenship status)
-Anyone unable to access affordable healthcare
-
-✨ What You Need to Bring
-Nothing is required! But feel free to bring:
-• Current medications (bottles or list)
-• Medical records (if available)
-• Eyeglasses (for vision-related concerns)
-• A friend/companion for support (optional)
-
-❓ Frequently Asked Questions
-Q: Is there any cost for services?
-A: No! All medical care, medications, and tests are 100% free. We do not accept payments or insurance.
-Q: Do I need an appointment?
-A: Walk-ins are welcome for primary care and urgent minor issues. Dental, mental health, and pediatric services are better with appointments (call or email to book).
-Q: Are services confidential?
-A: Yes! Your medical information is protected by HIPAA—we never share personal details without your permission.
-Q: Can I get a prescription filled here?
-A: We provide free generic medications on-site for most conditions. For specialized drugs, we offer referrals to low-cost pharmacies.
-Q: Are language services available?
-A: Yes! We have volunteers who speak Spanish, Mandarin, Vietnamese, and Arabic. Request an interpreter at check-in.
-[Real-shot photo suggestion: Volunteer pharmacist handing a patient free medication.]
-
-🤝 How to Support Us
-We rely on donations and volunteers to serve our community:
-Donate: Give medical supplies, funds, or non-perishable snacks for patients (visit our website to donate online).
-Volunteer: Doctors, nurses, dentists, therapists, and administrative volunteers are always needed.
-Spread the Word: Tell friends, neighbors, or local organizations about our free services!
-
-📞 For More Information
-Phone: [phone redacted] (Mon–Fri, 9:00 AM – 4:00 PM)
-Email: [email redacted]
-Website: www.maplewoodfreeclinic.org
-Social Media: @MaplewoodFreeClinic (Facebook/Instagram)
-
-🌟 “Healthy Communities Start with Accessible Care”
-— Maplewood Community Health Free Clinic Team
-We are a 501(c)(3) non-profit organization. All donations are tax-deductible.
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/8k-flyer-design-for-community-health-free-clinic?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-8k-flyer-design-for-community-health-free-clinic)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/8k-flyer-design-for-community-health-free-clinic?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-8k-flyer-design-for-community-health-free-clinic)**
-
----
-
-### 45. Accessibility Dilemmas in the U.S. Healthcare System
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/accessibility-dilemmas-in-the-u-s-healthcare-system?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-accessibility-dilemmas-in-the-u-s-healthcare-system"><img src="https://img-volc.jianpian.info/overseas/thumbnail/48703444/mfdzz/mfdzz-1764914041705.jpeg" alt="Accessibility Dilemmas in the U.S. Healthcare System — generated Document result" width="720"></a>
-</p>
-
-**Output:** Document · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Summarize the information from the reference documents and generate a document (doc) on the theme: "Accessibility Dilemmas in the U.S. Healthcare System: A Study on the Middle Class's Healthcare Burden and Health Insurance Coverage Gaps". Present the content in a graphical format with a word count of 2,000.
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/accessibility-dilemmas-in-the-u-s-healthcare-system?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-accessibility-dilemmas-in-the-u-s-healthcare-system)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/accessibility-dilemmas-in-the-u-s-healthcare-system?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-accessibility-dilemmas-in-the-u-s-healthcare-system)**
-
----
-
-### 46. American Red Cross Hurricane Emergency Response Team Training Manual
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/american-red-cross-hurricane-emergency-response-team-training-manual?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-american-red-cross-hurricane-emergency-response-team-training-manual"><img src="https://img-volc.jianpian.info/overseas/thumbnail/48703444/mdy75/mdy75-1764914028000.jpeg" alt="American Red Cross Hurricane Emergency Response Team Training Manual — generated Document result" width="720"></a>
-</p>
-
-**Output:** Document · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Make the attached document’s formatting look nicer
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/american-red-cross-hurricane-emergency-response-team-training-manual?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-american-red-cross-hurricane-emergency-response-team-training-manual)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/american-red-cross-hurricane-emergency-response-team-training-manual?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-american-red-cross-hurricane-emergency-response-team-training-manual)**
-
----
-
-### 47. Community Free Vaccination Sites: Complete Guide
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/community-free-vaccination-sites-complete-guide?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-community-free-vaccination-sites-complete-guide"><img src="https://img-volc.jianpian.info/overseas/thumbnail/52426310/xffl4/xffl4-1766025473535.jpeg" alt="Community Free Vaccination Sites: Complete Guide — generated Webpage result" width="720"></a>
-</p>
-
-**Output:** Webpage · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Design a flyer themed Guidance on Community Free Vaccination Sites.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.
-The detailed content is as follows:
-
-🩹 Community Free Vaccination Sites: Complete Guidance
-Your Health, Our Priority – Get Vaccinated Safely & Conveniently!
-
-🌟 What You Need to Know First
-We’re offering free, no-cost vaccinations for residents of [Your City/Neighborhood] and surrounding areas. This initiative aims to protect our community from preventable diseases, boost immunity, and promote public health for all ages. No insurance, ID, or appointment is required (walk-ins welcome!), but pre-registration is encouraged to save time.
-📍 Vaccination Site Locations & Operating Hours
-Site Name
-Address
-Days of Operation
-Time
-Contact Number
-Greenfield Community Center
-123 Maple Street, Greenfield
-Monday – Friday
-9:00 AM – 6:00 PM
-[phone redacted]
-Rivertown Health Clinic
-456 Oak Avenue, Rivertown
-Tuesday – Saturday
-10:00 AM – 7:00 PM
-[phone redacted]
-Westside Senior Center
-789 Pine Road, Westside
-Wednesday – Sunday
-8:30 AM – 5:00 PM
-[phone redacted]
-Downtown Public Library (Conference Room)
-321 Cedar Lane, Downtown
-Saturday – Monday
-11:00 AM – 4:00 PM
-[phone redacted]
-
-Note: All sites are wheelchair-accessible and provide free parking.
-💉 Vaccines Available (For All Eligible Ages)
-COVID-19 (Primary Series & Boosters, including updated variants)
-Influenza (Flu Shot – Seasonal)
-Measles, Mumps, Rubella (MMR)
-Hepatitis A & B
-Tetanus, Diphtheria, Pertussis (Tdap)
-Polio
-Varicella (Chickenpox)
-HPV (Human Papillomavirus) – For teens & young adults (9–26 years old)
-Please ask staff for age-specific eligibility and vaccine details.
-📝 Step-by-Step Vaccination Process
-Check-In (5–10 mins): Provide basic information (name, age, contact) – no ID required. Pre-register online at [www.yourcommunityhealth.org/vaccine] to skip the line!
-Consultation (10 mins): A healthcare provider will answer your questions, review your health history, and confirm eligibility.
-Vaccination (5 mins): Quick, gentle administration by a licensed nurse or pharmacist.
-Observation (15–30 mins): Stay in the designated area to monitor for rare allergic reactions (refreshments provided!).
-Follow-Up (Post-Vaccine): Receive a digital/physical vaccine record card. Staff will share post-vaccine care tips (e.g., managing mild soreness).
-❗ Important Notes for Attendees
-Eligibility: Open to all residents (adults, children, seniors) – no citizenship or residency status required.
-For Minors: Children under 18 must be accompanied by a parent/guardian. Bring a copy of the child’s immunization record (if available).
-Health Considerations: Inform staff of any allergies, current medications, or recent illnesses (e.g., fever, severe cold) before vaccination.
-Accessibility: Free language interpretation (Spanish, Chinese, Arabic, etc.) is available – request at check-in.
-Safety Measures: All sites follow CDC guidelines (cleaning protocols, optional masking for immunocompromised individuals).
-❓ Frequently Asked Questions (FAQs)
-Q: Do I need to make an appointment?
-A: No – walk-ins are always welcome! Pre-registration (online or by phone) helps reduce wait times.
-Q: Is there any cost involved?
-A: No! All vaccines, consultations, and materials are 100% free. No insurance or payment information is collected.
-Q: Can I get multiple vaccines in one visit?
-A: Yes – healthcare providers can administer eligible vaccines during the same appointment (e.g., flu shot + COVID booster).
-Q: Will I receive proof of vaccination?
-A: Yes – you’ll get a official vaccine record card (digital and physical copies available) for your records.
-Q: What if I feel unwell after vaccination?
-A: Mild side effects (soreness, fatigue, low fever) are normal and usually last 1–2 days. Contact the site or your doctor if symptoms persist or worsen.
-
-📞 For More Information
-Official Website: [www.yourcommunityhealth.org/vaccine]
-Toll-Free Hotline: [phone redacted] (Mon–Fri, 8:00 AM – 8:00 PM)
-Email: [email redacted]
-🤝 Stay Protected, Stay Connected
-Vaccination is the best way to keep yourself, your family, and our community healthy. Spread the word – bring a friend, neighbor, or family member to get vaccinated together!
-“Healthy Communities Start with Vaccinated Residents”
-— [Your City Health Department / Local Health Organization]
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/community-free-vaccination-sites-complete-guide?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-community-free-vaccination-sites-complete-guide)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/community-free-vaccination-sites-complete-guide?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-community-free-vaccination-sites-complete-guide)**
-
----
-
-### 48. Corporate Team Building Activity Guide
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/corporate-team-building-activity-guide?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-corporate-team-building-activity-guide"><img src="https://img-volc.jianpian.info/overseas/thumbnail/48703444/m64lk/m64lk-1764914020696.jpeg" alt="Corporate Team Building Activity Guide — generated Document result" width="720"></a>
-</p>
-
-**Output:** Document · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Please generate a Corporate Team Building Activity Guide with the following requirements:
-Comprehensive structure: Including Introduction, Value of Team Building, Core Benefits, Planning Process, Activity Types, Evaluation Methods, Post-Activity Follow-up, and Conclusion;
-Practical content: Incorporating specific activity cases, process steps, and venue selection recommendations;
-Formal and professional style, suitable for corporate HR professionals;
-Word count: Approximately 500 words, in Word format.
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/corporate-team-building-activity-guide?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-corporate-team-building-activity-guide)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/corporate-team-building-activity-guide?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-corporate-team-building-activity-guide)**
-
----
-
-### 49. Four Leaflets for Family Adolescent Mental Health
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/four-leaflets-for-family-adolescent-mental-health?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-four-leaflets-for-family-adolescent-mental-health"><img src="https://img-volc.jianpian.info/overseas/thumbnail/47834393/fd966dcc-1433-4f65-9764-27df12af24e9-1767771963628.jpeg" alt="Four Leaflets for Family Adolescent Mental Health — generated Webpage result" width="720"></a>
-</p>
-
-**Output:** Webpage · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Please help me generate four leaflets on family-based adolescent mental health (please note these are leaflets). The overall layout should be well-spaced, and the background should reflect a healing and positive mental health atmosphere.
-
-The main title, "Protecting the Minds of Youth, Building Harmonious Families," should be centered at the top, with the italicized subtitle below, "Using Love as a Bridge to Protect Growth—Families Empowering Adolescent Mental Health." One leaflet should be for teenagers.
-
-The left vertical column should include core information: Target audience (12-18 years old), core purpose (popularizing mental health knowledge, providing methods for family support, and building a collaborative support system involving families, schools, and communities), and organizing body (Adolescent Mental Health Association, Family Education Exchange Center).
-
-The top left area should present "Core Understanding": a brief overview of the current mental health situation among teenagers (15%-20% experience psychological distress, including academic anxiety and social difficulties, which are increasingly affecting younger and more hidden individuals), emphasizing the core role of the family in adolescent mental health (creating a supportive environment, fostering positive communication, and balancing rules with inclusivity).
-
-The right-hand section is divided into two parts: the upper part is the "Guide to Identifying Psychological Distress," which extracts key warning signs across four dimensions: emotion, behavior, social interaction, and academic performance (such as abnormal mood swings, disrupted sleep patterns, social withdrawal, and a sudden drop in grades, marked "Be alert if multiple signs persist for more than two weeks"); the lower part is "Common Misconceptions in Family Support," listing four common misconceptions and correct approaches (such as not equating psychological problems with rebellion, balancing protection and letting go).
-
-The lower left section is the "Family Action Guide," which focuses on four dimensions: communication, inclusion, empowerment, and boundaries, extracting core methods (equal dialogue and listening, respecting privacy and differences, cultivating emotional management skills, and jointly developing reasonable rules). Each point is paired with a small icon for easy understanding.
-
-The bottom banner prominently displays "Local Support Resources" and initiatives: Emergency Assistance (Mental Health Crisis Hotline 116 123, Medical Assistance 15), and Regular Resources (School Counselors, Hospital Psychology Departments, Non-profit Organizations, and Online Resources). On the right, a family initiative, "Accompanying with Love, Protecting Youthful Growth with Understanding," is displayed in gentle handwriting, with a consultation hotline below (+33-1-XXXX-XXXX, weekdays 9:00-18:00).
-
-The overall design combines a sense of healing with sophistication, with moderate contrast between text and background and soft details (icons with light shadows and gradient light-colored blocks used for section transitions).
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/four-leaflets-for-family-adolescent-mental-health?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-four-leaflets-for-family-adolescent-mental-health)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/four-leaflets-for-family-adolescent-mental-health?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-four-leaflets-for-family-adolescent-mental-health)**
-
----
-
-### 50. Free Kids' English Lectures: Register Now!
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/free-kids-english-lectures-register-now?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-free-kids-english-lectures-register-now"><img src="https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh843/xh843-1766027645963.jpeg" alt="Free Kids' English Lectures: Register Now! — generated Webpage result" width="720"></a>
-</p>
-
-**Output:** Webpage · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Design a flyer themed Registration Promotion for Public Lectures on Children's English Enlightenment.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.
-The detailed content is as follows:
-
-🎈 Spark Your Child’s English Journey: Free Public Lectures on Early English Enlightenment
-For Kids Ages 3–8 & Their Parents | Interactive, Fun & 100% Free
-Host: Little English Explorers Foundation | Partner: Kids’ Language Hub
-Contact: [phone redacted] | [email redacted] | www.littleexplorers.org/english-kids
-🌟 Why You Can’t Miss These Lectures
-Tired of boring drills that kill your child’s interest in English? Our expert-designed lectures blend play-based learning and scientifically proven strategies to make English a joy, not a chore!
-Attend and you’ll get:
-Parent-friendly tools: Turn daily routines (mealtime, bedtime, playtime) into English learning moments—no extra time or money needed!
-Hands-on activities: Live demos of songs, rhymes, story games, and crafts that boost listening, speaking, and phonics skills.
-Expert guidance: Q&A sessions with certified ESL teachers (10+ years of early childhood education experience).
-Free resources pack: Printable flashcards, story scripts, game templates, and a parent handbook—valued at $49!
-Exclusive community access: Join our private parent group for ongoing tips, resource sharing, and support.
-[Real-shot photo spot: Kids and parents laughing while playing an English vocabulary game together.]
-📅 Lecture Schedule & Topics
-Date	Time	Target Age Group	Lecture Topic	Location	Key Takeaways
-Saturday, [Dec 14]	10:00 AM – 11:30 AM	3–5 Years	Songs & Rhymes: Build English Ears Easily	Sunflower Community Center (123 Maple Street)	5 catchy songs to teach letters/numbers; fingerplays for daily vocabulary; bath-time learning hacks
-Saturday, [Dec 21]	2:00 PM – 3:30 PM	4–6 Years	Storytime Magic: Ignite Reading Interest	City Library Meeting Room (456 Oak Avenue)	How to read English picture books with expression; role-play activities; free age-appropriate e-book list
-Sunday, [Dec 28]	10:00 AM – 11:30 AM	5–8 Years	Playful Conversations: Get Kids Speaking Confidently	Little Explorers Learning Hub (789 Pine Road)	10+ daily dialogue prompts; game-based speaking practice; tips to encourage shy kids to talk
-🎯 Who Should Come?
-Parents/guardians of children aged 3–8 who want to introduce English in a fun, low-pressure way
-Preschool teachers and caregivers looking for classroom-ready English activities
-Families new to English education, or those tired of ineffective learning methods
-🎁 Free Gift for All Registrants!
-Every child gets a English Starter Kit on the day, including:
-Waterproof vocab flashcards (animals, colors, food)
-DIY English game templates (bingo, matching)
-Sticker chart to track learning progress
-A free English picture book (limited to first 50 families!)
-[Real-shot photo spot: A child showing off their English Starter Kit with a big smile.]
-📲 How to Register (Limited Slots!)
-Spots fill fast—register now to secure your place!
-Online Registration (Fastest!): Visit [www.littleexplorers.org/english-kids] and fill in the simple form (name, contact, child’s age, preferred lecture date).
-Phone Registration: Call [phone redacted] (Mon–Fri, 9:00 AM – 5:00 PM).
-On-Site Registration: Drop by Little Explorers Learning Hub during business hours.
-✅ Bonus: Register for 2+ lectures and get a free 30-day access to our online English mini-course!✅ Confirmation: A digital ticket will be sent to your email/SMS within 24 hours.
-📌 Important Notes
-Each child must be accompanied by 1–2 adults (to join parent-child activities).
-No English background required for parents—we provide simple, easy-to-follow guidance.
-Light snacks and water will be provided for kids (allergen-free options available).
-Translation services (Mandarin, Spanish) are available—request when registering.
-All lectures are free—no hidden fees, no mandatory purchases.
-❓ Frequently Asked Questions
-Q: My child has zero English experience—can they join?A: Absolutely! The lectures are designed for beginners. We focus on building interest first, not perfection.
-Q: What if I can’t attend after registering?A: Please inform us 24 hours in advance via phone/email, so we can offer your spot to another family.
-Q: Will there be follow-up support after the lectures?A: Yes! All registrants get access to our private parent group with weekly tips and live Q&A sessions.
-📣 Spread the Word!
-Know other parents who want to make English fun for their kids? Share this flyer or tag them on social media with #LittleEnglishExplorers. Learning together is more fun!
-“Every Child Can Fall in Love with English—They Just Need the Right Start!”
-— Little English Explorers Foundation Team
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/free-kids-english-lectures-register-now?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-free-kids-english-lectures-register-now)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/free-kids-english-lectures-register-now?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-free-kids-english-lectures-register-now)**
-
----
-
-### 51. GlobalLink Annual Technology Summit Invitation
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/globallink-annual-technology-summit-invitation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-globallink-annual-technology-summit-invitation"><img src="https://img-volc.jianpian.info/overseas/thumbnail/48703444/m4j9c/m4j9c-1764914015419.jpeg" alt="GlobalLink Annual Technology Summit Invitation — generated Document result" width="720"></a>
-</p>
-
-**Output:** Document · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Please generate a formal invitation letter in Word format. The content is provided in the attached file, and please incorporate the images I supplied.
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/globallink-annual-technology-summit-invitation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-globallink-annual-technology-summit-invitation)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/globallink-annual-technology-summit-invitation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-globallink-annual-technology-summit-invitation)**
-
----
-
-### 52. Maplewood Open House 2024: Discover Child's Future
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/maplewood-open-house-2024-discover-childs-future?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-maplewood-open-house-2024-discover-childs-future"><img src="https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh1a4/xh1a4-1766027552078.jpeg" alt="Maplewood Open House 2024: Discover Child's Future — generated Webpage result" width="720"></a>
-</p>
-
-**Output:** Webpage · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Design a flyer themed School Open House.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.
-The detailed content is as follows:
-
-🎉 [School Name] Open House: Discover Your Child’s Future!
-Date: [Saturday, October 19, 2024] | Time: 9:00 AM – 3:00 PM
-Address: [address redacted] Contact: [phone redacted] | [email redacted]
-
-🌟 Why Attend Our Open House?
-Join us for a day of exploration, connection, and discovery! This is your chance to:
-Tour our state-of-the-art classrooms, science labs, art studios, and sports facilities
-Meet dedicated teachers, administrators, and current students/families
-Learn about our rigorous academic programs, extracurricular activities, and college prep support
-Experience interactive demos (STEM workshops, music performances, language classes)
-Get answers to all your questions about admissions, tuition assistance, and student life
-Enjoy free refreshments and fun activities for kids (crafts, campus scavenger hunt, playground time)
-
-🎯 Who Should Come?
-Prospective students (Preschool – 12th Grade) and their parents/guardians
-Families considering a school transfer
-Community members interested in our programs
-Alumni and current families (bring a friend!)
-
-✨ What Makes [School Name] Unique?
-Student-Centered Learning: Small class sizes (1:12 teacher-student ratio) and personalized lesson plans
-Top-Tier Faculty: 95% of teachers hold advanced degrees in their fields
-Holistic Development: Balance of academics, athletics, arts, and character education
-Safe & Inclusive Community: Anti-bullying policies, diverse student body, and mental health support
-Proven Results: 98% college acceptance rate for graduates (top 50 universities nationwide)
-Tuition Assistance: Scholarships, grants, and payment plans available for eligible families
-
-📲 How to Register (Optional but Recommended)
-Save time on the day by pre-registering!
-Online: Visit [www.maplewoodacademy.edu/openhouse]
-Phone: Call [phone redacted] (Mon-Fri, 8:00 AM – 4:00 PM)
-Email: Send your name, number of attendees, and grade level interest to [email redacted]
-Walk-ins are always welcome – no registration required!
-
-📌 Important Notes
-Free parking available on campus (enter via Oak Street entrance)
-Accessible facilities for strollers, wheelchairs, and mobility aids
-Translation services available (Spanish, Mandarin, French) – request at registration
-Dress comfortably (campus involves walking outdoors!)
-
-📣 Spread the Word!
-Tag a friend or family member who might be interested – share this event on social media with #MaplewoodOpenHouse2024!
-We can’t wait to welcome you to our campus and show you how [School Name] inspires students to grow, learn, and thrive.
-Your child’s journey to excellence starts here!
-“Education is not the filling of a pail, but the lighting of a fire.” – William Butler Yeats
-— [Maplewood International Academy]
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/maplewood-open-house-2024-discover-childs-future?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-maplewood-open-house-2024-discover-childs-future)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/maplewood-open-house-2024-discover-childs-future?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-maplewood-open-house-2024-discover-childs-future)**
-
----
-
-### 53. Stanford University Class of 2010: 15th Reunion Planning Proposal
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/stanford-university-class-of-2010-15th-reunion-planning-proposal?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-stanford-university-class-of-2010-15th-reunion-planning-proposal"><img src="https://img-volc.jianpian.info/overseas/thumbnail/48703444/mey4z/mey4z-1764914034647.jpeg" alt="Stanford University Class of 2010: 15th Reunion Planning Proposal — generated Document result" width="720"></a>
-</p>
-
-**Output:** Document · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Write a document on the theme: "Stanford University Class of 2010: 15th Reunion Planning Proposal", using the reference document
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/stanford-university-class-of-2010-15th-reunion-planning-proposal?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-stanford-university-class-of-2010-15th-reunion-planning-proposal)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/stanford-university-class-of-2010-15th-reunion-planning-proposal?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-stanford-university-class-of-2010-15th-reunion-planning-proposal)**
-
----
-
-### 54. Student Organization Recruitment Plan
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/student-organization-recruitment-plan?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-student-organization-recruitment-plan"><img src="https://img-volc.jianpian.info/overseas/thumbnail/48703444/m4svh/m4svh-1764914018745.jpeg" alt="Student Organization Recruitment Plan — generated Document result" width="720"></a>
-</p>
-
-**Output:** Document · **Result assets:** 1
-
-#### Original prompt
-
-```text
-Generate a student organization recruitment plan document including the following sections: Recruitment Objectives, Recruitment Timeline & Schedule, Recruitment Activities, Membership Benefits, Recruitment Strategies, Budget Allocation, Evaluation & Follow-up, and Contact Information.
-```
-
-**[View the complete creative process →](https://www.pagepop.ai/use-cases/student-organization-recruitment-plan?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-student-organization-recruitment-plan)** · **[Create in PagePop →](https://www.pagepop.ai/use-cases/student-organization-recruitment-plan?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=create-student-organization-recruitment-plan)**
-
----
-
 <a id="slides"></a>
 
 ## 📊 Presentation Prompts & Use Cases
 
 [Browse the Slides gallery on PagePop →](https://www.pagepop.ai/use-cases/categories/slides?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-heading-slides)
 
-### 55. AI Development Direction Plan 2026
+### AI Development Direction Plan 2026
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/ai-development-direction-plan-2026?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-ai-development-direction-plan-2026"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685016955_47834393_yj1DV.png" alt="AI Development Direction Plan 2026 — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 12
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1537,13 +941,13 @@ We are an ordinary media company. Please generate a slideshow for a feasible AI 
 
 ---
 
-### 56. Cosmic Neighborhood 101: A Journey Through Our Solar System
+### Cosmic Neighborhood 101: A Journey Through Our Solar System
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/cosmic-neighborhood-101-a-journey-through-our-solar-system?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-cosmic-neighborhood-101-a-journey-through-our-solar-system"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687943110_51957609_o3v2h.png" alt="Cosmic Neighborhood 101: A Journey Through Our Solar System — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 10
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1556,13 +960,13 @@ Highlight key points in bold, avoid complex and obscure professional terms, and 
 
 ---
 
-### 57. Exodus: The Horizon Protocol
+### Exodus: The Horizon Protocol
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/exodus-the-horizon-protocol?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-exodus-the-horizon-protocol"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770793432831_51957609_z5vlj.png" alt="Exodus: The Horizon Protocol — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 11
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1574,13 +978,13 @@ Create a space adventure comic about humanity searching for a new livable home i
 
 ---
 
-### 58. Global Representative Wines: A Journey Through World's Premier Wine Regions
+### Global Representative Wines: A Journey Through World's Premier Wine Regions
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/global-representative-wines-a-journey-through-worlds-premier-wine-regions?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-global-representative-wines-a-journey-through-worlds-premier-wine-regions"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683058274_49068998_l1KAS.png" alt="Global Representative Wines: A Journey Through World's Premier Wine Regions — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 8
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1592,13 +996,13 @@ do me a powerpoint slides with at least 6 pages, which is about global represent
 
 ---
 
-### 59. KIKI: The Fluffy Adventurer
+### KIKI: The Fluffy Adventurer
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/kiki-the-fluffy-adventurer?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kiki-the-fluffy-adventurer"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797976150_51957609_mIPsT.png" alt="KIKI: The Fluffy Adventurer — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 8
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1618,13 +1022,13 @@ In her owner’s arms, KIKI thinks: What a great adventure!
 
 ---
 
-### 60. Pophie: The Era of Organic AI Companionship
+### Pophie: The Era of Organic AI Companionship
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/pophie-the-era-of-organic-ai-companionship?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pophie-the-era-of-organic-ai-companionship"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685002814_47834393_laQ2m.png" alt="Pophie: The Era of Organic AI Companionship — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 10
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1636,13 +1040,13 @@ Make a product marketing slide deck from this document and website.You must use 
 
 ---
 
-### 61. The Chameleon Identity Architecture
+### The Chameleon Identity Architecture
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/the-chameleon-identity-architecture?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-chameleon-identity-architecture"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799950064_51957609_Za2qU.png" alt="The Chameleon Identity Architecture — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 6
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1660,13 +1064,13 @@ Please change the clothes, background and pose of the person in the image, ensur
 
 ---
 
-### 62. The Knights and the Naughty Dragon: A Bedtime Tale
+### The Knights and the Naughty Dragon: A Bedtime Tale
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/the-knights-and-the-naughty-dragon-a-bedtime-tale?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-knights-and-the-naughty-dragon-a-bedtime-tale"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807638629_51957609_p9CB0.png" alt="The Knights and the Naughty Dragon: A Bedtime Tale — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 11
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1678,13 +1082,13 @@ I want AI to help me create a bedtime story. The story is about a black dragon c
 
 ---
 
-### 63. The Little Prince: A Visual Whisper Journey
+### The Little Prince: A Visual Whisper Journey
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/the-little-prince-a-visual-whisper-journey?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-little-prince-a-visual-whisper-journey"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798981531_51957609_1A9DP.png" alt="The Little Prince: A Visual Whisper Journey — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 12
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1696,13 +1100,13 @@ Create a 12-page children's picture book-style PPT for The Little Prince, design
 
 ---
 
-### 64. The Midnight Protocol: A Noir Graphic Narrative
+### The Midnight Protocol: A Noir Graphic Narrative
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/the-midnight-protocol-a-noir-graphic-narrative?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-midnight-protocol-a-noir-graphic-narrative"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770790319501_51957609_07olZ.png" alt="The Midnight Protocol: A Noir Graphic Narrative — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 10
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1714,13 +1118,13 @@ Generate a detective story comic set on a rainy night, retro comic style, cool d
 
 ---
 
-### 65. The Trousdale Pinnacle: A Modern Masterpiece
+### The Trousdale Pinnacle: A Modern Masterpiece
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/the-trousdale-pinnacle-a-modern-masterpiece?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-trousdale-pinnacle-a-modern-masterpiece"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769689451063_51957609_gZtrV.png" alt="The Trousdale Pinnacle: A Modern Masterpiece — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 12
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1732,13 +1136,13 @@ I'm a real estate agent in Los Angeles and I need a 10 to 13-page ppt to introdu
 
 ---
 
-### 66. What Does a Healthy City Mean? - The Metabolic City Framework
+### What Does a Healthy City Mean? - The Metabolic City Framework
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/what-does-a-healthy-city-mean-the-metabolic-city-framework?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-what-does-a-healthy-city-mean-the-metabolic-city-framework"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684742250_47834393_agwE2.png" alt="What Does a Healthy City Mean? - The Metabolic City Framework — generated Presentation result" width="720"></a>
 </p>
 
-**Output:** Presentation · **Result assets:** 11
+**Output:** Presentation
 
 #### Original prompt
 
@@ -1756,13 +1160,13 @@ Make a product marketing slide deck from this pdf。
 
 [Browse the Social Post gallery on PagePop →](https://www.pagepop.ai/use-cases/categories/social-post?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-heading-social-post)
 
-### 67. Christmas Carnival Instagram Posts - Festive Activities
+### Christmas Carnival Instagram Posts - Festive Activities
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/christmas-carnival-instagram-posts-festive-activities?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-christmas-carnival-instagram-posts-festive-activities"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915142729_1000_0eH0o.png" alt="Christmas Carnival Instagram Posts - Festive Activities — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -1774,13 +1178,13 @@ I need to create four social media operation images with a 1:1 aspect ratio, int
 
 ---
 
-### 68. Cinque Terre Village Travel Guide
+### Cinque Terre Village Travel Guide
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/cinque-terre-village-travel-guide?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-cinque-terre-village-travel-guide"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389011879_1000_kdm2c.png" alt="Cinque Terre Village Travel Guide — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -1792,13 +1196,13 @@ I need 4 different social media images with the theme of "Global Niche Travel Gu
 
 ---
 
-### 69. Energy Boost Station 2
+### Energy Boost Station 2
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/energy-boost-station-2?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-energy-boost-station-2"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387156008_1000_l1x0t.png" alt="Energy Boost Station 2 — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -1810,13 +1214,13 @@ I need 4 different social media images with the theme of "Worker's Energy Boost 
 
 ---
 
-### 70. Foundation Texture Close-up
+### Foundation Texture Close-up
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/foundation-texture-close-up?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-foundation-texture-close-up"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766392467916_1000_1f8BZ.png" alt="Foundation Texture Close-up — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 3
+**Output:** Image
 
 #### Original prompt
 
@@ -1828,13 +1232,13 @@ I need 4 social media pictures with different contents, the theme of which is "B
 
 ---
 
-### 71. Healing Social Media - Morning Tea
+### Healing Social Media - Morning Tea
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/healing-social-media-morning-tea?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-healing-social-media-morning-tea"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389511773_1000_pgOoY.png" alt="Healing Social Media - Morning Tea — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 3
+**Output:** Image
 
 #### Original prompt
 
@@ -1846,13 +1250,13 @@ I need 4 different social media images with the theme of 'Emotional Healing Litt
 
 ---
 
-### 72. Healthy Meal Image 4
+### Healthy Meal Image 4
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/healthy-meal-image-4?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-healthy-meal-image-4"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766386446772_1000_GprfP.png" alt="Healthy Meal Image 4 — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -1864,13 +1268,13 @@ I need 4 social media images with different content: focusing on healthy food, s
 
 ---
 
-### 73. Hidden Cafe Image 2
+### Hidden Cafe Image 2
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/hidden-cafe-image-2?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-hidden-cafe-image-2"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766385281530_1000_vYuBs.png" alt="Hidden Cafe Image 2 — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -1882,13 +1286,13 @@ I need 4 social media images: Cozy hidden caf é in a quiet urban alley, warm fa
 
 ---
 
-### 74. Minimalist Life - Stones
+### Minimalist Life - Stones
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/minimalist-life-stones?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-minimalist-life-stones"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766388395354_1000_bUOJL.png" alt="Minimalist Life - Stones — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -1900,13 +1304,13 @@ I need 4 social media images with different content, with the theme of "Minimali
 
 ---
 
-### 75. Nature Healing 1 - Misty Forest
+### Nature Healing 1 - Misty Forest
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/nature-healing-1-misty-forest?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nature-healing-1-misty-forest"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387322246_1000_CbzwD.png" alt="Nature Healing 1 - Misty Forest — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -1918,13 +1322,13 @@ I need 4 different social media images with the theme of "Nature Healing Everyda
 
 ---
 
-### 76. Pet Therapy - Golden Retriever
+### Pet Therapy - Golden Retriever
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/pet-therapy-golden-retriever?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pet-therapy-golden-retriever"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389022186_1000_j3zBf.png" alt="Pet Therapy - Golden Retriever — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -1936,13 +1340,13 @@ I need 4 different social media images with the theme of "Pet Healing Everyday",
 
 ---
 
-### 77. Valentine's Day Date Guide - Romantic TikTok Series
+### Valentine's Day Date Guide - Romantic TikTok Series
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/valentines-day-date-guide-romantic-tiktok-series?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-valentines-day-date-guide-romantic-tiktok-series"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915547237_1000_lgaU4.png" alt="Valentine's Day Date Guide - Romantic TikTok Series — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 
@@ -1954,13 +1358,13 @@ I need to create four social media operation images with a 1:1 aspect ratio, int
 
 ---
 
-### 78. Watercolor Set Social Media Image
+### Watercolor Set Social Media Image
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/watercolor-set-social-media-image?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-watercolor-set-social-media-image"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389200204_1000_WOKJ8.png" alt="Watercolor Set Social Media Image — generated Image result" width="720"></a>
 </p>
 
-**Output:** Image · **Result assets:** 4
+**Output:** Image
 
 #### Original prompt
 

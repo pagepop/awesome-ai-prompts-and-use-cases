@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "title": "Awesome AI Creative Prompts & Real-World Use Cases",
-  "description": "Real-world natural-language prompts with generated results for video, posters, image editing, e-commerce, documents, presentations, and social media.",
+  "description": "Real-world natural-language prompts with generated results for video, posters, image editing, e-commerce, presentations, and social media.",
   "publisher": "PagePop",
   "website": "https://www.pagepop.ai/use-cases",
   "locale": "en-US",
@@ -39,21 +39,15 @@
       "caseCount": 12
     },
     {
-      "slug": "document",
-      "label": "Document",
-      "order": 5,
-      "caseCount": 12
-    },
-    {
       "slug": "slides",
       "label": "Slides",
-      "order": 6,
+      "order": 5,
       "caseCount": 12
     },
     {
       "slug": "social-post",
       "label": "Social Post",
-      "order": 7,
+      "order": 6,
       "caseCount": 12
     }
   ],
@@ -62,7 +56,7 @@
       "slug": "aroma-diffuser-promo-video",
       "category": "video",
       "title": "Aroma Diffuser Promo Video",
-      "summary": "I'll help you create an e-commerce promotional video for your aroma diffuser. Let me use the ecommerce-video-generate skill to create a 10-second video in 720p resolution with a 16:9 aspect ratio based on your product image.",
+      "summary": "I'll help you create a 10-second e-commerce promotional video for your aroma diffuser in 720p at a 16:9 aspect ratio while keeping the original product details unchanged.",
       "originalPrompt": "The picture is of my product - the aroma diffuser. The original details of the product remain unchanged. An e-commerce promotional video is to be generated, lasting 10 seconds, in 720p resolution, with a 16:9 aspect ratio.",
       "websiteUrl": "https://www.pagepop.ai/use-cases/aroma-diffuser-promo-video",
       "updatedAt": "2026-05-19T12:21:15.248Z",
@@ -84,7 +78,7 @@
       "slug": "comedy-tank-standoff",
       "category": "video",
       "title": "Comedy Tank Standoff",
-      "summary": "I'll help you generate this comedy video scene. Let me use the common-video-generate skill to create this humorous family moment.",
+      "summary": "I'll help you create this humorous family comedy video scene with the requested duration, resolution, and visual style.",
       "originalPrompt": "Generate a video with a comedy scene set in a living room at home. A little girl and a dog are sitting inside a toy tank with serious and focused expressions. Opposite them, a small kitten is standing on a coffee table, creating a funny standoff between the two sides. Warm family environment, bright lighting, cartoon comedy style, and a humorous atmosphere.  15s，720p",
       "websiteUrl": "https://www.pagepop.ai/use-cases/comedy-tank-standoff",
       "updatedAt": "2026-05-19T10:56:05.835Z",
@@ -106,7 +100,7 @@
       "slug": "dolphin-sunset-transition",
       "category": "video",
       "title": "Dolphin Sunset Transition",
-      "summary": "I'll help you create a magical video that transitions from underwater dolphins to an ocean sunset. Let me use the common-video-generate skill to create this beautiful nature documentary-style video",
+      "summary": "I'll help you create a magical video that transitions smoothly from underwater dolphins to a peaceful ocean sunset in a nature-documentary style.",
       "originalPrompt": "Generate a video based on the reference image I provided. Start underwater with a group of dolphins swimming through clear blue ocean water, then smoothly transition as the camera rises toward the surface and moves into a peaceful wide ocean sunset view. Make the video feel magical, relaxing, and inspiring, like a beautiful nature documentary moment. Keep the movement smooth and natural, with gentle light rays, flowing water, and a calm emotional atmosphere.",
       "websiteUrl": "https://www.pagepop.ai/use-cases/dolphin-sunset-transition",
       "updatedAt": "2026-05-19T11:01:39.875Z",
@@ -128,7 +122,7 @@
       "slug": "grandma-moons-sweet-dream",
       "category": "video",
       "title": "Grandma Moon's Sweet Dream",
-      "summary": "I'll help you create a cartoon video for \"Grandma Moon's Sweet Dream\" using the kid_edu_cartoon skill, which is designed for creating educational cartoon videos for children aged 3-6.",
+      "summary": "I'll help you turn \"Grandma Moon's Sweet Dream\" into an age-appropriate educational cartoon video for young children.",
       "originalPrompt": "Generate a cartoon video:\n\"Grandma Moon’s Sweet Dream\"\n\nAt night, the moon hung high in the sky.\n\nBunny Sister said,\n“Grandma Moon likes children who go to sleep early the most.”\n\nKitten Sister asked,\n“Why?”\n\nBunny Sister said,\n“Because when you go to sleep early, Grandma Moon will send you a sweet dream.”\n\nAs soon as Kitten Sister heard that, she quickly lay down.\n\nShe closed her eyes and said,\n“Grandma Moon, I’m all tucked in.”\n\nBefore long, Kitten Sister fell asleep.\nShe dreamed that she was sitting in a little moon boat, rocking gently and smiling happily.\n\nThe next morning, Kitten Sister said happily,\n“Bunny Sister, I really did get a sweet dream!”",
       "websiteUrl": "https://www.pagepop.ai/use-cases/grandma-moons-sweet-dream",
       "updatedAt": "2026-05-18T04:18:04.360Z",
@@ -150,7 +144,7 @@
       "slug": "kitten-sisters-clean-teeth",
       "category": "video",
       "title": "Kitten Sister's Clean Teeth",
-      "summary": "I'll help you create a cartoon video based on this cute bedtime story about Kitten Sister and Bunny Sister. Let me use the kid_edu_cartoon skill which is specifically designed for creating educational cartoon videos for children.",
+      "summary": "I'll help you turn this bedtime story about Kitten Sister and Bunny Sister into an age-appropriate educational cartoon video for children.",
       "originalPrompt": "Generate a cartoon video:\n\nAt night, after Kitten Sister finished her little cookies, she wanted to go to sleep.\n\nBunny Sister said, “Wait a moment, there are still little cookie bits hiding in your tiny teeth.”\n\nKitten Sister opened her mouth wide and asked, “Where are they?”\n\nBunny Sister smiled and said, “Let the little toothbrush go find them.”\n\nKitten Sister picked up her toothbrush and brushed, brush, brush.\n\nShe brushed the top, the bottom, the inside, and the outside.\n\nBunny Sister said, “Look, all the little cookie bits are gone now.”\n\nKitten Sister said happily, “My teeth are nice and clean now. I can go to sleep!”",
       "websiteUrl": "https://www.pagepop.ai/use-cases/kitten-sisters-clean-teeth",
       "updatedAt": "2026-05-18T04:14:56.341Z",
@@ -172,7 +166,7 @@
       "slug": "quirky-object-transformations",
       "category": "video",
       "title": "Quirky Object Transformations",
-      "summary": "I'll help you create a quirky, attention-grabbing 15-second funny video for social media. Let me use the common video generation skill to create this for you.",
+      "summary": "I'll help you create a quirky, attention-grabbing 15-second video designed for social media.",
       "originalPrompt": "Help me create a 15-second funny video that is suitable for posting on social media platforms. The style should be quirky and easy to attract clicks.",
       "websiteUrl": "https://www.pagepop.ai/use-cases/quirky-object-transformations",
       "updatedAt": "2026-05-19T07:31:54.961Z",
@@ -328,7 +322,7 @@
       "slug": "meritus-paramedical-institute-posters-vertical-layout",
       "category": "poster-and-flyer",
       "title": "Meritus Paramedical Institute Posters - Vertical Layout",
-      "summary": "I'll help you create a professional, colorful poster for Meritus Paramedical Institute. Let me hand this over to our design specialist who will create a high-quality, horizontal layout poster with all your information and eye-catching visuals.",
+      "summary": "I'll help you create a professional, colorful horizontal poster for Meritus Paramedical Institute with larger text, the supplied course details, and eye-catching visuals.",
       "originalPrompt": "please prepare a poster for my Meritus Paramedical Institute (MPI). please use\nyour knowledge to make this better. please use bigger fonts. itshould be\nhorizontal layout. Contact- [phone redacted], [phone redacted], Email-\n[email redacted] address- [address redacted] eligibility 12th\nor equivalent with any stream. course are DMLT, B.Sc MLT, B.VcC MLT, DOTT,\nB.Sc OT, B.Voc OT, X-Ray technician, Dialysis technician & EmergencMedical\nTechnician Etc. please provide colorful and 4k quality",
       "websiteUrl": "https://www.pagepop.ai/use-cases/meritus-paramedical-institute-posters-vertical-layout",
       "updatedAt": "2025-12-17T09:14:34.000Z",
@@ -539,7 +533,7 @@
       "slug": "route-66-vintage-americana-posters-retro-road-trip-series",
       "category": "poster-and-flyer",
       "title": "Route 66 Vintage Americana Posters - Retro Road Trip Series",
-      "summary": "I'll create 4 posters with different styles for your Route 66 retro road trip promotion. Let me report this task and start designing these posters with bright tones and realistic photography style.",
+      "summary": "I'll create four Route 66 retro road trip posters with varied styles, bright tones, and realistic photography.",
       "originalPrompt": "Create 4 Posters with different styles, a brighter tone, Realistic photography style, themed around Promotion of Retro Road Trip on Route 66 . You can freely develop the copy on the Posters.",
       "websiteUrl": "https://www.pagepop.ai/use-cases/route-66-vintage-americana-posters-retro-road-trip-series",
       "updatedAt": "2025-11-25T07:26:38.000Z",
@@ -575,7 +569,7 @@
       "slug": "summer-sounds-fest-2027-poster-festival-design-collection",
       "category": "poster-and-flyer",
       "title": "Summer Sounds Fest 2027 Poster - Festival Design Collection",
-      "summary": "I'll help you create a summer festival poster with this content. This is a perfect job for our design specialist who can create a high-quality, visually appealing poster that captures the vibrant festival atmosphere.",
+      "summary": "I'll help you create a high-quality, visually appealing summer festival poster that captures the vibrant atmosphere and includes the supplied event content.",
       "originalPrompt": "create a summer festival poster using this content. SUMNMER SOUNDS FEST\n(Perth, WA)\nSUMMER SOUNDS FEST 2027\nPerth's Ultimate Summer Music Festival\nJanuary 1-3, 2027 • Langley Park, Perth WA\n3 Days. 4 Stages . 40+ Artists • Beachfront Vibes\nHEADLINERS:\nTame Impala\nFlume\nFisher\nThe Kid LAROI\nPeking Duk\nVera Blue\nTickets:\nWeekend Pass: $300\nSingle Day: $125\nVIP Camping Package: $550\nRegular Camping Pass: $300\nCAMP ON SITE . SUNSET STAGE · SILENT DISCO.FOOD TRUCK VILLAGE.\nBEACH BAR\nGet tickets now before prices rise!\nwww.summersoundsfest.com",
       "websiteUrl": "https://www.pagepop.ai/use-cases/summer-sounds-fest-2027-poster-festival-design-collection",
       "updatedAt": "2025-12-17T08:51:14.000Z",
@@ -1267,258 +1261,6 @@
             "kind": "image",
             "url": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764732194257_1000_svLMG.jpeg",
             "title": "キュート&ポップスタイル - 正月福袋プロモーション"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "2024-pet-adoption-day-at-greenfield-park",
-      "category": "document",
-      "title": "2024 Pet Adoption Day at Greenfield Park",
-      "summary": "I'll help you create this Pet Adoption Day flyer. Since this is a text-heavy informational flyer with multiple modules and detailed content, I'll hand this over to our specialized agent who excels at creating well-structured, information-rich visual layouts.",
-      "originalPrompt": "Design a flyer themed Pet Adoption Day.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🐾 Find Your Furry Soulmate: Pet Adoption Day!\nA Day of Love, Connection, and Forever Homes\nHost: Paws & Hearts Animal Rescue | Partner: Community Pet Wellness Center\nDate: [Saturday, November 9, 2024] | Time: 10:00 AM – 4:00 PM\nLocation: Greenfield Community Park (234 Oak Street, Maplewood, CA 90210)\nContact: [phone redacted] | [email redacted] | www.pawsandheartsrescue.org/adoptionday\n\n❤️ Why Adopt?\nOpening your home to a rescue pet means saving a life—and gaining a loyal, loving companion! When you adopt, you:\nGive a second chance to animals who were abandoned, neglected, or surrendered\nSkip expensive puppy/kitten mills and support ethical animal care\nReceive a pet that’s already spayed/neutered, vaccinated, and microchipped (100% free!)\nExperience the joy of bonding with a pet who will shower you with unconditional love\nJoin a community of fellow pet parents and receive ongoing support from our rescue team\n[Real-shot photo suggestion: A smiling child hugging a rescue dog in the park.]\n\n🐱🐶 Meet Our Adoptable Pets\nAll our furry friends are healthy, socialized, and ready for their forever homes! We have:\nPet Type\nDetails\nDogs\nPuppies (8 weeks–1 year), young adults (1–3 years), seniors (5+ years) – mixed breeds, Labradors, Chihuahuas, Beagles, and more! All are house-trained (where applicable) and friendly with kids/pets.\nCats\nKittens (10 weeks–1 year), adult cats (1–5 years), senior cats (6+ years) – domestic shorthairs, Persians, Siamese mixes, and tabbies. Litter-trained and socialized.\nSpecial Friends\nA few rabbits, guinea pigs, and birds available (ask our volunteers for details!)\n\n[Real-shot photo suggestion: A row of adoptable cats in cozy crates, looking at the camera.]\n\n📋 Adoption Process (Simple & Stress-Free!)\nMeet & Greet (15 mins): Spend time with your potential pet in our interaction area—see if you’re a perfect match!\nApplication (10 mins): Fill out a short, friendly form (no complicated questions!). We’ll ask about your home, lifestyle, and experience with pets.\nInterview (5–10 mins): Chat with a volunteer to ensure the pet’s needs align with your home (we want the best for everyone!).\nApproval (Same Day!): Most applications are approved on the spot—we don’t have long waiting lists.\nTake Home Your New Friend: Sign the adoption agreement (no adoption fee—donations are welcome!) and receive a welcome kit.\n[Real-shot photo suggestion: Volunteer helping a family fill out an adoption application with a puppy on their lap.]\n\n🎯 Adoption Requirements (For Their Safety & Happiness)\nBe 18 years or older (minors must be accompanied by a parent/guardian)\nHave a stable home (own or rent—renters need permission from landlords)\nAgree to provide regular veterinary care, food, shelter, and love\nPromise never to abandon, surrender, or rehome the pet without contacting us first\nHave the time and resources to care for a pet (e.g., walks for dogs, playtime for cats)\nNote: We do not discriminate based on living situation, family size, or experience—we just want responsible, loving homes!\n\n✨ What You’ll Receive (Free Welcome Kit!)\nEvery adopter gets a 礼包 to help their new pet settle in:\nSpay/neuter certificate and vaccination records\nMicrochip registration (lifetime ID for your pet)\n1-month supply of pet food (brand tailored to your pet’s age/needs)\nCollar, leash (for dogs), or carrier (for cats)\nPet wellness coupon (free first check-up at Community Pet Wellness Center)\nTraining guide and behavior tips from our experts\n[Real-shot photo suggestion: A display of welcome kits with pet food, collars, and guides.]\n\n🎉 Event Highlights (Fun for the Whole Family!)\nPet costume contest (12:00 PM) – Prizes for “Cutest,” “Funniest,” and “Most Creative”!\nFree pet photo booth (11:00 AM – 3:00 PM) – Capture memories with your new furry friend\nKids’ craft station (make DIY pet toys) – Free for children 12 and under\nPet wellness checks (10:00 AM – 3:00 PM) – Free exams for adoptable pets (and advice for your current pets!)\nFood trucks and refreshments – Delicious snacks for humans (proceeds support our rescue!)\n[Real-shot photo suggestion: A family posing with their newly adopted dog at the photo booth.]\n\n❓ Frequently Asked Questions\nQ: Is there an adoption fee?\nA: No! All adoptions are free—we rely on donations and sponsorships to cover vet costs. Any donation you choose to give helps us save more animals.\nQ: Can I bring my current pets to meet the adoptable one?\nA: Absolutely! We encourage it—just bring them on a leash (dogs) or in a carrier (cats) to ensure everyone’s safety.\nQ: What if my new pet doesn’t get along with my family/pets?\nA: We offer a 2-week trial period. If it’s not a good fit, bring the pet back, and we’ll help you find a better match—no questions asked.\nQ: Do you have pets with special needs?\nA: Yes! Some of our pets have minor health issues or behavioral needs (e.g., anxiety, blindness). We’ll share all details upfront, and our team will provide support to help you care for them.\nQ: Can I pre-meet a pet before the event?\nA: Yes! Email us with the pet’s name (check our website for profiles) to schedule a private meet-and-greet at our rescue center.\n\n🤝 How to Support Us\nEven if you can’t adopt, you can help:\nDonate: Pet food, toys, blankets, or monetary gifts (drop off at the event or online).\nVolunteer: Help with pet care, event setup, or fostering (we always need foster homes!).\nShare: Tell friends, family, and social media about Adoption Day—you might help a pet find their forever home!\n\n📞 For More Information\nPhone: [phone redacted] (Mon–Fri, 9:00 AM – 5:00 PM)\nEmail: [email redacted]\nWebsite: www.pawsandheartsrescue.org/adoptionday\nSocial Media: @PawsAndHeartsRescue (Facebook/Instagram) – Follow for pet profiles!\n\n🐾 “Home is Where the Paws Are”\n— Paws & Hearts Animal Rescue Team\nAll pets are rescued, rehabilitated, and ready to love—we just need you to open your heart and home!",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/2024-pet-adoption-day-at-greenfield-park",
-      "updatedAt": "2025-12-18T03:04:54.000Z",
-      "result": {
-        "kind": "webpage",
-        "title": "2024 Pet Adoption Day at Greenfield Park",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xgq4x/xgq4x-1766027092671.jpeg",
-        "assets": [
-          {
-            "kind": "image",
-            "url": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xgq4x/xgq4x-1766027092671.jpeg",
-            "title": "2024 Pet Adoption Day at Greenfield Park"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "8k-flyer-design-for-community-health-free-clinic",
-      "category": "document",
-      "title": "8K Flyer Design for Community Health Free Clinic",
-      "summary": "Okay, I will create the Community Health Free Clinic flyer for you. First, I plan to search for the latest information on community health clinic visuals, medical consultation photos, and healthcare facility images to enhance the flyer's professional appearance and authenticity.",
-      "originalPrompt": "Design a flyer themed Community Health Free Clinic.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🏥 Community Health Free Clinic: Care for All, No Cost to You!\nServing [Maplewood & Surrounding Neighborhoods] Since 2018\nAddress: [address redacted]\nContact: [phone redacted] | [email redacted] | www.maplewoodfreeclinic.org\n\n❤️ Our Mission\nWe believe quality healthcare is a right, not a privilege. Our volunteer-driven clinic provides free, confidential medical services to uninsured, underinsured, and low-income residents. No insurance, ID, or citizenship status required—we care for you simply because you need it.\n\n🩺 Services We Offer (100% Free)\nService Category\nDetails\nPrimary Care\nRoutine check-ups, cold/flu treatment, chronic disease management (diabetes, hypertension), vaccinations (flu, COVID-19, MMR, etc.)\nPediatric Care\nWell-child visits, immunizations, minor illness treatment, growth/development screenings (for kids 0–18)\nWomen’s Health\nAnnual exams, prenatal consultations, contraceptive counseling, menstrual health support\nDental Care\nCleanings, cavity fillings, extractions, oral health education (limited slots—pre-registration recommended)\nMental Health\nIndividual counseling, stress/anxiety support, referrals for ongoing care (by licensed therapists)\nAdditional Support\nFree prescriptions (generic medications), lab tests (blood work, urine tests), health education workshops, referrals to specialists\n\n[Real-shot photo suggestion: Friendly doctor consulting with a patient in a bright exam room.]\n\n📅 Operating Hours\nDay\nTime\nServices Available\nMonday\n2:00 PM – 7:00 PM\nPrimary Care, Pediatrics, Lab Tests\nWednesday\n10:00 AM – 5:00 PM\nPrimary Care, Women’s Health, Mental Health\nFriday\n1:00 PM – 6:00 PM\nPrimary Care, Dental Care (by appointment)\nSaturday\n9:00 AM – 1:00 PM\nWalk-in Clinic (Minor Illnesses/Injuries Only)\n\nNote: Dental and mental health services require advance booking. All other services accept walk-ins.\n\n📝 How to Receive Care\nCheck-In (10 mins): Visit the front desk with basic contact information (no ID needed). Let staff know your reason for visit.\nConsultation (20–30 mins): Meet with a volunteer provider (doctor, nurse, or specialist) for evaluation and treatment.\nFollow-Up (As Needed): Receive prescriptions, lab orders, or referrals. Staff will schedule return visits if required.\nResources (Post-Visit): Get free health materials, nutrition tips, or information on community support programs.\n[Real-shot photo suggestion: Front desk staff assisting a patient with check-in.]\n\n🎯 Who Can Visit?\nUninsured or underinsured adults and children\nLow-income residents (household income below 200% of federal poverty level)\nHomeless individuals and families\nImmigrants (regardless of citizenship status)\nAnyone unable to access affordable healthcare\n\n✨ What You Need to Bring\nNothing is required! But feel free to bring:\n• Current medications (bottles or list)\n• Medical records (if available)\n• Eyeglasses (for vision-related concerns)\n• A friend/companion for support (optional)\n\n❓ Frequently Asked Questions\nQ: Is there any cost for services?\nA: No! All medical care, medications, and tests are 100% free. We do not accept payments or insurance.\nQ: Do I need an appointment?\nA: Walk-ins are welcome for primary care and urgent minor issues. Dental, mental health, and pediatric services are better with appointments (call or email to book).\nQ: Are services confidential?\nA: Yes! Your medical information is protected by HIPAA—we never share personal details without your permission.\nQ: Can I get a prescription filled here?\nA: We provide free generic medications on-site for most conditions. For specialized drugs, we offer referrals to low-cost pharmacies.\nQ: Are language services available?\nA: Yes! We have volunteers who speak Spanish, Mandarin, Vietnamese, and Arabic. Request an interpreter at check-in.\n[Real-shot photo suggestion: Volunteer pharmacist handing a patient free medication.]\n\n🤝 How to Support Us\nWe rely on donations and volunteers to serve our community:\nDonate: Give medical supplies, funds, or non-perishable snacks for patients (visit our website to donate online).\nVolunteer: Doctors, nurses, dentists, therapists, and administrative volunteers are always needed.\nSpread the Word: Tell friends, neighbors, or local organizations about our free services!\n\n📞 For More Information\nPhone: [phone redacted] (Mon–Fri, 9:00 AM – 4:00 PM)\nEmail: [email redacted]\nWebsite: www.maplewoodfreeclinic.org\nSocial Media: @MaplewoodFreeClinic (Facebook/Instagram)\n\n🌟 “Healthy Communities Start with Accessible Care”\n— Maplewood Community Health Free Clinic Team\nWe are a 501(c)(3) non-profit organization. All donations are tax-deductible.",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/8k-flyer-design-for-community-health-free-clinic",
-      "updatedAt": "2025-12-24T11:59:35.000Z",
-      "result": {
-        "kind": "webpage",
-        "title": "8K Flyer Design for Community Health Free Clinic",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/51805611/19txvi/19txvi-1766577573851.jpeg",
-        "assets": [
-          {
-            "kind": "image",
-            "url": "https://img-volc.jianpian.info/overseas/thumbnail/51805611/19txvi/19txvi-1766577573851.jpeg",
-            "title": "8K Flyer Design for Community Health Free Clinic"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "accessibility-dilemmas-in-the-u-s-healthcare-system",
-      "category": "document",
-      "title": "Accessibility Dilemmas in the U.S. Healthcare System",
-      "summary": "I'll start by reading the three uploaded documents to understand the reference materials, then create a comprehensive document on the U.S. healthcare accessibility theme.",
-      "originalPrompt": "Summarize the information from the reference documents and generate a document (doc) on the theme: \"Accessibility Dilemmas in the U.S. Healthcare System: A Study on the Middle Class's Healthcare Burden and Health Insurance Coverage Gaps\". Present the content in a graphical format with a word count of 2,000.",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/accessibility-dilemmas-in-the-u-s-healthcare-system",
-      "updatedAt": "2025-12-05T05:54:04.000Z",
-      "result": {
-        "kind": "document",
-        "title": "Accessibility Dilemmas in the U.S. Healthcare System",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/mfdzz/mfdzz-1764914041705.jpeg",
-        "assets": [
-          {
-            "kind": "document",
-            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/bpuWVj3TVqwx9okoBiLQZZTXQf.docx",
-            "title": "Accessibility Dilemmas in the U.S. Healthcare System"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "american-red-cross-hurricane-emergency-response-team-training-manual",
-      "category": "document",
-      "title": "American Red Cross Hurricane Emergency Response Team Training Manual",
-      "summary": "I'll first read the uploaded document to understand its current content and formatting, then help you make it look nicer.",
-      "originalPrompt": "Make the attached document’s formatting look nicer",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/american-red-cross-hurricane-emergency-response-team-training-manual",
-      "updatedAt": "2025-12-05T05:53:50.000Z",
-      "result": {
-        "kind": "document",
-        "title": "American Red Cross Hurricane Emergency Response Team Training Manual",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/mdy75/mdy75-1764914028000.jpeg",
-        "assets": [
-          {
-            "kind": "document",
-            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/qDfJSMJ3n92vAy04s5uYzZjVmp.docx",
-            "title": "American Red Cross Hurricane Emergency Response Team Training Manual"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "community-free-vaccination-sites-complete-guide",
-      "category": "document",
-      "title": "Community Free Vaccination Sites: Complete Guide",
-      "summary": "Okay, I will create this comprehensive Community Free Vaccination Sites flyer for you. First, I plan to search for relevant vaccination site images and the latest community health information to ensure your flyer has high-quality visual elements and accurate context.",
-      "originalPrompt": "Design a flyer themed Guidance on Community Free Vaccination Sites.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🩹 Community Free Vaccination Sites: Complete Guidance\nYour Health, Our Priority – Get Vaccinated Safely & Conveniently!\n\n🌟 What You Need to Know First\nWe’re offering free, no-cost vaccinations for residents of [Your City/Neighborhood] and surrounding areas. This initiative aims to protect our community from preventable diseases, boost immunity, and promote public health for all ages. No insurance, ID, or appointment is required (walk-ins welcome!), but pre-registration is encouraged to save time.\n📍 Vaccination Site Locations & Operating Hours\nSite Name\nAddress\nDays of Operation\nTime\nContact Number\nGreenfield Community Center\n123 Maple Street, Greenfield\nMonday – Friday\n9:00 AM – 6:00 PM\n[phone redacted]\nRivertown Health Clinic\n456 Oak Avenue, Rivertown\nTuesday – Saturday\n10:00 AM – 7:00 PM\n[phone redacted]\nWestside Senior Center\n789 Pine Road, Westside\nWednesday – Sunday\n8:30 AM – 5:00 PM\n[phone redacted]\nDowntown Public Library (Conference Room)\n321 Cedar Lane, Downtown\nSaturday – Monday\n11:00 AM – 4:00 PM\n[phone redacted]\n\nNote: All sites are wheelchair-accessible and provide free parking.\n💉 Vaccines Available (For All Eligible Ages)\nCOVID-19 (Primary Series & Boosters, including updated variants)\nInfluenza (Flu Shot – Seasonal)\nMeasles, Mumps, Rubella (MMR)\nHepatitis A & B\nTetanus, Diphtheria, Pertussis (Tdap)\nPolio\nVaricella (Chickenpox)\nHPV (Human Papillomavirus) – For teens & young adults (9–26 years old)\nPlease ask staff for age-specific eligibility and vaccine details.\n📝 Step-by-Step Vaccination Process\nCheck-In (5–10 mins): Provide basic information (name, age, contact) – no ID required. Pre-register online at [www.yourcommunityhealth.org/vaccine] to skip the line!\nConsultation (10 mins): A healthcare provider will answer your questions, review your health history, and confirm eligibility.\nVaccination (5 mins): Quick, gentle administration by a licensed nurse or pharmacist.\nObservation (15–30 mins): Stay in the designated area to monitor for rare allergic reactions (refreshments provided!).\nFollow-Up (Post-Vaccine): Receive a digital/physical vaccine record card. Staff will share post-vaccine care tips (e.g., managing mild soreness).\n❗ Important Notes for Attendees\nEligibility: Open to all residents (adults, children, seniors) – no citizenship or residency status required.\nFor Minors: Children under 18 must be accompanied by a parent/guardian. Bring a copy of the child’s immunization record (if available).\nHealth Considerations: Inform staff of any allergies, current medications, or recent illnesses (e.g., fever, severe cold) before vaccination.\nAccessibility: Free language interpretation (Spanish, Chinese, Arabic, etc.) is available – request at check-in.\nSafety Measures: All sites follow CDC guidelines (cleaning protocols, optional masking for immunocompromised individuals).\n❓ Frequently Asked Questions (FAQs)\nQ: Do I need to make an appointment?\nA: No – walk-ins are always welcome! Pre-registration (online or by phone) helps reduce wait times.\nQ: Is there any cost involved?\nA: No! All vaccines, consultations, and materials are 100% free. No insurance or payment information is collected.\nQ: Can I get multiple vaccines in one visit?\nA: Yes – healthcare providers can administer eligible vaccines during the same appointment (e.g., flu shot + COVID booster).\nQ: Will I receive proof of vaccination?\nA: Yes – you’ll get a official vaccine record card (digital and physical copies available) for your records.\nQ: What if I feel unwell after vaccination?\nA: Mild side effects (soreness, fatigue, low fever) are normal and usually last 1–2 days. Contact the site or your doctor if symptoms persist or worsen.\n\n📞 For More Information\nOfficial Website: [www.yourcommunityhealth.org/vaccine]\nToll-Free Hotline: [phone redacted] (Mon–Fri, 8:00 AM – 8:00 PM)\nEmail: [email redacted]\n🤝 Stay Protected, Stay Connected\nVaccination is the best way to keep yourself, your family, and our community healthy. Spread the word – bring a friend, neighbor, or family member to get vaccinated together!\n“Healthy Communities Start with Vaccinated Residents”\n— [Your City Health Department / Local Health Organization]",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/community-free-vaccination-sites-complete-guide",
-      "updatedAt": "2025-12-18T02:37:57.000Z",
-      "result": {
-        "kind": "webpage",
-        "title": "Community Free Vaccination Sites: Complete Guide",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xffl4/xffl4-1766025473535.jpeg",
-        "assets": [
-          {
-            "kind": "image",
-            "url": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xffl4/xffl4-1766025473535.jpeg",
-            "title": "Community Free Vaccination Sites: Complete Guide"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "corporate-team-building-activity-guide",
-      "category": "document",
-      "title": "Corporate Team Building Activity Guide",
-      "summary": "I'll first read the uploaded images to understand the content, then create a comprehensive Corporate Team Building Activity Guide for you.",
-      "originalPrompt": "Please generate a Corporate Team Building Activity Guide with the following requirements:\nComprehensive structure: Including Introduction, Value of Team Building, Core Benefits, Planning Process, Activity Types, Evaluation Methods, Post-Activity Follow-up, and Conclusion;\nPractical content: Incorporating specific activity cases, process steps, and venue selection recommendations;\nFormal and professional style, suitable for corporate HR professionals;\nWord count: Approximately 500 words, in Word format.",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/corporate-team-building-activity-guide",
-      "updatedAt": "2025-12-05T05:53:43.000Z",
-      "result": {
-        "kind": "document",
-        "title": "Corporate Team Building Activity Guide",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/m64lk/m64lk-1764914020696.jpeg",
-        "assets": [
-          {
-            "kind": "document",
-            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/gWmXbuCXTBQJzLbtv3bjXV33o7.docx",
-            "title": "Corporate Team Building Activity Guide"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "four-leaflets-for-family-adolescent-mental-health",
-      "category": "document",
-      "title": "Four Leaflets for Family Adolescent Mental Health",
-      "summary": "I'll help you create these four family-based adolescent mental health leaflets. Since these are text-heavy informational materials requiring precise layout and typography control, I'll hand this over to our specialized agent for information-rich visual content.",
-      "originalPrompt": "Please help me generate four leaflets on family-based adolescent mental health (please note these are leaflets). The overall layout should be well-spaced, and the background should reflect a healing and positive mental health atmosphere.\n\nThe main title, \"Protecting the Minds of Youth, Building Harmonious Families,\" should be centered at the top, with the italicized subtitle below, \"Using Love as a Bridge to Protect Growth—Families Empowering Adolescent Mental Health.\" One leaflet should be for teenagers.\n\nThe left vertical column should include core information: Target audience (12-18 years old), core purpose (popularizing mental health knowledge, providing methods for family support, and building a collaborative support system involving families, schools, and communities), and organizing body (Adolescent Mental Health Association, Family Education Exchange Center).\n\nThe top left area should present \"Core Understanding\": a brief overview of the current mental health situation among teenagers (15%-20% experience psychological distress, including academic anxiety and social difficulties, which are increasingly affecting younger and more hidden individuals), emphasizing the core role of the family in adolescent mental health (creating a supportive environment, fostering positive communication, and balancing rules with inclusivity).\n\nThe right-hand section is divided into two parts: the upper part is the \"Guide to Identifying Psychological Distress,\" which extracts key warning signs across four dimensions: emotion, behavior, social interaction, and academic performance (such as abnormal mood swings, disrupted sleep patterns, social withdrawal, and a sudden drop in grades, marked \"Be alert if multiple signs persist for more than two weeks\"); the lower part is \"Common Misconceptions in Family Support,\" listing four common misconceptions and correct approaches (such as not equating psychological problems with rebellion, balancing protection and letting go).\n\nThe lower left section is the \"Family Action Guide,\" which focuses on four dimensions: communication, inclusion, empowerment, and boundaries, extracting core methods (equal dialogue and listening, respecting privacy and differences, cultivating emotional management skills, and jointly developing reasonable rules). Each point is paired with a small icon for easy understanding.\n\nThe bottom banner prominently displays \"Local Support Resources\" and initiatives: Emergency Assistance (Mental Health Crisis Hotline 116 123, Medical Assistance 15), and Regular Resources (School Counselors, Hospital Psychology Departments, Non-profit Organizations, and Online Resources). On the right, a family initiative, \"Accompanying with Love, Protecting Youthful Growth with Understanding,\" is displayed in gentle handwriting, with a consultation hotline below (+33-1-XXXX-XXXX, weekdays 9:00-18:00).\n\nThe overall design combines a sense of healing with sophistication, with moderate contrast between text and background and soft details (icons with light shadows and gradient light-colored blocks used for section transitions).",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/four-leaflets-for-family-adolescent-mental-health",
-      "updatedAt": "2026-01-07T07:46:09.029Z",
-      "result": {
-        "kind": "webpage",
-        "title": "Four Leaflets for Family Adolescent Mental Health",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/47834393/fd966dcc-1433-4f65-9764-27df12af24e9-1767771963628.jpeg",
-        "assets": [
-          {
-            "kind": "image",
-            "url": "https://img-volc.jianpian.info/overseas/thumbnail/47834393/fd966dcc-1433-4f65-9764-27df12af24e9-1767771963628.jpeg",
-            "title": "Four Leaflets for Family Adolescent Mental Health"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "free-kids-english-lectures-register-now",
-      "category": "document",
-      "title": "Free Kids' English Lectures: Register Now!",
-      "summary": "I'll help you create this detailed flyer for the Children's English Enlightenment public lectures. Since this is a text-heavy, information-dense flyer with multiple modules, tables, and precise content requirements, I'll hand this over to our specialized info flyer agent who can ensure perfect text…",
-      "originalPrompt": "Design a flyer themed Registration Promotion for Public Lectures on Children's English Enlightenment.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🎈 Spark Your Child’s English Journey: Free Public Lectures on Early English Enlightenment\nFor Kids Ages 3–8 & Their Parents | Interactive, Fun & 100% Free\nHost: Little English Explorers Foundation | Partner: Kids’ Language Hub\nContact: [phone redacted] | [email redacted] | www.littleexplorers.org/english-kids\n🌟 Why You Can’t Miss These Lectures\nTired of boring drills that kill your child’s interest in English? Our expert-designed lectures blend play-based learning and scientifically proven strategies to make English a joy, not a chore!\nAttend and you’ll get:\nParent-friendly tools: Turn daily routines (mealtime, bedtime, playtime) into English learning moments—no extra time or money needed!\nHands-on activities: Live demos of songs, rhymes, story games, and crafts that boost listening, speaking, and phonics skills.\nExpert guidance: Q&A sessions with certified ESL teachers (10+ years of early childhood education experience).\nFree resources pack: Printable flashcards, story scripts, game templates, and a parent handbook—valued at $49!\nExclusive community access: Join our private parent group for ongoing tips, resource sharing, and support.\n[Real-shot photo spot: Kids and parents laughing while playing an English vocabulary game together.]\n📅 Lecture Schedule & Topics\nDate\tTime\tTarget Age Group\tLecture Topic\tLocation\tKey Takeaways\nSaturday, [Dec 14]\t10:00 AM – 11:30 AM\t3–5 Years\tSongs & Rhymes: Build English Ears Easily\tSunflower Community Center (123 Maple Street)\t5 catchy songs to teach letters/numbers; fingerplays for daily vocabulary; bath-time learning hacks\nSaturday, [Dec 21]\t2:00 PM – 3:30 PM\t4–6 Years\tStorytime Magic: Ignite Reading Interest\tCity Library Meeting Room (456 Oak Avenue)\tHow to read English picture books with expression; role-play activities; free age-appropriate e-book list\nSunday, [Dec 28]\t10:00 AM – 11:30 AM\t5–8 Years\tPlayful Conversations: Get Kids Speaking Confidently\tLittle Explorers Learning Hub (789 Pine Road)\t10+ daily dialogue prompts; game-based speaking practice; tips to encourage shy kids to talk\n🎯 Who Should Come?\nParents/guardians of children aged 3–8 who want to introduce English in a fun, low-pressure way\nPreschool teachers and caregivers looking for classroom-ready English activities\nFamilies new to English education, or those tired of ineffective learning methods\n🎁 Free Gift for All Registrants!\nEvery child gets a English Starter Kit on the day, including:\nWaterproof vocab flashcards (animals, colors, food)\nDIY English game templates (bingo, matching)\nSticker chart to track learning progress\nA free English picture book (limited to first 50 families!)\n[Real-shot photo spot: A child showing off their English Starter Kit with a big smile.]\n📲 How to Register (Limited Slots!)\nSpots fill fast—register now to secure your place!\nOnline Registration (Fastest!): Visit [www.littleexplorers.org/english-kids] and fill in the simple form (name, contact, child’s age, preferred lecture date).\nPhone Registration: Call [phone redacted] (Mon–Fri, 9:00 AM – 5:00 PM).\nOn-Site Registration: Drop by Little Explorers Learning Hub during business hours.\n✅ Bonus: Register for 2+ lectures and get a free 30-day access to our online English mini-course!✅ Confirmation: A digital ticket will be sent to your email/SMS within 24 hours.\n📌 Important Notes\nEach child must be accompanied by 1–2 adults (to join parent-child activities).\nNo English background required for parents—we provide simple, easy-to-follow guidance.\nLight snacks and water will be provided for kids (allergen-free options available).\nTranslation services (Mandarin, Spanish) are available—request when registering.\nAll lectures are free—no hidden fees, no mandatory purchases.\n❓ Frequently Asked Questions\nQ: My child has zero English experience—can they join?A: Absolutely! The lectures are designed for beginners. We focus on building interest first, not perfection.\nQ: What if I can’t attend after registering?A: Please inform us 24 hours in advance via phone/email, so we can offer your spot to another family.\nQ: Will there be follow-up support after the lectures?A: Yes! All registrants get access to our private parent group with weekly tips and live Q&A sessions.\n📣 Spread the Word!\nKnow other parents who want to make English fun for their kids? Share this flyer or tag them on social media with #LittleEnglishExplorers. Learning together is more fun!\n“Every Child Can Fall in Love with English—They Just Need the Right Start!”\n— Little English Explorers Foundation Team",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/free-kids-english-lectures-register-now",
-      "updatedAt": "2025-12-18T03:14:07.000Z",
-      "result": {
-        "kind": "webpage",
-        "title": "Free Kids' English Lectures: Register Now!",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh843/xh843-1766027645963.jpeg",
-        "assets": [
-          {
-            "kind": "image",
-            "url": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh843/xh843-1766027645963.jpeg",
-            "title": "Free Kids' English Lectures: Register Now!"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "globallink-annual-technology-summit-invitation",
-      "category": "document",
-      "title": "GlobalLink Annual Technology Summit Invitation",
-      "summary": "I'll read the uploaded document and image first to understand the content and then create a formal invitation letter for you.",
-      "originalPrompt": "Please generate a formal invitation letter in Word format. The content is provided in the attached file, and please incorporate the images I supplied.",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/globallink-annual-technology-summit-invitation",
-      "updatedAt": "2025-12-05T05:53:36.000Z",
-      "result": {
-        "kind": "document",
-        "title": "GlobalLink Annual Technology Summit Invitation",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/m4j9c/m4j9c-1764914015419.jpeg",
-        "assets": [
-          {
-            "kind": "document",
-            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/7VVsNDQkhPAbCk21o7zd5F0vLJ.docx",
-            "title": "GlobalLink Annual Technology Summit Invitation"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "maplewood-open-house-2024-discover-childs-future",
-      "category": "document",
-      "title": "Maplewood Open House 2024: Discover Child's Future",
-      "summary": "Okay, I will create the School Open House flyer for you. First, I plan to search for the latest information on school open house events and high-quality real-shot photos of school campuses, classrooms, and educational facilities to enhance the visual appeal of your flyer.",
-      "originalPrompt": "Design a flyer themed School Open House.The page should be divided into multiple modules with clear details, feature 8K resolution and a neat layout, and include some real-shot photos.\nThe detailed content is as follows:\n\n🎉 [School Name] Open House: Discover Your Child’s Future!\nDate: [Saturday, October 19, 2024] | Time: 9:00 AM – 3:00 PM\nAddress: [address redacted] Contact: [phone redacted] | [email redacted]\n\n🌟 Why Attend Our Open House?\nJoin us for a day of exploration, connection, and discovery! This is your chance to:\nTour our state-of-the-art classrooms, science labs, art studios, and sports facilities\nMeet dedicated teachers, administrators, and current students/families\nLearn about our rigorous academic programs, extracurricular activities, and college prep support\nExperience interactive demos (STEM workshops, music performances, language classes)\nGet answers to all your questions about admissions, tuition assistance, and student life\nEnjoy free refreshments and fun activities for kids (crafts, campus scavenger hunt, playground time)\n\n🎯 Who Should Come?\nProspective students (Preschool – 12th Grade) and their parents/guardians\nFamilies considering a school transfer\nCommunity members interested in our programs\nAlumni and current families (bring a friend!)\n\n✨ What Makes [School Name] Unique?\nStudent-Centered Learning: Small class sizes (1:12 teacher-student ratio) and personalized lesson plans\nTop-Tier Faculty: 95% of teachers hold advanced degrees in their fields\nHolistic Development: Balance of academics, athletics, arts, and character education\nSafe & Inclusive Community: Anti-bullying policies, diverse student body, and mental health support\nProven Results: 98% college acceptance rate for graduates (top 50 universities nationwide)\nTuition Assistance: Scholarships, grants, and payment plans available for eligible families\n\n📲 How to Register (Optional but Recommended)\nSave time on the day by pre-registering!\nOnline: Visit [www.maplewoodacademy.edu/openhouse]\nPhone: Call [phone redacted] (Mon-Fri, 8:00 AM – 4:00 PM)\nEmail: Send your name, number of attendees, and grade level interest to [email redacted]\nWalk-ins are always welcome – no registration required!\n\n📌 Important Notes\nFree parking available on campus (enter via Oak Street entrance)\nAccessible facilities for strollers, wheelchairs, and mobility aids\nTranslation services available (Spanish, Mandarin, French) – request at registration\nDress comfortably (campus involves walking outdoors!)\n\n📣 Spread the Word!\nTag a friend or family member who might be interested – share this event on social media with #MaplewoodOpenHouse2024!\nWe can’t wait to welcome you to our campus and show you how [School Name] inspires students to grow, learn, and thrive.\nYour child’s journey to excellence starts here!\n“Education is not the filling of a pail, but the lighting of a fire.” – William Butler Yeats\n— [Maplewood International Academy]",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/maplewood-open-house-2024-discover-childs-future",
-      "updatedAt": "2025-12-18T03:12:34.000Z",
-      "result": {
-        "kind": "webpage",
-        "title": "Maplewood Open House 2024: Discover Child's Future",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh1a4/xh1a4-1766027552078.jpeg",
-        "assets": [
-          {
-            "kind": "image",
-            "url": "https://img-volc.jianpian.info/overseas/thumbnail/52426310/xh1a4/xh1a4-1766027552078.jpeg",
-            "title": "Maplewood Open House 2024: Discover Child's Future"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "stanford-university-class-of-2010-15th-reunion-planning-proposal",
-      "category": "document",
-      "title": "Stanford University Class of 2010: 15th Reunion Planning Proposal",
-      "summary": "I'll read the reference document first to understand the content and structure, then help you create the Stanford University Class of 2010: 15th Reunion Planning Proposal.",
-      "originalPrompt": "Write a document on the theme: \"Stanford University Class of 2010: 15th Reunion Planning Proposal\", using the reference document",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/stanford-university-class-of-2010-15th-reunion-planning-proposal",
-      "updatedAt": "2025-12-05T05:53:57.000Z",
-      "result": {
-        "kind": "document",
-        "title": "Stanford University Class of 2010: 15th Reunion Planning Proposal",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/mey4z/mey4z-1764914034647.jpeg",
-        "assets": [
-          {
-            "kind": "document",
-            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/0mueT86FtxJe0Vt06ztr5YcF5k.docx",
-            "title": "Stanford University Class of 2010: 15th Reunion Planning Proposal"
-          }
-        ]
-      }
-    },
-    {
-      "slug": "student-organization-recruitment-plan",
-      "category": "document",
-      "title": "Student Organization Recruitment Plan",
-      "summary": "I'll first read the uploaded document to understand the context, then help you create a comprehensive student organization recruitment plan document.",
-      "originalPrompt": "Generate a student organization recruitment plan document including the following sections: Recruitment Objectives, Recruitment Timeline & Schedule, Recruitment Activities, Membership Benefits, Recruitment Strategies, Budget Allocation, Evaluation & Follow-up, and Contact Information.",
-      "websiteUrl": "https://www.pagepop.ai/use-cases/student-organization-recruitment-plan",
-      "updatedAt": "2025-12-05T05:53:39.000Z",
-      "result": {
-        "kind": "document",
-        "title": "Student Organization Recruitment Plan",
-        "coverUrl": "https://img-volc.jianpian.info/overseas/thumbnail/48703444/m4svh/m4svh-1764914018745.jpeg",
-        "assets": [
-          {
-            "kind": "document",
-            "url": "https://img-volc.jianpian.info/ai_gen/docx/48703444/GeTAdaqIm9cxHi3CfqR4PUJ7Lh.docx",
-            "title": "Student Organization Recruitment Plan"
           }
         ]
       }
