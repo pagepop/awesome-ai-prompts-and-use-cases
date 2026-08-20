@@ -6,7 +6,6 @@
   "description": "Real-world AI creative prompts and use cases by PagePop.",
   "type": "module",
   "scripts": {
-    "import": "node scripts/import-pagepop-catalog.mjs",
     "generate:root": "node scripts/generate-readme.mjs",
     "generate:categories": "node scripts/generate-category-readmes.mjs",
     "generate": "npm run generate:root && npm run generate:categories",

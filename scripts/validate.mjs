@@ -3,8 +3,12 @@ import path from 'node:path'
 import {
   appendTracking,
   categoryReadmePath,
+  isPublishedCategory,
+  isPublishedUseCase,
   previewUrl,
+  publicCategorySlugs,
   renderCategoryReadme,
+  videoUrl,
 } from './generate-category-readmes.mjs'
 
 const catalogPath = path.resolve('data/use-cases.json')
@@ -20,12 +24,64 @@ const catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'))
 const readme = fs.readFileSync(readmePath, 'utf8')
 const readmeBytes = Buffer.byteLength(readme)
 const errors = []
-const allowedCategories = new Set(catalog.categories.map((category) => category.slug))
+const allowedCategories = new Set(publicCategorySlugs)
+const publishedCategories = catalog.categories.filter(isPublishedCategory)
+const publishedCategorySlugs = new Set(publishedCategories.map((category) => category.slug))
 const slugs = new Set()
+const categorySlugs = new Set()
 const obviousEmailPattern = /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/i
 const obviousPhonePattern = /(?:\+?\d[\d ()-]{7,}\d)/
+const internalImplementationPatterns = [
+  /\b(?:ecommerce-video-generate|common-video-generate|kid_edu_cartoon)\b/i,
+  /\bcommon video generation skill\b/i,
+  /\b(?:specialized|internal)\s+(?:[a-z0-9-]+\s+){0,4}(?:agent|tool)\b/i,
+  /\bhand (?:this|it) (?:over|off) to (?:our|the)\b/i,
+  /\bour (?:design|video|creative|document|presentation) specialist\b/i,
+  /\breport this task\b/i,
+  /\b(?:tool|skill|agent)\s+(?:trace|call|identifier|implementation name)\b/i,
+]
 const expectedBannerReference =
   '<img src="assets/repository-banner.png" alt="Awesome AI Creative Prompts & Real-World Use Cases by PagePop" width="1200">'
+
+const publicFields = {
+  catalog: new Set([
+    'schemaVersion',
+    'title',
+    'description',
+    'publisher',
+    'website',
+    'locale',
+    'sourceUpdatedAt',
+    'supportedModels',
+    'categories',
+    'cases',
+  ]),
+  category: new Set(['slug', 'label', 'order', 'caseCount']),
+  useCase: new Set([
+    'slug',
+    'category',
+    'title',
+    'summary',
+    'originalPrompt',
+    'websiteUrl',
+    'updatedAt',
+    'result',
+  ]),
+  result: new Set(['kind', 'title', 'coverUrl', 'assets']),
+  asset: new Set(['kind', 'url', 'title', 'coverUrl']),
+}
+
+function validatePublicFields(value, allowedFields, label) {
+  if (!value || typeof value !== 'object' || Array.isArray(value)) {
+    errors.push(`${label} must be an object.`)
+    return
+  }
+
+  const unexpectedFields = Object.keys(value).filter((key) => !allowedFields.has(key))
+  if (unexpectedFields.length) {
+    errors.push(`${label} contains non-public fields: ${unexpectedFields.join(', ')}.`)
+  }
+}
 
 function readPngDimensions(filePath) {
   if (!fs.existsSync(filePath)) return null
@@ -38,12 +94,24 @@ function readPngDimensions(filePath) {
   }
 }
 
-if (catalog.cases.length !== 78) {
-  errors.push(`Expected 78 published use cases, received ${catalog.cases.length}.`)
+validatePublicFields(catalog, publicFields.catalog, 'Catalog')
+
+for (const category of catalog.categories) {
+  if (categorySlugs.has(category.slug)) errors.push(`Duplicate category slug: ${category.slug}`)
+  categorySlugs.add(category.slug)
+  if (!allowedCategories.has(category.slug)) {
+    errors.push(`Catalog exposes a non-public category: ${category.slug}`)
+  }
 }
 
-if (catalog.categories.length !== 7) {
-  errors.push(`Expected 7 public prompt categories, received ${catalog.categories.length}.`)
+for (const expectedCategory of allowedCategories) {
+  if (!categorySlugs.has(expectedCategory)) {
+    errors.push(`Catalog is missing public category: ${expectedCategory}`)
+  }
+}
+
+if (categorySlugs.has('document') || catalog.cases.some((item) => item.category === 'document')) {
+  errors.push('Public catalog must not include the document category or document use cases.')
 }
 
 if (readmeBytes >= 450 * 1024) {
@@ -123,6 +191,13 @@ for (const [filePath, label] of [
   }
 }
 
+if (fs.existsSync(issueTemplatePath)) {
+  const issueTemplate = fs.readFileSync(issueTemplatePath, 'utf8')
+  if (/^\s*-\s+Document\s*$/m.test(issueTemplate)) {
+    errors.push('Submission issue template must not offer the excluded Document category.')
+  }
+}
+
 if (
   !readme.includes('[CC BY 4.0](LICENSE)') ||
   !readme.includes('[MIT License](LICENSE-CODE)') ||
@@ -131,35 +206,35 @@ if (
   errors.push('README.md is missing the content, code, or licensing-scope links.')
 }
 
-if (
-  !readme.includes(
-    'https://www.pagepop.ai/use-cases?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=repository-banner',
-  )
-) {
-  errors.push('README.md repository banner is missing the tracked PagePop Hub link.')
+if (!readme.includes('https://www.pagepop.ai/use-cases')) {
+  errors.push('README.md is missing a link to the PagePop use-case gallery.')
 }
 
-const forbiddenPublicKeys = [
-  'conversation_id',
-  'conversationId',
-  'msg_id',
-  'msgId',
-  'chat_id',
-  'chatId',
-  'run_id',
-  'runId',
-  'tool_common',
-  'think_tool',
-  'manual_config',
-  'manualConfig',
-]
-
-const serializedCatalog = JSON.stringify(catalog)
-for (const key of forbiddenPublicKeys) {
-  if (serializedCatalog.includes(key)) errors.push(`Public catalog contains forbidden key or marker: ${key}`)
+for (const forbiddenText of [
+  'Document & Webpage Prompts & Use Cases',
+  'prompts/documents/README.md',
+  '**Result assets:**',
+]) {
+  if (readme.includes(forbiddenText)) {
+    errors.push(`README.md must not expose generated quantity or document-gallery text: ${forbiddenText}`)
+  }
 }
 
-for (const item of catalog.cases) {
+if (/^### \d+\./m.test(readme) || /All \d+ prompts/.test(readme)) {
+  errors.push('README.md must not include generated sequence numbers or changing prompt totals.')
+}
+
+for (const [itemIndex, item] of catalog.cases.entries()) {
+  validatePublicFields(item, publicFields.useCase, `Use case ${item.slug || itemIndex + 1}`)
+  validatePublicFields(item.result, publicFields.result, `Result for ${item.slug || itemIndex + 1}`)
+  for (const [assetIndex, asset] of (item.result?.assets || []).entries()) {
+    validatePublicFields(
+      asset,
+      publicFields.asset,
+      `Asset ${assetIndex + 1} for ${item.slug || itemIndex + 1}`,
+    )
+  }
+
   if (!item.slug || !item.title || !item.originalPrompt || !item.websiteUrl) {
     errors.push(`Use case ${item.slug || '(missing slug)'} is missing a required field.`)
   }
@@ -169,46 +244,95 @@ for (const item of catalog.cases) {
     errors.push(`Use case has an unsafe public slug: ${item.slug}`)
   }
   if (!allowedCategories.has(item.category)) errors.push(`Unknown category for ${item.slug}: ${item.category}`)
+  if (!isPublishedUseCase(item)) {
+    errors.push(`Use case ${item.slug} belongs to a non-public category: ${item.category}`)
+  }
   if (!item.websiteUrl.startsWith('https://www.pagepop.ai/use-cases/')) {
     errors.push(`Unexpected website URL for ${item.slug}: ${item.websiteUrl}`)
   }
-  const rootDetailUrl = appendTracking(item.websiteUrl, `case-${item.slug}`)
-  const rootCreateUrl = appendTracking(item.websiteUrl, `create-${item.slug}`)
-  if (!readme.includes(rootDetailUrl)) errors.push(`README is missing the tracked detail link for ${item.slug}.`)
-  if (!readme.includes(rootCreateUrl)) errors.push(`README is missing the tracked create link for ${item.slug}.`)
-  if (!readme.includes(item.originalPrompt)) errors.push(`README is missing the full prompt for ${item.slug}.`)
+  const isPublished = publishedCategorySlugs.has(item.category)
+  if (isPublished) {
+    const rootDetailUrl = appendTracking(item.websiteUrl, `case-${item.slug}`)
+    const rootCreateUrl = appendTracking(item.websiteUrl, `create-${item.slug}`)
+    if (!readme.includes(rootDetailUrl)) {
+      errors.push(`README is missing the tracked detail link for ${item.slug}.`)
+    }
+    if (!readme.includes(rootCreateUrl)) {
+      errors.push(`README is missing the tracked create link for ${item.slug}.`)
+    }
+    if (!readme.includes(item.originalPrompt)) {
+      errors.push(`README is missing the full prompt for ${item.slug}.`)
+    }
+  }
 
   const publicText = [item.title, item.summary, item.originalPrompt].filter(Boolean).join('\n')
   if (obviousEmailPattern.test(publicText) || obviousPhonePattern.test(publicText)) {
     errors.push(`Use case ${item.slug} contains an obvious email address or phone-number pattern.`)
+  }
+  for (const internalPattern of internalImplementationPatterns) {
+    if (internalPattern.test(publicText)) {
+      errors.push(`Use case ${item.slug} exposes an internal skill, agent, or tool implementation name.`)
+      break
+    }
   }
 
   const preview = previewUrl(item)
   if (!preview) {
     errors.push(`Use case ${item.slug} has no public preview URL.`)
   } else {
-    const previewHost = new URL(preview).hostname
-    if (previewHost !== 'img-volc.jianpian.info') {
-      errors.push(`Use case ${item.slug} has an unexpected preview CDN host: ${previewHost}.`)
+    let previewUrlValue
+    try {
+      previewUrlValue = new URL(preview)
+    } catch {
+      errors.push(`Use case ${item.slug} has an invalid preview URL.`)
     }
-    if (new URL(preview).search) {
+    if (previewUrlValue?.protocol !== 'https:') {
+      errors.push(`Use case ${item.slug} preview must use public HTTPS.`)
+    }
+    if (previewUrlValue?.search) {
       errors.push(`Use case ${item.slug} uses a query-based preview URL that may expire.`)
     }
-    if (!readme.includes(preview)) {
+    if (isPublished && !readme.includes(preview)) {
       errors.push(`README is missing the CDN preview for ${item.slug}.`)
+    }
+  }
+
+  if (item.result?.kind === 'video') {
+    const directVideoUrl = videoUrl(item)
+    let directVideoUrlValue
+    try {
+      directVideoUrlValue = new URL(directVideoUrl)
+    } catch {
+      errors.push(`Video use case ${item.slug} has no valid direct video URL.`)
+    }
+    if (
+      directVideoUrlValue?.protocol !== 'https:' ||
+      !directVideoUrlValue.pathname.toLowerCase().endsWith('.mp4')
+    ) {
+      errors.push(`Video use case ${item.slug} must provide a public HTTPS MP4 URL.`)
+    }
+    if (isPublished && directVideoUrl && !readme.includes(directVideoUrl)) {
+      errors.push(`README is missing the direct MP4 link for ${item.slug}.`)
     }
   }
 }
 
 for (const category of catalog.categories) {
+  validatePublicFields(category, publicFields.category, `Category ${category.slug || '(missing slug)'}`)
   const categoryCases = catalog.cases.filter((item) => item.category === category.slug)
   const actualCount = categoryCases.length
   if (actualCount !== category.caseCount) {
     errors.push(`Category ${category.slug} declares ${category.caseCount}, found ${actualCount}.`)
   }
 
+  if (!isPublishedCategory(category)) {
+    errors.push(`Catalog contains an unsupported category that cannot be generated: ${category.slug}.`)
+    continue
+  }
+
   const outputPath = categoryReadmePath(category.slug)
   const rootRelativeCategoryPath = path.relative(process.cwd(), outputPath)
+
   if (!readme.includes(`[Open category README](${rootRelativeCategoryPath})`)) {
     errors.push(`Root README is missing the category resource link for ${category.slug}.`)
   }
@@ -228,6 +352,14 @@ for (const category of catalog.categories) {
     errors.push(
       `Generated category README is stale or was edited manually: ${path.relative(process.cwd(), outputPath)}.`,
     )
+  }
+
+  if (
+    categoryReadme.includes('**Result assets:**') ||
+    /^## \d+\./m.test(categoryReadme) ||
+    /Browse all \d+ prompts/.test(categoryReadme)
+  ) {
+    errors.push(`Category README ${category.slug} contains changing generated quantities.`)
   }
 
   const promptHeadingCount = (categoryReadme.match(/^### Original prompt$/gm) || []).length
@@ -254,6 +386,12 @@ for (const category of catalog.categories) {
     if (!categoryReadme.includes(createUrl)) {
       errors.push(`Category README ${category.slug} is missing the tracked create link for ${item.slug}.`)
     }
+    if (item.result.kind === 'video') {
+      const directVideoUrl = videoUrl(item)
+      if (!directVideoUrl || !categoryReadme.includes(directVideoUrl)) {
+        errors.push(`Category README ${category.slug} is missing the direct MP4 link for ${item.slug}.`)
+      }
+    }
   }
 }
 
@@ -263,5 +401,5 @@ if (errors.length) {
 }
 
 console.log(
-  `Validated ${catalog.cases.length} use cases, ${catalog.categories.length} generated category READMEs, and a ${(readmeBytes / 1024).toFixed(1)} KiB root README.`,
+  `Validated the public catalog, ${publishedCategories.length} generated category READMEs, and a ${(readmeBytes / 1024).toFixed(1)} KiB root README.`,
 )

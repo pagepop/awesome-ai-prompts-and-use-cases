@@ -16,7 +16,6 @@ Describe the prompt, result, catalog, generator, or repository documentation cha
 - [ ] I updated `data/use-cases.json` rather than manually editing generated prompt sections.
 - [ ] I ran `npm run check` successfully.
 - [ ] The root README and relevant category README were regenerated and committed.
-- [ ] PagePop links include the repository referral UTM parameters.
 
 ## Visual review
 

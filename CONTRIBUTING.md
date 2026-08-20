@@ -33,7 +33,7 @@ Do not submit third-party material, identifiable people, brand assets, fonts, st
 
 ## Generated files
 
-The root `README.md` and all seven `prompts/*/README.md` category pages are generated from `data/use-cases.json`. Do not edit individual prompt sections manually. Update the catalog and run:
+The root `README.md` and the `prompts/*/README.md` category pages are generated from `data/use-cases.json`. Do not edit individual prompt sections manually. Update the catalog and run:
 
 ```bash
 npm run generate
