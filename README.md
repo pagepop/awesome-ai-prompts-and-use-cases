@@ -12,6 +12,12 @@
 >
 > A curated PagePop collection showing the exact prompt that started each project and the result it produced—without requiring specialized prompt engineering.
 
+---
+
+[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh.md)
+
+---
+
 <p align="center">
   <img src="assets/pagepop-visual-gallery.png" alt="PagePop visual gallery showing real prompts and finished creative work" width="1200">
 </p>

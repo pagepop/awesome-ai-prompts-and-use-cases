@@ -72,17 +72,19 @@ export function videoUrl(item) {
   return item.result.assets.find((asset) => asset.kind === 'video' && asset.url)?.url || ''
 }
 
-export function renderResultPreview(item, detailUrl) {
+export function renderResultPreview(item, detailUrl, options = {}) {
   const preview = previewUrl(item)
   if (!preview) return ''
 
   const directVideoUrl = item.result.kind === 'video' ? videoUrl(item) : ''
   const previewHref = directVideoUrl || detailUrl
   const alt = escapeAlt(
-    `${item.title} — generated ${outputLabels[item.result.kind] || item.result.kind} result`,
+    options.altText ||
+      `${item.title} — generated ${outputLabels[item.result.kind] || item.result.kind} result`,
   )
+  const playVideoLabel = options.playVideoLabel || '▶ Play video (MP4)'
   const playLink = directVideoUrl
-    ? `\n  <br>\n  <strong><a href="${directVideoUrl}">▶ Play video (MP4)</a></strong>`
+    ? `\n  <br>\n  <strong><a href="${directVideoUrl}">${playVideoLabel}</a></strong>`
     : ''
 
   return `<p align="center">\n  <a href="${previewHref}"><img src="${preview}" alt="${alt}" width="720"></a>${playLink}\n</p>\n\n`

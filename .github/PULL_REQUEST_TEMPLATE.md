@@ -13,9 +13,9 @@ Describe the prompt, result, catalog, generator, or repository documentation cha
 
 ## Generated outputs
 
-- [ ] I updated `data/use-cases.json` rather than manually editing generated prompt sections.
+- [ ] I updated `data/use-cases.json` and, when needed, `data/locales/` rather than manually editing generated prompt sections.
 - [ ] I ran `npm run check` successfully.
-- [ ] The root README and relevant category README were regenerated and committed.
+- [ ] Both root READMEs and the relevant category README were regenerated and committed.
 
 ## Visual review
 

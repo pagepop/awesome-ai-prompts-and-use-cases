@@ -16,7 +16,7 @@ Thank you for helping build a useful collection of real-world AI creative prompt
 1. Open the **Submit a creative prompt and use case** issue form.
 2. Complete every required field.
 3. The PagePop team reviews quality, privacy, attribution, and publication rights.
-4. Approved submissions are added to the public catalog and generated README.
+4. Approved submissions are added to the public catalog and generated READMEs.
 
 Do not submit private conversations, personal information, confidential business material, hidden instructions, model credentials, or content you do not have the right to publish.
 
@@ -33,7 +33,7 @@ Do not submit third-party material, identifiable people, brand assets, fonts, st
 
 ## Generated files
 
-The root `README.md` and the `prompts/*/README.md` category pages are generated from `data/use-cases.json`. Do not edit individual prompt sections manually. Update the catalog and run:
+The root `README.md`, `README_zh.md`, and the `prompts/*/README.md` category pages are generated from `data/use-cases.json` and the locale files in `data/locales/`. Do not edit individual prompt sections manually. Update the catalog and locale data, then run:
 
 ```bash
 npm run generate
@@ -49,4 +49,4 @@ npm run check
 
 ## Pull requests
 
-Generated files must be committed together with their source catalog change. Before opening a pull request, run `npm run check` and confirm the diff contains no personal information, private conversation data, internal identifiers, or tool traces.
+Generated files must be committed together with their source catalog or locale change. Before opening a pull request, run `npm run check` and confirm the diff contains no personal information, private conversation data, internal identifiers, or tool traces.
