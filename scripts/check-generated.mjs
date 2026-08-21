@@ -2,10 +2,11 @@ import { execFileSync } from 'node:child_process'
 import fs from 'node:fs'
 import path from 'node:path'
 import { categoryReadmePath, isPublishedCategory } from './generate-category-readmes.mjs'
+import { rootReadmeLocales, rootReadmePath } from './generate-readme.mjs'
 
 const catalog = JSON.parse(fs.readFileSync(path.resolve('data/use-cases.json'), 'utf8'))
 const generatedPaths = [
-  path.resolve('README.md'),
+  ...rootReadmeLocales.map(rootReadmePath),
   ...catalog.categories.filter(isPublishedCategory).map((category) => categoryReadmePath(category.slug)),
 ]
 const excludedGeneratedPaths = [path.resolve('prompts/documents/README.md')]

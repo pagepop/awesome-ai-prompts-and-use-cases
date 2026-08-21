@@ -10,9 +10,16 @@ import {
   renderCategoryReadme,
   videoUrl,
 } from './generate-category-readmes.mjs'
+import {
+  renderLanguageNavigation,
+  renderRootReadme,
+  rootReadmeGalleryImage,
+  rootReadmePath,
+} from './generate-readme.mjs'
 
 const catalogPath = path.resolve('data/use-cases.json')
-const readmePath = path.resolve('README.md')
+const readmePath = rootReadmePath('en')
+const chineseReadmePath = rootReadmePath('zh')
 const bannerPath = path.resolve('assets/repository-banner.png')
 const socialPreviewPath = path.resolve('assets/social-preview.png')
 const contentLicensePath = path.resolve('LICENSE')
@@ -22,8 +29,29 @@ const contributingPath = path.resolve('CONTRIBUTING.md')
 const issueTemplatePath = path.resolve('.github/ISSUE_TEMPLATE/submit-use-case.yml')
 const catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'))
 const readme = fs.readFileSync(readmePath, 'utf8')
+const chineseReadmeExists = fs.existsSync(chineseReadmePath)
+const chineseReadme = chineseReadmeExists ? fs.readFileSync(chineseReadmePath, 'utf8') : ''
 const readmeBytes = Buffer.byteLength(readme)
+const chineseReadmeBytes = Buffer.byteLength(chineseReadme)
 const errors = []
+const rootReadmeDocuments = [
+  {
+    locale: 'en',
+    fileName: path.basename(readmePath),
+    content: readme,
+    bytes: readmeBytes,
+    exists: true,
+    galleryImage: rootReadmeGalleryImage('en'),
+  },
+  {
+    locale: 'zh',
+    fileName: path.basename(chineseReadmePath),
+    content: chineseReadme,
+    bytes: chineseReadmeBytes,
+    exists: chineseReadmeExists,
+    galleryImage: rootReadmeGalleryImage('zh'),
+  },
+]
 const allowedCategories = new Set(publicCategorySlugs)
 const publishedCategories = catalog.categories.filter(isPublishedCategory)
 const publishedCategorySlugs = new Set(publishedCategories.map((category) => category.slug))
@@ -114,8 +142,48 @@ if (categorySlugs.has('document') || catalog.cases.some((item) => item.category 
   errors.push('Public catalog must not include the document category or document use cases.')
 }
 
-if (readmeBytes >= 450 * 1024) {
-  errors.push(`README.md is ${readmeBytes} bytes; keep it below the 450 KiB safety budget.`)
+if (!chineseReadmeExists) {
+  errors.push('Missing generated Simplified Chinese root README: README_zh.md.')
+}
+
+for (const rootDocument of rootReadmeDocuments) {
+  if (rootDocument.bytes >= 450 * 1024) {
+    errors.push(
+      `${rootDocument.fileName} is ${rootDocument.bytes} bytes; keep it below the 450 KiB safety budget.`,
+    )
+  }
+
+  if (!rootDocument.exists) continue
+
+  let expectedRootReadme
+  try {
+    expectedRootReadme = renderRootReadme(catalog, rootDocument.locale)
+  } catch (error) {
+    errors.push(`Cannot render ${rootDocument.fileName}: ${error.message}`)
+    continue
+  }
+
+  if (rootDocument.content !== expectedRootReadme) {
+    errors.push(`${rootDocument.fileName} is stale or was edited manually.`)
+  }
+
+  if (!rootDocument.content.includes(renderLanguageNavigation(rootDocument.locale))) {
+    errors.push(`${rootDocument.fileName} is missing the expected language navigation.`)
+  }
+
+  for (const assetPath of ['assets/repository-banner.png', rootDocument.galleryImage]) {
+    if (!rootDocument.content.includes(assetPath)) {
+      errors.push(`${rootDocument.fileName} is missing the local asset reference: ${assetPath}`)
+    }
+  }
+
+  const galleryImagePath = path.resolve(rootDocument.galleryImage)
+  const galleryDimensions = readPngDimensions(galleryImagePath)
+  if (!galleryDimensions || galleryDimensions.width < 1200) {
+    errors.push(
+      `${rootDocument.fileName} gallery image must be a valid PNG at least 1200 pixels across: ${rootDocument.galleryImage}`,
+    )
+  }
 }
 
 if (!fs.existsSync(bannerPath)) {
@@ -198,30 +266,43 @@ if (fs.existsSync(issueTemplatePath)) {
   }
 }
 
-if (
-  !readme.includes('[CC BY 4.0](LICENSE)') ||
-  !readme.includes('[MIT License](LICENSE-CODE)') ||
-  !readme.includes('[LICENSES.md](LICENSES.md)')
-) {
-  errors.push('README.md is missing the content, code, or licensing-scope links.')
-}
+for (const rootDocument of rootReadmeDocuments) {
+  if (!rootDocument.exists) continue
 
-if (!readme.includes('https://www.pagepop.ai/use-cases')) {
-  errors.push('README.md is missing a link to the PagePop use-case gallery.')
-}
+  if (
+    !rootDocument.content.includes('[CC BY 4.0](LICENSE)') ||
+    !rootDocument.content.includes('[MIT License](LICENSE-CODE)') ||
+    !rootDocument.content.includes('[LICENSES.md](LICENSES.md)')
+  ) {
+    errors.push(`${rootDocument.fileName} is missing the content, code, or licensing-scope links.`)
+  }
 
-for (const forbiddenText of [
-  'Document & Webpage Prompts & Use Cases',
-  'prompts/documents/README.md',
-  '**Result assets:**',
-]) {
-  if (readme.includes(forbiddenText)) {
-    errors.push(`README.md must not expose generated quantity or document-gallery text: ${forbiddenText}`)
+  if (!rootDocument.content.includes('https://www.pagepop.ai/use-cases')) {
+    errors.push(`${rootDocument.fileName} is missing a link to the PagePop use-case gallery.`)
+  }
+
+  for (const forbiddenText of [
+    'Document & Webpage Prompts & Use Cases',
+    'prompts/documents/README.md',
+    '**Result assets:**',
+  ]) {
+    if (rootDocument.content.includes(forbiddenText)) {
+      errors.push(
+        `${rootDocument.fileName} must not expose generated quantity or document-gallery text: ${forbiddenText}`,
+      )
+    }
   }
 }
 
-if (/^### \d+\./m.test(readme) || /All \d+ prompts/.test(readme)) {
-  errors.push('README.md must not include generated sequence numbers or changing prompt totals.')
+for (const rootDocument of rootReadmeDocuments) {
+  if (
+    rootDocument.exists &&
+    (/^### \d+\./m.test(rootDocument.content) || /All \d+ prompts/.test(rootDocument.content))
+  ) {
+    errors.push(
+      `${rootDocument.fileName} must not include generated sequence numbers or changing prompt totals.`,
+    )
+  }
 }
 
 for (const [itemIndex, item] of catalog.cases.entries()) {
@@ -254,14 +335,17 @@ for (const [itemIndex, item] of catalog.cases.entries()) {
   if (isPublished) {
     const rootDetailUrl = appendTracking(item.websiteUrl, `case-${item.slug}`)
     const rootCreateUrl = appendTracking(item.websiteUrl, `create-${item.slug}`)
-    if (!readme.includes(rootDetailUrl)) {
-      errors.push(`README is missing the tracked detail link for ${item.slug}.`)
-    }
-    if (!readme.includes(rootCreateUrl)) {
-      errors.push(`README is missing the tracked create link for ${item.slug}.`)
-    }
-    if (!readme.includes(item.originalPrompt)) {
-      errors.push(`README is missing the full prompt for ${item.slug}.`)
+    for (const rootDocument of rootReadmeDocuments) {
+      if (!rootDocument.exists) continue
+      if (!rootDocument.content.includes(rootDetailUrl)) {
+        errors.push(`${rootDocument.fileName} is missing the tracked detail link for ${item.slug}.`)
+      }
+      if (!rootDocument.content.includes(rootCreateUrl)) {
+        errors.push(`${rootDocument.fileName} is missing the tracked create link for ${item.slug}.`)
+      }
+      if (!rootDocument.content.includes(item.originalPrompt)) {
+        errors.push(`${rootDocument.fileName} is missing the full prompt for ${item.slug}.`)
+      }
     }
   }
 
@@ -292,8 +376,12 @@ for (const [itemIndex, item] of catalog.cases.entries()) {
     if (previewUrlValue?.search) {
       errors.push(`Use case ${item.slug} uses a query-based preview URL that may expire.`)
     }
-    if (isPublished && !readme.includes(preview)) {
-      errors.push(`README is missing the CDN preview for ${item.slug}.`)
+    if (isPublished) {
+      for (const rootDocument of rootReadmeDocuments) {
+        if (rootDocument.exists && !rootDocument.content.includes(preview)) {
+          errors.push(`${rootDocument.fileName} is missing the CDN preview for ${item.slug}.`)
+        }
+      }
     }
   }
 
@@ -311,8 +399,12 @@ for (const [itemIndex, item] of catalog.cases.entries()) {
     ) {
       errors.push(`Video use case ${item.slug} must provide a public HTTPS MP4 URL.`)
     }
-    if (isPublished && directVideoUrl && !readme.includes(directVideoUrl)) {
-      errors.push(`README is missing the direct MP4 link for ${item.slug}.`)
+    if (isPublished && directVideoUrl) {
+      for (const rootDocument of rootReadmeDocuments) {
+        if (rootDocument.exists && !rootDocument.content.includes(directVideoUrl)) {
+          errors.push(`${rootDocument.fileName} is missing the direct MP4 link for ${item.slug}.`)
+        }
+      }
     }
   }
 }
@@ -333,8 +425,15 @@ for (const category of catalog.categories) {
   const outputPath = categoryReadmePath(category.slug)
   const rootRelativeCategoryPath = path.relative(process.cwd(), outputPath)
 
-  if (!readme.includes(`[Open category README](${rootRelativeCategoryPath})`)) {
-    errors.push(`Root README is missing the category resource link for ${category.slug}.`)
+  for (const rootDocument of rootReadmeDocuments) {
+    if (!rootDocument.exists) continue
+    const linkLabel =
+      rootDocument.locale === 'en' ? 'Open category README' : '查看分类 README（英文）'
+    if (!rootDocument.content.includes(`[${linkLabel}](${rootRelativeCategoryPath})`)) {
+      errors.push(
+        `${rootDocument.fileName} is missing the category resource link for ${category.slug}.`,
+      )
+    }
   }
 
   if (!fs.existsSync(outputPath)) {
@@ -401,5 +500,5 @@ if (errors.length) {
 }
 
 console.log(
-  `Validated the public catalog, ${publishedCategories.length} generated category READMEs, and a ${(readmeBytes / 1024).toFixed(1)} KiB root README.`,
+  `Validated the public catalog, ${publishedCategories.length} generated category READMEs, and root READMEs (${(readmeBytes / 1024).toFixed(1)} KiB EN, ${(chineseReadmeBytes / 1024).toFixed(1)} KiB ZH).`,
 )
