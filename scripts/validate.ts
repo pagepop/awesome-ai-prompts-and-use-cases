@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import path from 'node:path'
+
 import {
   appendTracking,
   categoryReadmePath,
@@ -9,13 +10,15 @@ import {
   publicCategorySlugs,
   renderCategoryReadme,
   videoUrl,
-} from './generate-category-readmes.mjs'
+} from './generate-category-readmes.ts'
 import {
   renderLanguageNavigation,
   renderRootReadme,
   rootReadmeGalleryImage,
   rootReadmePath,
-} from './generate-readme.mjs'
+} from './generate-readme.ts'
+import type { Catalog } from './types.ts'
+import { errorMessage, isRecord, readJsonFile } from './types.ts'
 
 const catalogPath = path.resolve('data/use-cases.json')
 const readmePath = rootReadmePath('en')
@@ -27,13 +30,13 @@ const codeLicensePath = path.resolve('LICENSE-CODE')
 const licensingGuidePath = path.resolve('LICENSES.md')
 const contributingPath = path.resolve('CONTRIBUTING.md')
 const issueTemplatePath = path.resolve('.github/ISSUE_TEMPLATE/submit-use-case.yml')
-const catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'))
+const catalog = readJsonFile<Catalog>(catalogPath)
 const readme = fs.readFileSync(readmePath, 'utf8')
 const chineseReadmeExists = fs.existsSync(chineseReadmePath)
 const chineseReadme = chineseReadmeExists ? fs.readFileSync(chineseReadmePath, 'utf8') : ''
 const readmeBytes = Buffer.byteLength(readme)
 const chineseReadmeBytes = Buffer.byteLength(chineseReadme)
-const errors = []
+const errors: string[] = []
 const rootReadmeDocuments = [
   {
     locale: 'en',
@@ -55,11 +58,11 @@ const rootReadmeDocuments = [
 const allowedCategories = new Set(publicCategorySlugs)
 const publishedCategories = catalog.categories.filter(isPublishedCategory)
 const publishedCategorySlugs = new Set(publishedCategories.map((category) => category.slug))
-const slugs = new Set()
-const categorySlugs = new Set()
+const slugs = new Set<string>()
+const categorySlugs = new Set<string>()
 const obviousEmailPattern = /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/i
 const obviousPhonePattern = /(?:\+?\d[\d ()-]{7,}\d)/
-const internalImplementationPatterns = [
+const internalImplementationPatterns: readonly RegExp[] = [
   /\b(?:ecommerce-video-generate|common-video-generate|kid_edu_cartoon)\b/i,
   /\bcommon video generation skill\b/i,
   /\b(?:specialized|internal)\s+(?:[a-z0-9-]+\s+){0,4}(?:agent|tool)\b/i,
@@ -99,8 +102,12 @@ const publicFields = {
   asset: new Set(['kind', 'url', 'title', 'coverUrl']),
 }
 
-function validatePublicFields(value, allowedFields, label) {
-  if (!value || typeof value !== 'object' || Array.isArray(value)) {
+function validatePublicFields(
+  value: unknown,
+  allowedFields: ReadonlySet<string>,
+  label: string,
+): void {
+  if (!isRecord(value)) {
     errors.push(`${label} must be an object.`)
     return
   }
@@ -111,7 +118,12 @@ function validatePublicFields(value, allowedFields, label) {
   }
 }
 
-function readPngDimensions(filePath) {
+interface ImageDimensions {
+  width: number
+  height: number
+}
+
+function readPngDimensions(filePath: string): ImageDimensions | null {
   if (!fs.existsSync(filePath)) return null
   const header = fs.readFileSync(filePath).subarray(0, 24)
   const pngSignature = '89504e470d0a1a0a'
@@ -155,11 +167,11 @@ for (const rootDocument of rootReadmeDocuments) {
 
   if (!rootDocument.exists) continue
 
-  let expectedRootReadme
+  let expectedRootReadme: string
   try {
     expectedRootReadme = renderRootReadme(catalog, rootDocument.locale)
   } catch (error) {
-    errors.push(`Cannot render ${rootDocument.fileName}: ${error.message}`)
+    errors.push(`Cannot render ${rootDocument.fileName}: ${errorMessage(error)}`)
     continue
   }
 
@@ -208,7 +220,7 @@ if (!readme.includes(expectedBannerReference)) {
   errors.push('README.md is missing the expected local repository banner reference and alt text.')
 }
 
-const requiredLicenseFiles = [
+const requiredLicenseFiles: ReadonlyArray<readonly [string, string]> = [
   [contentLicensePath, 'CC BY 4.0 content license'],
   [codeLicensePath, 'MIT code license'],
   [licensingGuidePath, 'licensing scope guide'],
@@ -245,10 +257,11 @@ if (fs.existsSync(licensingGuidePath)) {
   }
 }
 
-for (const [filePath, label] of [
+const contributionFiles: ReadonlyArray<readonly [string, string]> = [
   [contributingPath, 'CONTRIBUTING.md'],
   [issueTemplatePath, 'submission issue template'],
-]) {
+]
+for (const [filePath, label] of contributionFiles) {
   if (!fs.existsSync(filePath)) {
     errors.push(`Missing ${label}: ${path.relative(process.cwd(), filePath)}.`)
     continue

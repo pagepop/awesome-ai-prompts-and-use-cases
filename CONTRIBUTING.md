@@ -49,4 +49,6 @@ npm run check
 
 ## Pull requests
 
+Write commit subjects, pull request titles, and pull request descriptions in English. Use a clear Conventional Commit-style subject when practical, for example `feat(catalog): add new PagePop use cases`.
+
 Generated files must be committed together with their source catalog or locale change. Before opening a pull request, run `npm run check` and confirm the diff contains no personal information, private conversation data, internal identifiers, or tool traces.

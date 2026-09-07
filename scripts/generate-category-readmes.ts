@@ -2,9 +2,12 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
+import type { Catalog, CatalogCategory, UseCase } from './types.ts'
+import { readJsonFile } from './types.ts'
+
 const catalogPath = path.resolve('data/use-cases.json')
 
-export const categoryDirectoryBySlug = {
+export const categoryDirectoryBySlug: Readonly<Record<string, string>> = {
   video: 'video',
   'poster-and-flyer': 'posters-and-flyers',
   'image-editor': 'image-editing',
@@ -13,7 +16,7 @@ export const categoryDirectoryBySlug = {
   'social-post': 'social-media',
 }
 
-export const publicCategorySlugs = new Set([
+export const publicCategorySlugs: ReadonlySet<string> = new Set([
   'video',
   'poster-and-flyer',
   'image-editor',
@@ -22,15 +25,20 @@ export const publicCategorySlugs = new Set([
   'social-post',
 ])
 
-export function isPublishedCategory(category) {
+export function isPublishedCategory(category: CatalogCategory): boolean {
   return publicCategorySlugs.has(category.slug)
 }
 
-export function isPublishedUseCase(item) {
+export function isPublishedUseCase(item: UseCase): boolean {
   return publicCategorySlugs.has(item.category)
 }
 
-const categoryPresentation = {
+interface CategoryPresentation {
+  emoji: string
+  heading: string
+}
+
+const categoryPresentation: Readonly<Partial<Record<string, CategoryPresentation>>> = {
   video: { emoji: '🎬', heading: 'AI Video Prompts & Use Cases' },
   'poster-and-flyer': { emoji: '🪧', heading: 'Poster & Flyer Prompts & Use Cases' },
   'image-editor': { emoji: '🪄', heading: 'AI Image Editing Prompts & Use Cases' },
@@ -39,13 +47,13 @@ const categoryPresentation = {
   'social-post': { emoji: '📱', heading: 'Social Media Prompts & Use Cases' },
 }
 
-const outputLabels = {
+const outputLabels: Readonly<Record<string, string>> = {
   image: 'Image',
   video: 'Video',
   slides: 'Presentation',
 }
 
-export function appendTracking(urlValue, content) {
+export function appendTracking(urlValue: string, content: string): string {
   const url = new URL(urlValue)
   url.searchParams.set('utm_source', 'github')
   url.searchParams.set('utm_medium', 'referral')
@@ -54,34 +62,41 @@ export function appendTracking(urlValue, content) {
   return url.toString()
 }
 
-function markdownFence(value) {
+function markdownFence(value: string): string {
   const runs = value.match(/`+/g) || []
   const longest = Math.max(3, ...runs.map((run) => run.length + 1))
   return '`'.repeat(longest)
 }
 
-function escapeAlt(value) {
+function escapeAlt(value: string): string {
   return value.replace(/[\[\]]/g, '').replace(/"/g, '&quot;')
 }
 
-export function previewUrl(item) {
+export function previewUrl(item: UseCase): string {
   return item.result.coverUrl || item.result.assets.find((asset) => asset.url)?.url || ''
 }
 
-export function videoUrl(item) {
+export function videoUrl(item: UseCase): string {
   return item.result.assets.find((asset) => asset.kind === 'video' && asset.url)?.url || ''
 }
 
-export function renderResultPreview(item, detailUrl, options = {}) {
+interface ResultPreviewOptions {
+  altText?: string
+  playVideoLabel?: string
+}
+
+export function renderResultPreview(
+  item: UseCase,
+  detailUrl: string,
+  options: ResultPreviewOptions = {},
+): string {
   const preview = previewUrl(item)
   if (!preview) return ''
 
   const directVideoUrl = item.result.kind === 'video' ? videoUrl(item) : ''
   const previewHref = directVideoUrl || detailUrl
-  const alt = escapeAlt(
-    options.altText ||
-      `${item.title} — generated ${outputLabels[item.result.kind] || item.result.kind} result`,
-  )
+  const resultKindLabel = outputLabels[item.result.kind] || item.result.kind
+  const alt = escapeAlt(options.altText || `${item.title} — generated ${resultKindLabel} result`)
   const playVideoLabel = options.playVideoLabel || '▶ Play video (MP4)'
   const playLink = directVideoUrl
     ? `\n  <br>\n  <strong><a href="${directVideoUrl}">${playVideoLabel}</a></strong>`
@@ -90,14 +105,18 @@ export function renderResultPreview(item, detailUrl, options = {}) {
   return `<p align="center">\n  <a href="${previewHref}"><img src="${preview}" alt="${alt}" width="720"></a>${playLink}\n</p>\n\n`
 }
 
-export function categoryReadmePath(categorySlug) {
+export function categoryReadmePath(categorySlug: string): string {
   const directory = categoryDirectoryBySlug[categorySlug]
   if (!directory) throw new Error(`No category README directory configured for ${categorySlug}.`)
   return path.resolve('prompts', directory, 'README.md')
 }
 
-export function renderCategoryReadme(catalog, category) {
+export function renderCategoryReadme(catalog: Catalog, category: CatalogCategory): string {
   const presentation = categoryPresentation[category.slug]
+  if (!presentation) {
+    throw new Error(`No category README presentation configured for ${category.slug}.`)
+  }
+
   const categoryCases = catalog.cases.filter(
     (item) => isPublishedUseCase(item) && item.category === category.slug,
   )
@@ -106,7 +125,7 @@ export function renderCategoryReadme(catalog, category) {
     `category-${category.slug}`,
   )
 
-  let markdown = `<!-- This file is generated by scripts/generate-category-readmes.mjs. Do not edit it manually. -->
+  let markdown = `<!-- This file is generated by scripts/generate-category-readmes.ts. Do not edit it manually. -->
 
 [← Browse all prompts and use cases](../../README.md)
 
@@ -126,11 +145,11 @@ Every prompt below is reproduced in full. Select a preview or the complete-proce
     const detailUrl = appendTracking(item.websiteUrl, `case-${item.slug}`)
     const createUrl = appendTracking(item.websiteUrl, `create-${item.slug}`)
     const fence = markdownFence(item.originalPrompt)
+    const resultKindLabel = outputLabels[item.result.kind] || item.result.kind
 
     markdown += `## ${item.title}\n\n`
     markdown += renderResultPreview(item, detailUrl)
-
-    markdown += `**Output:** ${outputLabels[item.result.kind] || item.result.kind}\n\n`
+    markdown += `**Output:** ${resultKindLabel}\n\n`
     markdown += `### Original prompt\n\n${fence}text\n${item.originalPrompt}\n${fence}\n\n`
     markdown += `**[View the complete creative process →](${detailUrl})** · **[Create in PagePop →](${createUrl})**\n\n---\n\n`
   })
@@ -144,23 +163,25 @@ Every prompt below is reproduced in full. Select a preview or the complete-proce
   return markdown
 }
 
-export function generateCategoryReadmes(catalog) {
-  const writtenPaths = []
+export function generateCategoryReadmes(catalog: Catalog): string[] {
+  const writtenPaths: string[] = []
 
   for (const category of catalog.categories.filter(isPublishedCategory)) {
     const outputPath = categoryReadmePath(category.slug)
     fs.mkdirSync(path.dirname(outputPath), { recursive: true })
-    fs.writeFileSync(outputPath, renderCategoryReadme(catalog, category))
+    fs.writeFileSync(outputPath, renderCategoryReadme(catalog, category), 'utf8')
     writtenPaths.push(outputPath)
   }
 
   return writtenPaths
 }
 
-const isMain = process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)
+const isMain = Boolean(
+  process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url),
+)
 
 if (isMain) {
-  const catalog = JSON.parse(fs.readFileSync(catalogPath, 'utf8'))
-  const writtenPaths = generateCategoryReadmes(catalog)
+  const catalog = readJsonFile<Catalog>(catalogPath)
+  generateCategoryReadmes(catalog)
   console.log('Generated public category README files with complete prompts.')
 }
