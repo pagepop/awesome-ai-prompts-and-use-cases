@@ -1,6 +1,8 @@
 ## What changed
 
-Describe the prompt, result, catalog, generator, or repository documentation change.
+Describe the prompt, result, catalog, generator, or repository documentation change in English.
+
+- [ ] Commit messages, the pull request title, and the pull request description are written in English.
 
 ## Source and rights
 

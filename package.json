@@ -6,13 +6,20 @@
   "description": "Real-world AI creative prompts and use cases by PagePop.",
   "type": "module",
   "scripts": {
-    "generate:root": "node scripts/generate-readme.mjs",
-    "generate:categories": "node scripts/generate-category-readmes.mjs",
+    "generate:root": "tsx scripts/generate-readme.ts",
+    "generate:categories": "tsx scripts/generate-category-readmes.ts",
     "generate": "npm run generate:root && npm run generate:categories",
-    "validate": "node scripts/validate.mjs",
-    "check": "node scripts/check-generated.mjs"
+    "typecheck": "tsc --noEmit",
+    "validate": "tsx scripts/validate.ts",
+    "check:generated": "tsx scripts/check-generated.ts",
+    "check": "npm run typecheck && npm run check:generated"
   },
   "engines": {
     "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
   }
 }
