@@ -3,16 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "license": "SEE LICENSE IN LICENSES.md",
-  "description": "Real-world AI creative prompts and use cases by PagePop.",
+  "description": "Curated AI prompts and real-world creative examples, with original prompts, previews and source credits.",
   "type": "module",
   "scripts": {
+    "sync:models": "tsx scripts/sync-model-collections.ts",
     "generate:root": "tsx scripts/generate-readme.ts",
     "generate:categories": "tsx scripts/generate-category-readmes.ts",
     "generate": "npm run generate:root && npm run generate:categories",
     "typecheck": "tsc --noEmit",
+    "test:models": "tsx scripts/test-model-collections.ts",
     "validate": "tsx scripts/validate.ts",
     "check:generated": "tsx scripts/check-generated.ts",
-    "check": "npm run typecheck && npm run check:generated"
+    "check": "npm run typecheck && npm run test:models && npm run check:generated"
   },
   "engines": {
     "node": ">=20"

@@ -26,11 +26,53 @@
   <a href="https://www.pagepop.ai/use-cases?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=hero"><strong>Browse the visual gallery on PagePop →</strong></a>
 </p>
 
-## Models used by PagePop
+<a id="models-used-by-pagepop"></a>
 
-PagePop combines leading creative models and automatically selects the right implementation for the requested result:
+## Browse by model
 
-**Nano Banana Pro** · **GPT Image 2** · **Seedance 2.0** · **Seedance 2.5** · **Gemini 3 Pro**
+Explore AI prompts and creative examples by model, or browse by use case below.
+
+[Claude Fable 5.5](https://www.pagepop.ai/use-cases/models/claude-fable-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=model-claude-fable-5-5) · [Nano Banana Pro](https://www.pagepop.ai/use-cases/models/nano-banana-pro?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=model-nano-banana-pro) · [GPT Image 2](https://www.pagepop.ai/use-cases/models/gpt-image-2?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=model-gpt-image-2) · [Seedance 2.0](https://www.pagepop.ai/use-cases/models/seedance-2-0?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=model-seedance-2-0) · [Seedance 2.5](https://www.pagepop.ai/use-cases/models/seedance-2-5?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=model-seedance-2-5) · [Gemini 3 Pro](https://www.pagepop.ai/use-cases/models/gemini-3-pro?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=model-gemini-3-pro)
+
+### Claude Fable 5.5 community highlights
+
+Explore hand-drawn animation, SVG motion and video examples from community creators. Each example links to its creator and original post.
+
+**[Browse all 14 examples and complete prompts](https://github.com/pagepop/awesome-fable5.5-prompts)** · **[Explore the Fable 5.5 gallery](https://www.pagepop.ai/use-cases/models/claude-fable-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-collection)**
+
+#### Hand-drawn forest robot: Claude Fable 5.5 anime prompt
+
+<p align="center">
+  <a href="https://www.pagepop.ai/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/86/8641fc62e43e707dfefe43c7891afd55579534ad0d2c000075fb69ee64f02f3c.jpg" alt="Hand-drawn forest robot: Claude Fable 5.5 anime prompt" width="720"></a>
+</p>
+
+The Moss Keeper: a giant robot wakes and flies over a forest. The brief specifies hand-drawn anime visuals and a self-contained HTML file.
+
+Creator: [Chetaslua](https://x.com/chetaslua) · [Original source](https://x.com/chetaslua/status/2117169796290916732) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper)
+
+#### Fox anime storyboard prompt with Claude Fable 5.5
+
+<p align="center">
+  <a href="https://www.pagepop.ai/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/2e/2ee16a14af881cec01a74f208f2e62cc208f33c979a70ddd7e2a3253cb59dd99.jpg" alt="Fox anime storyboard prompt with Claude Fable 5.5" width="720"></a>
+</p>
+
+The Last Page: a fox wakes a library across nine anime shots. The brief calls for hand-drawn visuals, original sound, and a single HTML file.
+
+Creator: [Chetaslua](https://x.com/chetaslua) · [Original source](https://x.com/chetaslua/status/2117224839010459987) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page)
+
+#### Claude Fable 5.5 SVG prompt for a cycling pelican
+
+<p align="center">
+  <a href="https://www.pagepop.ai/use-cases/fable55-pelican-bicycle-svg?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pelican-bicycle-svg"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/23/239de1f15853e2201e1f69957bba68c2eeef76e35586daa62b5d992e9dccf8df.jpg" alt="Claude Fable 5.5 SVG prompt for a cycling pelican" width="720"></a>
+</p>
+
+Draw a pelican riding a bicycle in SVG. Compare the compact creative brief with the cycling animation and its visual detail.
+
+Creator: [can](https://x.com/marmaduke091) · [Original source](https://x.com/marmaduke091/status/2116233349391962392) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-pelican-bicycle-svg?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pelican-bicycle-svg)
+
+---
+
+
 
 <a id="browse-all-prompts-and-use-cases"></a>
 
@@ -1401,11 +1443,11 @@ New prompts and use cases are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) a
 
 ## Data
 
-The public, machine-readable catalog is available at [data/use-cases.json](data/use-cases.json). It intentionally excludes private conversations, internal identifiers, tool traces, and unpublished material.
+The original public catalog is available at [data/use-cases.json](data/use-cases.json). The separate [model collection index](data/model-collections.json) links all Fable examples with localized destinations and source credits, without adding their prompts to the original catalog. Both exclude private conversations, internal identifiers, tool traces, and unpublished material.
 
 ## Rights and licensing
 
-The original prompts, repository documentation, descriptive text, and catalog metadata are licensed under [CC BY 4.0](LICENSE). Repository automation and source code are licensed under the [MIT License](LICENSE-CODE). CDN-hosted result previews, PagePop brand assets, third-party material, trademarks, and personality rights are not automatically included in those grants. Read [LICENSES.md](LICENSES.md) for the controlling scope, exclusions, and attribution format.
+The original prompts, repository documentation, descriptive text, and catalog metadata are licensed under [CC BY 4.0](LICENSE). Repository automation and source code are licensed under the [MIT License](LICENSE-CODE). CDN-hosted result previews, PagePop brand assets, third-party material, trademarks, and personality rights are not automatically included in those grants. Fable community prompts and media retain their original rights; inclusion does not mean a work was created in PagePop. Read [LICENSES.md](LICENSES.md) for the controlling scope, exclusions, and attribution format.
 
 ---
 
