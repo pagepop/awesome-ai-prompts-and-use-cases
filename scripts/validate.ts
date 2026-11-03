@@ -19,6 +19,13 @@ import {
 } from './generate-readme.ts'
 import type { Catalog } from './types.ts'
 import { errorMessage, isRecord, readJsonFile } from './types.ts'
+import {
+  fableRepositoryUrl,
+  modelTopics,
+  modelTopicUrl,
+  readModelCollections,
+  websiteUrlForLocale,
+} from './model-collections.ts'
 
 const catalogPath = path.resolve('data/use-cases.json')
 const readmePath = rootReadmePath('en')
@@ -39,7 +46,7 @@ const chineseReadmeBytes = Buffer.byteLength(chineseReadme)
 const errors: string[] = []
 const rootReadmeDocuments = [
   {
-    locale: 'en',
+    locale: 'en' as const,
     fileName: path.basename(readmePath),
     content: readme,
     bytes: readmeBytes,
@@ -47,7 +54,7 @@ const rootReadmeDocuments = [
     galleryImage: rootReadmeGalleryImage('en'),
   },
   {
-    locale: 'zh',
+    locale: 'zh' as const,
     fileName: path.basename(chineseReadmePath),
     content: chineseReadme,
     bytes: chineseReadmeBytes,
@@ -290,7 +297,7 @@ for (const rootDocument of rootReadmeDocuments) {
     errors.push(`${rootDocument.fileName} is missing the content, code, or licensing-scope links.`)
   }
 
-  if (!rootDocument.content.includes('https://www.pagepop.ai/use-cases')) {
+  if (!rootDocument.content.includes(websiteUrlForLocale('https://www.pagepop.ai/use-cases', rootDocument.locale))) {
     errors.push(`${rootDocument.fileName} is missing a link to the PagePop use-case gallery.`)
   }
 
@@ -346,15 +353,21 @@ for (const [itemIndex, item] of catalog.cases.entries()) {
   }
   const isPublished = publishedCategorySlugs.has(item.category)
   if (isPublished) {
-    const rootDetailUrl = appendTracking(item.websiteUrl, `case-${item.slug}`)
-    const rootCreateUrl = appendTracking(item.websiteUrl, `create-${item.slug}`)
     for (const rootDocument of rootReadmeDocuments) {
       if (!rootDocument.exists) continue
+      const rootDetailUrl = appendTracking(item.websiteUrl, `case-${item.slug}`)
+      const rootCreateUrl = appendTracking(item.websiteUrl, `create-${item.slug}`)
       if (!rootDocument.content.includes(rootDetailUrl)) {
         errors.push(`${rootDocument.fileName} is missing the tracked detail link for ${item.slug}.`)
       }
       if (!rootDocument.content.includes(rootCreateUrl)) {
         errors.push(`${rootDocument.fileName} is missing the tracked create link for ${item.slug}.`)
+      }
+      if (rootDocument.locale === 'zh' &&
+          (!rootDocument.content.includes(`[查看完整创作过程（英文） →](${rootDetailUrl})`) ||
+           !rootDocument.content.includes(`[使用 PagePop 创作（英文页面） →](${rootCreateUrl})`) ||
+           rootDocument.content.includes(websiteUrlForLocale(item.websiteUrl, 'zh')))) {
+        errors.push(`README_zh.md must retain the original English-only page and disclose its language for ${item.slug}.`)
       }
       if (!rootDocument.content.includes(item.originalPrompt)) {
         errors.push(`${rootDocument.fileName} is missing the full prompt for ${item.slug}.`)
@@ -503,6 +516,55 @@ for (const category of catalog.categories) {
       if (!directVideoUrl || !categoryReadme.includes(directVideoUrl)) {
         errors.push(`Category README ${category.slug} is missing the direct MP4 link for ${item.slug}.`)
       }
+    }
+  }
+}
+
+const modelCollections = readModelCollections()
+const modelDataPath = path.resolve('data/model-collections.json')
+if (fs.readFileSync(modelDataPath, 'utf8') !== `${JSON.stringify(modelCollections, null, 2)}\n`) {
+  errors.push('Model collection index must use deterministic JSON formatting from sync:models.')
+}
+for (const document of rootReadmeDocuments) {
+  const zh = document.locale === 'zh'
+  const localizedRepoUrl = zh ? `${fableRepositoryUrl}/blob/main/README_zh-CN.md` : fableRepositoryUrl
+  if (!document.content.includes(localizedRepoUrl) || !document.content.includes('(data/model-collections.json)')) {
+    errors.push(`${document.fileName} is missing the Fable repository or complete metadata index link.`)
+  }
+  const modelNavigationPosition = document.content.indexOf(`## ${zh ? '按模型浏览' : 'Browse by model'}`)
+  const categoryNavigationPosition = document.content.indexOf('<a id="browse-all-prompts-and-use-cases"></a>')
+  if (modelNavigationPosition < 0 || modelNavigationPosition >= categoryNavigationPosition) {
+    errors.push(`${document.fileName} must show model discovery before the original category navigation.`)
+  }
+  for (const topic of modelTopics) {
+    if (!document.content.includes(appendTracking(modelTopicUrl(topic.id, document.locale), `model-${topic.id}`))) {
+      errors.push(`${document.fileName} is missing the localized model topic: ${topic.id}`)
+    }
+  }
+  const covers = modelCollections.cases.filter((item) => document.content.includes(`src="${item.coverUrl}"`))
+  if (covers.length !== modelCollections.featuredSlugs.length) {
+    errors.push(`${document.fileName} must show exactly three Fable highlight covers.`)
+  }
+  for (const slug of modelCollections.featuredSlugs) {
+    const item = modelCollections.cases.find((entry) => entry.slug === slug)
+    if (!item) throw new Error(`Missing required Fable metadata: ${slug}`)
+    const detailUrl = appendTracking(item.locales[zh ? 'zh-CN' : 'en-US'].detailUrl, `fable-case-${slug}`)
+    if (!document.content.includes(`<a href="${detailUrl}"><img src="${item.coverUrl}"`) ||
+        !document.content.includes(item.source.url) || !document.content.includes(item.source.authorUrl)) {
+      errors.push(`${document.fileName} is missing a localized clickable cover or source credit for ${slug}.`)
+    }
+  }
+  const legacyEnglishPaths = new Set(catalog.cases.map((item) => new URL(item.websiteUrl).pathname))
+  const websiteUrls = document.content.match(/https:\/\/www\.pagepop\.ai\/[^\s"<>)]*/g) || []
+  for (const urlValue of websiteUrls) {
+    const url = new URL(urlValue)
+    const expectedPrefix = zh ? '/zh-cn/use-cases' : '/use-cases'
+    const intentionalEnglishLegacyDetail = zh && legacyEnglishPaths.has(url.pathname)
+    if ((!url.pathname.startsWith(expectedPrefix) && !intentionalEnglishLegacyDetail) || url.searchParams.get('utm_source') !== 'github' ||
+        url.searchParams.get('utm_medium') !== 'referral' ||
+        url.searchParams.get('utm_campaign') !== 'awesome-ai-prompts-and-use-cases' ||
+        !url.searchParams.get('utm_content')) {
+      errors.push(`${document.fileName} has an incorrectly localized or untracked website CTA: ${urlValue}`)
     }
   }
 }

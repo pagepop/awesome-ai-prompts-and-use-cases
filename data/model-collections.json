@@ -1,0 +1,939 @@
+{
+  "schemaVersion": 1,
+  "model": {
+    "id": "claude-fable-5-5",
+    "name": "Claude Fable 5.5",
+    "repositoryUrl": "https://github.com/pagepop/awesome-fable5.5-prompts"
+  },
+  "featuredSlugs": [
+    "fable55-the-moss-keeper",
+    "fable55-the-last-page",
+    "fable55-pelican-bicycle-svg"
+  ],
+  "cases": [
+    {
+      "slug": "fable55-the-moss-keeper",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/86/8641fc62e43e707dfefe43c7891afd55579534ad0d2c000075fb69ee64f02f3c.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/35/35809e19a5edc311405bc2868493bbaf2aea8be6ab0d382dacd9a49669c765a5.mp4",
+      "source": {
+        "url": "https://x.com/chetaslua/status/2117169796290916732",
+        "authorName": "Chetaslua",
+        "authorUrl": "https://x.com/chetaslua"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Hand-drawn forest robot: Claude Fable 5.5 anime prompt",
+          "description": "The Moss Keeper: a giant robot wakes and flies over a forest. The brief specifies hand-drawn anime visuals and a self-contained HTML file.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-the-moss-keeper",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "森林机器人苏醒的 Claude Fable 5.5 手绘动画提示词",
+          "description": "《苔藓守护者》中，巨型机器人在日出时苏醒，挣脱藤蔓飞向天空。提示词围绕森林薄雾、重量感与手绘机器人组织动画，并要求以单文件 HTML 交付。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-the-moss-keeper",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "森林機器人甦醒的 Claude Fable 5.5 手繪動畫提示詞",
+          "description": "《苔蘚守護者》中，巨型機器人在日出時甦醒，掙脫藤蔓飛向天空。提示詞圍繞森林薄霧、重量感與手繪機器人組織動畫，並要求以單一 HTML 檔案交付。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-the-moss-keeper",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "森のロボットを手描きアニメにするClaude Fable 5.5プロンプト",
+          "description": "「The Moss Keeper」では苔に覆われた巨大ロボットが目覚め、森から飛び立ちます。プロンプトは霧や重量感、手描きの美術を指定し、単一HTMLでの納品を求めています。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-the-moss-keeper",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "숲속 로봇을 손그림 애니메이션으로: Claude Fable 5.5 프롬프트",
+          "description": "「The Moss Keeper」에서는 이끼에 덮인 거대 로봇이 깨어나 숲에서 날아오릅니다. 프롬프트는 안개와 무게감, 손그림 미술을 지정하고 단일 HTML 납품을 요구합니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-the-moss-keeper",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Robot dibujado a mano: prompt Claude Fable 5.5",
+          "description": "En The Moss Keeper, un robot cubierto de musgo despierta y vuela. El prompt pide estética de anime dibujado a mano y un archivo HTML autónomo.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-the-moss-keeper",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Claude Fable 5.5 : prompt de robot dessiné à la main",
+          "description": "Dans The Moss Keeper, un robot couvert de mousse s’éveille et s’envole. Le prompt exige un anime dessiné à la main et un fichier HTML autonome.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-the-moss-keeper",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Claude Fable 5.5: Prompt für Waldroboter im Anime-Stil",
+          "description": "In The Moss Keeper erwacht ein Riesenroboter und fliegt über den Wald. Der Prompt fordert handgezeichnete Anime-Bilder und eine eigenständige HTML-Datei.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-the-moss-keeper",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Claude Fable 5.5: prompt de robô em anime desenhado",
+          "description": "Em The Moss Keeper, um robô coberto de musgo desperta e decola. O prompt pede estética de anime desenhado à mão e um arquivo HTML autossuficiente.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-the-moss-keeper",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-the-last-page",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/2e/2ee16a14af881cec01a74f208f2e62cc208f33c979a70ddd7e2a3253cb59dd99.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/f4/f49f462a7d2ddc69c743bf3f39bb388488e0e350e5185875bcfc1abf1becc68c.mp4",
+      "source": {
+        "url": "https://x.com/chetaslua/status/2117224839010459987",
+        "authorName": "Chetaslua",
+        "authorUrl": "https://x.com/chetaslua"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Fox anime storyboard prompt with Claude Fable 5.5",
+          "description": "The Last Page: a fox wakes a library across nine anime shots. The brief calls for hand-drawn visuals, original sound, and a single HTML file.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-the-last-page",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 狐狸图书馆动画分镜提示词",
+          "description": "《最后一页》中，小狐狸唤醒图书馆，书页化成纸鸟飞向日出。提示词通过九个镜头组织故事，要求手绘动画美术、原创配乐与单文件 HTML 交付。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-the-last-page",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 狐狸圖書館動畫分鏡提示詞",
+          "description": "《最後一頁》中，小狐狸喚醒圖書館，書頁化成紙鳥飛向日出。提示詞透過九個鏡頭組織故事，要求手繪動畫美術、原創配樂與單一 HTML 檔案交付。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-the-last-page",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5でキツネのアニメを構成するプロンプト",
+          "description": "「The Last Page」ではキツネが図書館を目覚めさせ、ページが紙の鳥となって舞います。プロンプトでは9つのカット、手描きの美術、独自の音声、単一HTMLでの納品を指定しています。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-the-last-page",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5로 여우 애니메이션을 구성하는 프롬프트",
+          "description": "「The Last Page」에서는 여우가 도서관을 깨우고 책장이 종이 새가 되어 날아갑니다. 프롬프트는 9개 숏, 손그림 미술, 독창적인 음향, 단일 HTML 납품을 요구합니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-the-last-page",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Claude Fable 5.5: prompt de anime de zorro y biblioteca",
+          "description": "En The Last Page, un zorro despierta una biblioteca. El prompt pide nueve planos de anime, sonido original y entrega en un archivo HTML.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-the-last-page",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Anime de renard : prompt de storyboard Claude Fable 5.5",
+          "description": "Dans The Last Page, un renard réveille une bibliothèque. Le prompt demande neuf plans d’anime, un son original et un fichier HTML autonome.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-the-last-page",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Fuchs-Anime planen: Prompt für Claude Fable 5.5",
+          "description": "In The Last Page weckt ein Fuchs eine Bibliothek. Der Prompt fordert neun Anime-Einstellungen, eigene Musik und eine eigenständige HTML-Datei.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-the-last-page",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Raposa em anime: prompt de roteiro Claude Fable 5.5",
+          "description": "Em The Last Page, uma raposa desperta uma biblioteca. O prompt pede nove planos de anime, som original e entrega em um arquivo HTML.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-the-last-page",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-pelican-bicycle-svg",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/23/239de1f15853e2201e1f69957bba68c2eeef76e35586daa62b5d992e9dccf8df.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/a1/a17ceee17b7bb44f86c70846e573b70e0441bcfdad19cc9994cc81d8bda8c914.mp4",
+      "source": {
+        "url": "https://x.com/marmaduke091/status/2116233349391962392",
+        "authorName": "can",
+        "authorUrl": "https://x.com/marmaduke091"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Claude Fable 5.5 SVG prompt for a cycling pelican",
+          "description": "Draw a pelican riding a bicycle in SVG. Compare the compact creative brief with the cycling animation and its visual detail.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-pelican-bicycle-svg",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "鹈鹕骑车的 Claude Fable 5.5 SVG 动画提示词",
+          "description": "用 SVG 描绘骑自行车的鹈鹕，观察角色与自行车如何组合成动画画面。简短指令保留创作空间，适合参考主体设计与细节表达。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-pelican-bicycle-svg",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "鵜鶘騎車的 Claude Fable 5.5 SVG 動畫提示詞",
+          "description": "以 SVG 描繪騎自行車的鵜鶘，觀察角色與自行車如何組合成動畫畫面。簡短指令保留創作空間，可參考主體設計與細節表現。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-pelican-bicycle-svg",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "自転車ペリカンを描くClaude Fable 5.5のSVGプロンプト",
+          "description": "SVGで自転車に乗るペリカンを描く例です。短い指示とアニメーションを見比べ、キャラクターと自転車の組み合わせや細部の表現を確認できます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-pelican-bicycle-svg",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "자전거 펠리컨을 그리는 Claude Fable 5.5 SVG 프롬프트",
+          "description": "자전거를 타는 펠리컨을 SVG로 표현한 사례입니다. 짧은 지시와 애니메이션을 비교하며 캐릭터와 자전거의 조합, 시각적 디테일을 살펴볼 수 있습니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-pelican-bicycle-svg",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Claude Fable 5.5: prompt SVG de un pelícano en bici",
+          "description": "Dibuja un pelícano en bicicleta con SVG. Compara la breve instrucción con la animación y observa el diseño del personaje y la bicicleta.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-pelican-bicycle-svg",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Prompt SVG Claude Fable 5.5 : pélican à vélo",
+          "description": "Dessiner un pélican à vélo en SVG : comparez la consigne courte avec l’animation et observez le personnage, le vélo et les détails visuels.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-pelican-bicycle-svg",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Rad-Pelikan in SVG: Prompt für Claude Fable 5.5",
+          "description": "Ein radfahrender Pelikan als SVG. Vergleiche die kurze Vorgabe mit der Animation und betrachte die Gestaltung von Figur und Fahrrad.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-pelican-bicycle-svg",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Pelicano de bicicleta em SVG: prompt Claude Fable 5.5",
+          "description": "Desenhe um pelicano de bicicleta em SVG. Compare a instrução curta com a animação e observe o personagem, a bicicleta e os detalhes visuais.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-pelican-bicycle-svg",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-symphony-visualization",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/38/3803896c64ce505172fcb2e04c4b844ee10290f074e7026406a1412f4ee47507.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/cf/cfc022ef8579cd1c561518f32b03d6fbca5d828a43f24e0009b8199e153d4df9.mp4",
+      "source": {
+        "url": "https://x.com/imjustnewatai/status/2109191246715462070",
+        "authorName": "imjustnewatai",
+        "authorUrl": "https://x.com/imjustnewatai"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Symphony note visualizer prompts with Claude Fable 5.5",
+          "description": "Compose a symphony, then record it as a video. Four movements pair the music with a visualization of every note.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-symphony-visualization",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 作曲与音符可视化视频提示词",
+          "description": "先创作交响曲，再录制音乐视频。四个乐章与逐音符可视化结合，可参考音乐创作和动画呈现如何分步衔接。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-symphony-visualization",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 作曲與音符視覺化影片提示詞",
+          "description": "先創作交響曲，再錄製音樂影片。四個樂章與逐音符視覺化結合，可參考音樂創作和動畫呈現如何分步銜接。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-symphony-visualization",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5で作曲と音符可視化をつなぐプロンプト",
+          "description": "交響曲を作曲し、その映像を録画する流れです。4楽章の音楽に一つひとつの音符の可視化を合わせ、作曲と動画表現をつなげます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-symphony-visualization",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 작곡과 음표 시각화 프롬프트",
+          "description": "교향곡을 작곡한 뒤 그 영상을 녹화하는 흐름입니다. 4악장의 음악에 개별 음표 시각화를 더해 작곡과 애니메이션을 연결합니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-symphony-visualization",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Sinfonía a notas animadas: prompts Claude Fable 5.5",
+          "description": "Compón una sinfonía y después graba su video. Cuatro movimientos combinan la música con una visualización de cada nota.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-symphony-visualization",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "De la symphonie aux notes : prompts Claude Fable 5.5",
+          "description": "Composer une symphonie, puis en enregistrer une vidéo. Quatre mouvements associent la musique à une visualisation de chaque note.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-symphony-visualization",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Sinfonie zu Notenbildern: Prompts für Claude Fable 5.5",
+          "description": "Eine Sinfonie komponieren und anschließend als Video aufnehmen. Vier Sätze verbinden die Musik mit einer Visualisierung jeder Note.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-symphony-visualization",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Da sinfonia às notas: prompts para Claude Fable 5.5",
+          "description": "Componha uma sinfonia e depois grave um vídeo dela. Quatro movimentos combinam a música com uma visualização de cada nota.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-symphony-visualization",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-vizzbees-motion-design",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/bf/bf94d990bdd797d5539ad505d6973c28ff9dccd15cc1aa021c8b536d1a5f0c82.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/3c/3c4f429db843dd35700020c5c93a66bde88a8b04b08e3ca627d74f33b513bdf1.mp4",
+      "source": {
+        "url": "https://x.com/Blushneyy/status/2106893568828928305",
+        "authorName": "Blushney",
+        "authorUrl": "https://x.com/Blushneyy"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Vizzbees UI motion prompt for Claude Fable 5.5",
+          "description": "A Vizzbees brand animation presents product UI and visual examples. Explore how a one-line motion brief leaves room for creative direction.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-vizzbees-motion-design",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "用 Claude Fable 5.5 制作 Vizzbees 界面动效的提示词",
+          "description": "以 Vizzbees 品牌和产品界面为核心组织动效展示，将 UI 与视觉示例融入视频。一句话的开放式需求提供了品牌动画的创作起点。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-vizzbees-motion-design",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "用 Claude Fable 5.5 製作 Vizzbees 介面動態設計的提示詞",
+          "description": "以 Vizzbees 品牌與產品介面為核心組織動態展示，將 UI 與視覺範例融入影片。一句話的開放式需求提供了品牌動畫的創作起點。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-vizzbees-motion-design",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "VizzbeesのUIを動かすClaude Fable 5.5プロンプト",
+          "description": "Vizzbeesのブランドと製品UIを中心にしたモーションデザインです。1行の自由度の高い依頼から、画面やビジュアル例を見せる動画へ展開します。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-vizzbees-motion-design",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Vizzbees UI를 움직이는 Claude Fable 5.5 프롬프트",
+          "description": "Vizzbees 브랜드와 제품 UI를 중심으로 한 모션 디자인입니다. 한 줄의 개방적인 요청을 바탕으로 화면과 시각 예시를 영상에 담는 방식을 살펴봅니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-vizzbees-motion-design",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Anima la UI de Vizzbees: prompt Claude Fable 5.5",
+          "description": "Una animación de Vizzbees presenta la interfaz y ejemplos visuales. Un encargo de una línea deja espacio para definir la dirección creativa.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-vizzbees-motion-design",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Animer Vizzbees UI avec Claude Fable 5.5 : prompt",
+          "description": "Une animation Vizzbees présente l’interface et des exemples visuels. Une consigne d’une ligne laisse la direction créative ouverte.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-vizzbees-motion-design",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Vizzbees-UI mit Claude Fable 5.5 animieren: Prompt",
+          "description": "Eine Vizzbees-Markenanimation zeigt die Produktoberfläche und Bildbeispiele. Ein einzeiliger Auftrag lässt Raum für die kreative Gestaltung.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-vizzbees-motion-design",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Anime a UI Vizzbees com Claude Fable 5.5: prompt",
+          "description": "Uma animação da Vizzbees apresenta a interface e exemplos visuais. Um pedido de uma linha abre espaço para definir a direção criativa.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-vizzbees-motion-design",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-glycolysis-svg-animation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/7e/7ee37cef6d1958d347831630178ed86f03b8a759011fe9a3b507005dfba812ee.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/4c/4c80795b49ba45527269d328725efc0589c1e688ba9889ee6605d0aee5fe1a11.mp4",
+      "source": {
+        "url": "https://x.com/olddonkeyblog/status/2106508425211330750",
+        "authorName": "Olddonkey",
+        "authorUrl": "https://x.com/olddonkeyblog"
+      },
+      "locales": {
+        "en-US": {
+          "title": "SVG glycolysis animation prompt with Claude Fable 5.5",
+          "description": "Follow a glucose molecule through glycolysis and into ethanol in an animated SVG embedded in HTML. Explore a molecular-process animation brief.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-glycolysis-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "用 Claude Fable 5.5 制作糖酵解 SVG 动画的提示词",
+          "description": "用嵌入 HTML 的 SVG 动画串起葡萄糖经历糖酵解并转化为乙醇的过程。围绕分子变化组织画面，可参考科学过程动画的表达方式。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-glycolysis-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "用 Claude Fable 5.5 製作糖解作用 SVG 動畫的提示詞",
+          "description": "以嵌入 HTML 的 SVG 動畫串起葡萄糖經過糖解作用並轉化為乙醇的過程。圍繞分子變化組織畫面，可參考科學過程動畫的表現方式。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-glycolysis-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "解糖系をSVGで動かすClaude Fable 5.5プロンプト",
+          "description": "グルコースが解糖系を経てエタノールになる過程を、HTMLに埋め込んだSVGアニメーションで表現します。分子の変化を映像につなぐ構成を確認できます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-glycolysis-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "해당과정을 SVG로 표현하는 Claude Fable 5.5 프롬프트",
+          "description": "포도당 분자가 해당과정을 거쳐 에탄올로 변하는 흐름을 HTML에 삽입한 SVG 애니메이션으로 표현합니다. 분자 변화를 장면으로 연결하는 구성을 살펴봅니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-glycolysis-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Anima la glucólisis en SVG con Claude Fable 5.5: prompt",
+          "description": "Sigue una molécula de glucosa por la glucólisis hasta el etanol en un SVG animado dentro de HTML. Un ejemplo de animación de procesos moleculares.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-glycolysis-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "La glycolyse en SVG avec Claude Fable 5.5 : prompt",
+          "description": "Un SVG animé dans du HTML suit une molécule de glucose, de la glycolyse à l’éthanol. Découvrez une mise en scène de processus moléculaires.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-glycolysis-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Glykolyse als SVG animieren: Prompt Claude Fable 5.5",
+          "description": "Ein in HTML eingebettetes SVG animiert den Weg von Glukose durch die Glykolyse bis zum Ethanol und macht einen molekularen Prozess zum Thema.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-glycolysis-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Anime a glicólise em SVG: prompt Claude Fable 5.5",
+          "description": "Acompanhe uma molécula de glicose pela glicólise até o etanol em um SVG animado dentro de HTML. Um exemplo de animação de processos moleculares.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-glycolysis-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-starship-launch-svg-animation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/98/98d75b5f7d113ae54ac1753d4a96199b236837e403d3f0f3d87bfb191d72024d.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/bc/bc8b2f69f3cd524df73db38f098c54c0f8f69e10f5d251e0002ab5d38a15e51f.mp4",
+      "source": {
+        "url": "https://x.com/olddonkeyblog/status/2106507742454403485",
+        "authorName": "Olddonkey",
+        "authorUrl": "https://x.com/olddonkeyblog"
+      },
+      "locales": {
+        "en-US": {
+          "title": "16-Starship SVG launch prompt for Claude Fable 5.5",
+          "description": "Animate 16 Starships launching together, separating stages, and entering space. The sequence uses an animated SVG embedded in HTML.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-starship-launch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 SVG 提示词：16 艘 Starship 同时发射",
+          "description": "16 艘 Starship 同时发射，完成级间分离并进入太空。以嵌入 HTML 的 SVG 动画连接多个阶段，呈现火箭群发射的连续过程。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-starship-launch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 SVG 提示詞：16 艘 Starship 同時發射",
+          "description": "16 艘 Starship 同時發射，完成火箭分級並進入太空。以嵌入 HTML 的 SVG 動畫連接多個階段，呈現火箭群發射的連續過程。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-starship-launch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5のSVGプロンプト：16機のStarship発射",
+          "description": "16機のStarshipが同時に打ち上がり、段分離を経て宇宙へ向かいます。HTML埋め込みのSVGアニメーションで、複数の段階をつないで表現します。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-starship-launch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 SVG 프롬프트: Starship 16대 발사",
+          "description": "Starship 16대가 동시에 발사되고 단 분리를 거쳐 우주로 향합니다. HTML에 삽입한 SVG 애니메이션으로 여러 단계를 연속해서 표현합니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-starship-launch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Claude Fable 5.5: prompt SVG de 16 Starships en vuelo",
+          "description": "Anima 16 Starships que despegan juntos, separan sus etapas y entran en el espacio. La secuencia usa un SVG animado incrustado en HTML.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-starship-launch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Claude Fable 5.5 : prompt SVG de 16 Starships",
+          "description": "Animez 16 Starships décollant ensemble, séparant leurs étages et gagnant l’espace. La séquence utilise un SVG animé intégré au HTML.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-starship-launch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Claude Fable 5.5: SVG-Prompt für 16 Starship-Starts",
+          "description": "16 Starships starten gemeinsam, trennen ihre Stufen und fliegen ins All. Ein animiertes SVG in HTML verbindet die Phasen des Raketenstarts.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-starship-launch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Claude Fable 5.5: prompt SVG de 16 Starships decolando",
+          "description": "Anime 16 Starships decolando juntos, separando seus estágios e entrando no espaço. A sequência usa um SVG animado incorporado ao HTML.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-starship-launch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-clawdhouse-product-animation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/73/7374241c39dab0c94f2557f2918b5aaa507cfcfe79a055609ddee8ac879b5e97.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/d7/d78495484dd8851d13f02a06b3c41e9e915ca408d6a2ba59d9b54e0326539d13.mp4",
+      "source": {
+        "url": "https://x.com/ishuagra02/status/2106138602073641241",
+        "authorName": "Ishu Agrawal",
+        "authorUrl": "https://x.com/ishuagra02"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Clawdhouse beat animation prompt with Claude Fable 5.5",
+          "description": "Show Claude’s animated states in a Clawdhouse product video. Match each beat to a state animation and use music to shape the pacing.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-clawdhouse-product-animation",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "让 Clawdhouse 随音乐变化的 Claude Fable 5.5 动效提示词",
+          "description": "将 Claude 的不同状态编成 Clawdhouse 产品动效视频，随音乐节拍切换动画。围绕状态变化与节奏安排组织产品展示。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-clawdhouse-product-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "讓 Clawdhouse 隨音樂變化的 Claude Fable 5.5 動畫提示詞",
+          "description": "將 Claude 的不同狀態編成 Clawdhouse 產品動態影片，隨音樂節拍切換動畫。圍繞狀態變化與節奏安排組織產品展示。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-clawdhouse-product-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "音楽に合わせるClawdhouse：Claude Fable 5.5プロンプト",
+          "description": "Claudeの各状態をClawdhouseの製品動画として見せる構成です。音楽のビートごとにアニメーションを切り替え、状態変化とテンポを結び付けます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-clawdhouse-product-animation",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Clawdhouse를 음악에 맞추는 Claude Fable 5.5 모션 프롬프트",
+          "description": "Claude의 각 상태를 Clawdhouse 제품 영상으로 보여 줍니다. 음악의 매 박자에 상태 애니메이션을 맞춰 변화와 리듬을 연결합니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-clawdhouse-product-animation",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Clawdhouse al ritmo: prompt para Claude Fable 5.5",
+          "description": "Muestra los estados animados de Claude en un video de producto de Clawdhouse. Sincroniza cada estado con los pulsos de la música.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-clawdhouse-product-animation",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Clawdhouse en rythme : prompt Claude Fable 5.5",
+          "description": "Présentez les états animés de Claude dans une vidéo produit Clawdhouse. Synchronisez les animations sur chaque temps de la musique.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-clawdhouse-product-animation",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Clawdhouse im Takt: Motion-Prompt für Claude Fable 5.5",
+          "description": "Claudes animierte Zustände werden im Clawdhouse-Produktvideo sichtbar. Musik und Beat bestimmen den Wechsel zwischen den Animationen.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-clawdhouse-product-animation",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Clawdhouse no ritmo: prompt para Claude Fable 5.5",
+          "description": "Mostre os estados animados do Claude em um vídeo de produto do Clawdhouse. Sincronize as animações com cada batida da música.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-clawdhouse-product-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-human-progress-future",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/1c/1cd11a1ae9c18a034c1221554da77feb4378657cb5ae1e6fa638e61f7bc618d8.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/12/123dbc79623ba4341144b303b4b89250738a9af9d20ffe15a0d65c2130716465.mp4",
+      "source": {
+        "url": "https://x.com/imjustnewatai/status/2106081142143168580",
+        "authorName": "imjustnewatai",
+        "authorUrl": "https://x.com/imjustnewatai"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Claude Fable 5.5 video prompt: history and future",
+          "description": "Trace human progress, then imagine the next 30 years. Explore an animated history-to-future narrative and the scope of its one-sentence brief.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-human-progress-future",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "从人类历史到未来 30 年：Claude Fable 5.5 视频提示词",
+          "description": "从人类进步历程延伸到未来 30 年，以动画连接历史回顾与未来想象。可参考一句话如何设定时间跨度，再展开成有起伏的视频叙事。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-human-progress-future",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "從人類歷史到未來 30 年：Claude Fable 5.5 影片提示詞",
+          "description": "從人類進步歷程延伸到未來 30 年，以動畫連接歷史回顧與未來想像。可參考一句話如何設定時間跨度，再展開成有起伏的影片敘事。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-human-progress-future",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "歴史から30年先へ：Claude Fable 5.5の動画プロンプト",
+          "description": "人類の進歩を振り返り、さらに30年先を想像するアニメーションです。1文で時間軸を定め、歴史から未来へ映像の物語を展開します。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-human-progress-future",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "역사에서 30년 뒤로: Claude Fable 5.5 영상 프롬프트",
+          "description": "인류의 발전을 돌아보고 앞으로 30년을 상상하는 애니메이션입니다. 한 문장으로 시간 범위를 정한 뒤 역사와 미래를 영상 서사로 연결합니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-human-progress-future",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Historia y 30 años futuros: prompt Claude Fable 5.5",
+          "description": "Recorre el progreso humano y después imagina los próximos 30 años. Una frase define el alcance de una narración animada entre historia y futuro.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-human-progress-future",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "De l’histoire au futur : prompt vidéo Claude Fable 5.5",
+          "description": "Retracez le progrès humain, puis imaginez les 30 prochaines années. Une phrase définit une narration animée reliant histoire et avenir.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-human-progress-future",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Geschichte bis Zukunft: Video-Prompt Claude Fable 5.5",
+          "description": "Der Fortschritt der Menschheit führt in eine Vorstellung der nächsten 30 Jahre. Ein Satz steckt den Rahmen der animierten Zeitreise ab.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-human-progress-future",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Da história ao futuro: prompt de vídeo Claude Fable 5.5",
+          "description": "Percorra o progresso humano e depois imagine os próximos 30 anos. Uma frase define uma narrativa animada entre história e futuro.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-human-progress-future",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-paracortex-terminal-update",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/62/6221af831a51fae85536c35986e5c1b08747324b096ebb57cfda9a6619cf926a.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/66/6683e1304880091cab0866f159845292968e0d829bd2f9c7bded30acbd1d265d.mp4",
+      "source": {
+        "url": "https://x.com/RobIW_dev/status/2105894547796476225",
+        "authorName": "RobIW",
+        "authorUrl": "https://x.com/RobIW_dev"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Paracortex update motion prompt with Claude Fable 5.5",
+          "description": "The brief asks for a lively 25-second X video about the Paracortex Terminal and pi 1.0 update, with freedom over highlights and motion.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-paracortex-terminal-update",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Paracortex 更新宣传片的 Claude Fable 5.5 动效提示词",
+          "description": "提示词要求制作面向 X 的 25 秒动效视频，介绍 Paracortex Terminal 与 pi 1.0 的更新，并自由安排重点信息、简要提及的内容与节奏。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-paracortex-terminal-update",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Paracortex 更新宣傳片的 Claude Fable 5.5 動畫提示詞",
+          "description": "提示詞要求製作面向 X 的 25 秒動態影片，介紹 Paracortex Terminal 與 pi 1.0 的更新，並自由安排重點資訊、簡要提及的內容與節奏。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-paracortex-terminal-update",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Paracortexの更新告知：Claude Fable 5.5動画プロンプト",
+          "description": "プロンプトではParacortex Terminalとpi 1.0の更新をXで紹介する25秒の動画を依頼しています。強調する情報と軽く触れる内容を分け、生き生きと構成します。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-paracortex-terminal-update",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Paracortex 업데이트 홍보: Claude Fable 5.5 모션 프롬프트",
+          "description": "프롬프트는 Paracortex Terminal과 pi 1.0 업데이트를 X에서 소개할 25초 모션 영상을 요청합니다. 강조할 정보와 간단히 언급할 내용을 자유롭게 구성합니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-paracortex-terminal-update",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Novedades de Paracortex: prompt Claude Fable 5.5",
+          "description": "El prompt pide un video animado de 25 segundos para X sobre la actualización de Paracortex Terminal y pi 1.0, con libertad para elegir los puntos clave.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-paracortex-terminal-update",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Annonce Paracortex : prompt vidéo Claude Fable 5.5",
+          "description": "Le prompt demande une vidéo animée de 25 secondes pour X sur la mise à jour de Paracortex Terminal et pi 1.0, avec libre choix des points à souligner.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-paracortex-terminal-update",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Paracortex-Update als Film: Prompt Claude Fable 5.5",
+          "description": "Der Prompt fordert ein lebendiges 25-Sekunden-Video für X zum Update von Paracortex Terminal und pi 1.0. Schwerpunkte und Darstellung sind frei.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-paracortex-terminal-update",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Atualização Paracortex: prompt Claude Fable 5.5",
+          "description": "O prompt pede um vídeo animado de 25 segundos para o X sobre a atualização do Paracortex Terminal e do pi 1.0, com liberdade para escolher os destaques.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-paracortex-terminal-update",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-rube-goldberg-machine",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/c3/c38369dcab30a7a3b2592a2ef826e23e5001e9d158628946bd608aecfad42942.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/07/0783b63b97921412698e73c42b2b7ab8d207eb7d0e6f88e43e440485819f2a3d.mp4",
+      "source": {
+        "url": "https://x.com/imjustnewatai/status/2105889407056109991",
+        "authorName": "imjustnewatai",
+        "authorUrl": "https://x.com/imjustnewatai"
+      },
+      "locales": {
+        "en-US": {
+          "title": "3D chain-reaction machine prompt for Claude Fable 5.5",
+          "description": "Explore a complex 3D Rube Goldberg machine focused on physics, graphics, and visual effects, followed by a request for a one-minute video.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-rube-goldberg-machine",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "用 Claude Fable 5.5 编排 3D 连锁反应装置的提示词",
+          "description": "以复杂的 3D 鲁布·戈德堡装置为主题，围绕物理连锁、图形表现与视觉特效展开。案例还包含后续制作一分钟视频的任务说明。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-rube-goldberg-machine",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "用 Claude Fable 5.5 編排 3D 連鎖反應裝置的提示詞",
+          "description": "以複雜的 3D 魯布·戈德堡裝置為主題，圍繞物理連鎖、圖像表現與視覺特效展開。案例還包含後續製作一分鐘影片的任務說明。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-rube-goldberg-machine",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "3D連鎖装置を組むClaude Fable 5.5プロンプト",
+          "description": "複雑な3Dルーブ・ゴールドバーグ装置を題材に、物理表現、グラフィックス、視覚効果を指定します。続いて1分の動画を依頼する展開も含みます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-rube-goldberg-machine",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "3D 연쇄 반응 장치를 만드는 Claude Fable 5.5 프롬프트",
+          "description": "복잡한 3D 루브 골드버그 장치에 물리 표현, 그래픽, 시각 효과를 지정합니다. 이후 1분짜리 영상을 요청하는 흐름도 담겨 있습니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-rube-goldberg-machine",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Claude Fable 5.5: prompt de reacción en cadena 3D",
+          "description": "Explora una compleja máquina de Rube Goldberg 3D con física, gráficos y efectos visuales, seguida de una petición de video de un minuto.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-rube-goldberg-machine",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Claude Fable 5.5 : prompt de réaction en chaîne 3D",
+          "description": "Explorez une machine de Rube Goldberg 3D axée sur la physique, les graphismes et les effets, puis une demande de vidéo d’une minute.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-rube-goldberg-machine",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Claude Fable 5.5: Prompt für eine 3D-Kettenreaktion",
+          "description": "Eine komplexe 3D-Rube-Goldberg-Maschine verbindet Physik, Grafik und visuelle Effekte. Danach folgt der Auftrag für ein einminütiges Video.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-rube-goldberg-machine",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Claude Fable 5.5: prompt de reação em cadeia 3D",
+          "description": "Explore uma máquina de Rube Goldberg 3D com física, gráficos e efeitos visuais, seguida de um pedido de vídeo de um minuto.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-rube-goldberg-machine",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-playable-js-animation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/65/6501f6e1264c5aeae49d81e0b9e5fcf23dc77c4a406e96da26ec19ef14ad1755.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/e5/e5ce3e1452432820b497d83664dab1edc8d6e4b5270694318a7f7280b96616ea.mp4",
+      "source": {
+        "url": "https://x.com/Scrappy__4/status/2105866966988661167",
+        "authorName": "Scrappy",
+        "authorUrl": "https://x.com/Scrappy__4"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Playable JavaScript animation: Claude Fable 5.5 prompt",
+          "description": "The prompt asks for a playable 15-second animation in pure JavaScript, combining a visual format, interaction, and a target duration.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-playable-js-animation",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "15 秒可玩 JavaScript 动画的 Claude Fable 5.5 提示词",
+          "description": "提示词要求用纯 JavaScript 制作一段 15 秒可玩动画，结合动画呈现与可操作性。短指令同时限定实现语言、目标时间和作品形式。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-playable-js-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "15 秒可玩 JavaScript 動畫的 Claude Fable 5.5 提示詞",
+          "description": "提示詞要求以純 JavaScript 製作一段 15 秒可玩動畫，結合動畫呈現與可操作性。短指令同時限定實作語言、目標時間與作品形式。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-playable-js-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "15秒の遊べるJavaScriptアニメを作るClaude Fable 5.5プロンプト",
+          "description": "プロンプトでは純粋なJavaScriptによる15秒の遊べるアニメーションを依頼しています。実装言語、目標時間、操作できる形式を短い指示にまとめています。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-playable-js-animation",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "15초 플레이 가능 JavaScript 애니메이션: Claude Fable 5.5 프롬프트",
+          "description": "프롬프트는 순수 JavaScript로 15초짜리 플레이 가능한 애니메이션을 요청합니다. 구현 언어와 목표 시간, 조작 가능한 형식을 짧은 지시에 담았습니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-playable-js-animation",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "JavaScript jugable: prompt para Claude Fable 5.5",
+          "description": "El prompt pide una animación jugable de 15 segundos con JavaScript puro. Un encargo breve combina formato animado, interacción y duración objetivo.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-playable-js-animation",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "JavaScript jouable : prompt Claude Fable 5.5",
+          "description": "Le prompt demande une animation jouable de 15 secondes en JavaScript pur. Une courte consigne associe animation, interaction et durée visée.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-playable-js-animation",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Spielbare JavaScript-Animation: Prompt Claude Fable 5.5",
+          "description": "Der Prompt fordert eine spielbare 15-Sekunden-Animation in reinem JavaScript. Die kurze Vorgabe verbindet Animation, Interaktion und Zieldauer.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-playable-js-animation",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "JavaScript jogável: prompt para Claude Fable 5.5",
+          "description": "O prompt pede uma animação jogável de 15 segundos com JavaScript puro. Um pedido breve combina formato animado, interação e duração desejada.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-playable-js-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-one-line-animation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/5c/5c7a0f0a5754d4f20cfdfbe33e01d9f40549b9a0bf01b50b09d9a206125f6c78.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/0c/0cfe4f72cd1bf7ac5ea5363a08ca62341bc447e76b6f4b7c8692e93f5275d3b4.mp4",
+      "source": {
+        "url": "https://x.com/cherry_mx_reds/status/2105816670896009224",
+        "authorName": "Tak 🦞",
+        "authorUrl": "https://x.com/cherry_mx_reds"
+      },
+      "locales": {
+        "en-US": {
+          "title": "One-line ukiyo-e animation prompt with Claude Fable 5.5",
+          "description": "Waves, Mount Fuji, and a seated figure form a ukiyo-e-style scene. Compare the animation with a one-line brief that leaves the visual style open.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-one-line-animation",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "一句话到浮世绘海浪：Claude Fable 5.5 动画提示词",
+          "description": "海浪、富士山与坐着的人物组成浮世绘风画面。对照一句简短动画指令与结果，参考开放式描述如何留下视觉风格的探索空间。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-one-line-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "一句話到浮世繪海浪：Claude Fable 5.5 動畫提示詞",
+          "description": "海浪、富士山與坐著的人物組成浮世繪風畫面。對照一句簡短動畫指令與結果，參考開放式描述如何留下視覺風格的探索空間。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-one-line-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "1行から浮世絵の波へ：Claude Fable 5.5アニメプロンプト",
+          "description": "波、富士山、椅子に座る人物で構成された浮世絵風の場面です。1行の短い依頼と映像を見比べ、絵柄を指定しない創作の広がりを確認できます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-one-line-animation",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "한 줄에서 우키요에 파도로: Claude Fable 5.5 애니메이션 프롬프트",
+          "description": "파도와 후지산, 앉아 있는 인물이 우키요에풍 장면을 이룹니다. 한 줄짜리 요청과 결과를 비교하며 시각 스타일을 열어 두는 방식을 살펴봅니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-one-line-animation",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "De una frase a ukiyo-e: prompt Claude Fable 5.5",
+          "description": "Olas, el monte Fuji y una figura sentada forman una escena ukiyo-e. Compara la animación con una petición de una línea que deja abierto el estilo.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-one-line-animation",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Une ligne vers l’ukiyo-e : prompt Claude Fable 5.5",
+          "description": "Vagues, mont Fuji et personnage assis forment une scène ukiyo-e. Comparez l’animation à une consigne d’une ligne laissant le style ouvert.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-one-line-animation",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Von einer Zeile zu Ukiyo-e: Prompt Claude Fable 5.5",
+          "description": "Wellen, der Fuji und eine sitzende Figur bilden eine Ukiyo-e-Szene. Eine einzeilige Vorgabe lässt den visuellen Stil der Animation offen.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-one-line-animation",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "De uma frase a ukiyo-e: prompt Claude Fable 5.5",
+          "description": "Ondas, o monte Fuji e uma figura sentada formam uma cena ukiyo-e. Compare a animação com um pedido de uma linha que deixa o estilo em aberto.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-one-line-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-nintendo-switch-svg-animation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/97/9764578466db19d0d20102d16a80c97fba4597655d97fe30a4397cb18d50bf2e.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/b2/b201cd6a0bef4a42cd1cb08aebd3f00a645aa26847d94a4828d22e70660d73da.mp4",
+      "source": {
+        "url": "https://x.com/ishuagra02/status/2105779174921359470",
+        "authorName": "Ishu Agrawal",
+        "authorUrl": "https://x.com/ishuagra02"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Nintendo Switch SVG startup prompt with Claude Fable 5.5",
+          "description": "Animate Nintendo Switch controllers snapping into the console, then its screen booting to a logo. The SVG links assembly and startup in one sequence.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 SVG 提示词：Switch 手柄拼接与开机",
+          "description": "Nintendo Switch 手柄卡入主机，接着屏幕启动并显示标志。以 SVG 动画连接装配与开机两个阶段，呈现清楚的产品动作顺序。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 SVG 提示詞：Switch 控制器組裝與開機",
+          "description": "Nintendo Switch 控制器卡入主機，接著螢幕啟動並顯示標誌。以 SVG 動畫連接組裝與開機兩個階段，呈現清楚的產品動作順序。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5のSVGプロンプト：Switch装着と起動",
+          "description": "Nintendo Switchのコントローラーが本体にはまり、画面が起動してロゴを表示します。SVGアニメーションで装着と起動の動作を一続きにします。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 SVG 프롬프트: Switch 결합과 부팅",
+          "description": "Nintendo Switch 컨트롤러가 본체에 결합하고 화면이 부팅되며 로고를 표시합니다. SVG 애니메이션으로 결합과 시작 동작을 한 흐름으로 연결합니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Claude Fable 5.5: prompt SVG del arranque de Switch",
+          "description": "Anima los controles de Nintendo Switch encajando en la consola y la pantalla arrancando con el logo. El SVG une montaje e inicio.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Claude Fable 5.5 : prompt SVG du démarrage Switch",
+          "description": "Animez les manettes Nintendo Switch s’enclenchant dans la console, puis l’écran démarrant avec le logo. Le SVG relie assemblage et mise en route.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Claude Fable 5.5: SVG-Prompt für Switch-Montage und Start",
+          "description": "Nintendo-Switch-Controller rasten in die Konsole ein, dann startet der Bildschirm mit dem Logo. Das SVG verbindet Montage und Einschalten.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Claude Fable 5.5: prompt SVG de encaixe e início Switch",
+          "description": "Anime os controles do Nintendo Switch se encaixando no console e a tela iniciando com o logo. O SVG une montagem e inicialização.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    }
+  ]
+}

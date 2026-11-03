@@ -33,12 +33,29 @@ Do not submit third-party material, identifiable people, brand assets, fonts, st
 
 ## Generated files
 
-The root `README.md`, `README_zh.md`, and the `prompts/*/README.md` category pages are generated from `data/use-cases.json` and the locale files in `data/locales/`. Do not edit individual prompt sections manually. Update the catalog and locale data, then run:
+The root `README.md`, `README_zh.md`, and the `prompts/*/README.md` category pages are generated from `data/use-cases.json`, the locale files in `data/locales/`, and the separate `data/model-collections.json` discovery index. Do not edit individual prompt sections manually. Update the catalog and locale data, then run:
 
 ```bash
 npm run generate
 npm run check
 ```
+
+### Refreshing the Fable discovery collection
+
+Use one reviewed public `data/cases.json` export from [awesome-fable5.5-prompts](https://github.com/pagepop/awesome-fable5.5-prompts). Sync it once, regenerate, and check the output:
+
+```bash
+npm ci
+npm run sync:models -- --fable-data ../awesome-fable5.5-prompts/data/cases.json
+npm run generate
+npm run check
+```
+
+The sync fails if the export is absent or invalid. It keeps all 14 cases' public source credits, CDN URLs and nine localized website destinations in the metadata index; only three selected covers appear in each root README. It does not add Fable prompts to the original `data/use-cases.json` or category pages. Keep the original catalog, prompt text, category paths, anchors and existing licenses intact. Community prompts and media retain their original rights; a model discovery label does not establish that a result was made in PagePop. Do not add video binaries or scheduled external writes.
+
+The original 66 catalog entries have English-only detail pages: the same slugs do not exist in the website's Chinese catalog. Their detail, creation and preview destinations intentionally retain each entry's existing English `websiteUrl`, including in the Chinese README, where the CTA explicitly says “英文” or “英文页面”. Do not manufacture Chinese detail URLs or infer mappings between locale catalogs. General gallery/category/model navigation and all 14 Fable cases use their matching website locale; this documented legacy exception does not apply to Fable.
+
+To verify that the committed index still matches that export without writing files, run `npm run sync:models -- --fable-data ../awesome-fable5.5-prompts/data/cases.json --check`. The regular check validates the committed index and detects drift in all generated README outputs without requiring a private checkout or external network access.
 
 ## Preview asset policy
 
