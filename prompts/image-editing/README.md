@@ -14,10 +14,6 @@ Every prompt below is reproduced in full. Select a preview or the complete-proce
 
 ## Beach Beauty Clean Background
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/beach-beauty-clean-background?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-beach-beauty-clean-background"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765266855278_1000_MJL5V.png" alt="Beach Beauty Clean Background — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -31,10 +27,6 @@ Eliminar a los transeúntes y escombros en el fondo, conservar solo las bellezas
 ---
 
 ## Beach Sunset Without Watermark
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/beach-sunset-without-watermark?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-beach-sunset-without-watermark"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765281257670_1000_cUEDd.png" alt="Beach Sunset Without Watermark — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -50,10 +42,6 @@ Remove watermarks from images
 
 ## Couple Bedroom Photo
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/couple-bedroom-photo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-couple-bedroom-photo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282426262_1000_hvzBu.png" alt="Couple Bedroom Photo — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -68,10 +56,6 @@ Add a tall young handsome guy with bare upper body and eight pack abs to the lef
 
 ## Edited Photo
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/edited-photo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-edited-photo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271936489_1000_yQObA.png" alt="Edited Photo — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -85,10 +69,6 @@ Remove the man on the left, don't change anything else
 ---
 
 ## Grand Finals Opening Poster
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/grand-finals-opening-poster?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-grand-finals-opening-poster"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765269358113_1000_jz2n9.png" alt="Grand Finals Opening Poster — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -106,10 +86,6 @@ Image ratio 4:5
 
 ## Hiker on Snowy Peak
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/hiker-on-snowy-peak?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-hiker-on-snowy-peak"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765268744073_1000_hH5zP.png" alt="Hiker on Snowy Peak — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -123,10 +99,6 @@ Cambia el Fondo por una montaña nevada y los personajes se paran en la cima de 
 ---
 
 ## Kitten Raising Paw
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/kitten-raising-paw?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-raising-paw"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765270361955_1000_9pYkn.png" alt="Kitten Raising Paw — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -142,10 +114,6 @@ Make the kitten sit up
 
 ## Manicura rosa con diamantes y lazos
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/manicura-rosa-con-diamantes-y-lazos?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-manicura-rosa-con-diamantes-y-lazos"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271876566_1000_v2APx.png" alt="Manicura rosa con diamantes y lazos — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -159,10 +127,6 @@ Cambie a la mujer por una exagerada manicura rosa con diamantes y lazos en la ma
 ---
 
 ## Modified Combat Photo
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/modified-combat-photo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-modified-combat-photo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765278684644_1000_Ge8Jd.png" alt="Modified Combat Photo — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -178,10 +142,6 @@ Modificar la foto, cambiar a los hombres por trajes y sombreros de combate, camb
 
 ## Modified Poster
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/modified-poster?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-modified-poster"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765284563780_1000_ryUHY.png" alt="Modified Poster — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -196,10 +156,6 @@ Change GUNS to LOVE and change the title color to white
 
 ## Niña con cabeza de conejo
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/nina-con-cabeza-de-conejo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nina-con-cabeza-de-conejo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765267567930_1000_n2LkD.png" alt="Niña con cabeza de conejo — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -213,10 +169,6 @@ Cambia la cabeza de la niña por una linda cabeza de conejo
 ---
 
 ## Soda Bottle on Beach
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/soda-bottle-on-beach?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-soda-bottle-on-beach"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282356468_1000_eI33o.png" alt="Soda Bottle on Beach — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 

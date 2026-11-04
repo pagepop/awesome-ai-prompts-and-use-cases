@@ -32,10 +32,6 @@ Create 4 E-commerces with different styles, a brighter tone, themed around Speci
 
 ## American Outdoor Camping Gear Value Sets - E-commerce Showcase
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/american-outdoor-camping-gear-value-sets-e-commerce-showcase?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-american-outdoor-camping-gear-value-sets-e-commerce-showcase"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728941190_1000_kyPuU.png" alt="American Outdoor Camping Gear Value Sets - E-commerce Showcase — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -86,10 +82,6 @@ Create 4 E-commerces with different styles, a brighter tone, themed around BLACK
 
 ## British Retro Winter Collection - E-commerce Banners
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/british-retro-winter-collection-e-commerce-banners?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-british-retro-winter-collection-e-commerce-banners"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764730036359_1000_wazoM.png" alt="British Retro Winter Collection - E-commerce Banners — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -104,10 +96,6 @@ Create 4 E-commerces with different styles, a brighter tone, themed around Launc
 
 ## Diffuseur d'Ambiance - Collection avec Textes Marketing Français
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/diffuseur-dambiance-collection-avec-textes-marketing-francais?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-diffuseur-dambiance-collection-avec-textes-marketing-francais"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764902442473_1000_H6YLD.png" alt="Diffuseur d'Ambiance - Collection avec Textes Marketing Français — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -121,10 +109,6 @@ Faire quatre images de commerce électronique de style photoréaliste, avec la s
 ---
 
 ## Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/low-sugar-dried-fruits-e-commerce-4-distinct-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-low-sugar-dried-fruits-e-commerce-4-distinct-styles"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764731517118_1000_lEL6u.jpeg" alt="Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -158,10 +142,6 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ## おでん食材家庭用セット冷凍配送 - ECバナー4スタイル
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/oden-family-set-frozen-delivery-ecommerce-banners?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-oden-family-set-frozen-delivery-ecommerce-banners"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764731159333_1000_DObsc.jpeg" alt="おでん食材家庭用セット冷凍配送 - ECバナー4スタイル — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -194,10 +174,6 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ## 天然成分フェイスクリーム - Eコマース商品画像
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/natural-ingredient-face-cream-ecommerce-product-images?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-natural-ingredient-face-cream-ecommerce-product-images"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731498008_1000_reA6F.png" alt="天然成分フェイスクリーム - Eコマース商品画像 — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -211,10 +187,6 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 ---
 
 ## 正月福袋ブラインドボックス超価格プロモーション - 4スタイル
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/new-year-lucky-bag-blind-box-promotion-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-new-year-lucky-bag-blind-box-promotion-4-styles"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764732195472_1000_kjEoq.jpeg" alt="正月福袋ブラインドボックス超価格プロモーション - 4スタイル — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 

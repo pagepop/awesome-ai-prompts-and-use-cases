@@ -15,8 +15,6 @@ Every prompt below is reproduced in full. Select a preview or the complete-proce
 ## Aroma Diffuser Promo Video
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/aroma-diffuser-promo-video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-aroma-diffuser-promo-video"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779193257970_40932350_TnEWu.jpg" alt="Aroma Diffuser Promo Video — generated Video result" width="720"></a>
-  <br>
   <strong><a href="https://www.pagepop.ai/use-cases/aroma-diffuser-promo-video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-aroma-diffuser-promo-video">Watch</a></strong>
 </p>
 
@@ -35,8 +33,6 @@ The picture is of my product - the aroma diffuser. The original details of the p
 ## Comedy Tank Standoff
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/comedy-tank-standoff?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-comedy-tank-standoff"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188153588_40932350_jAFvt.jpg" alt="Comedy Tank Standoff — generated Video result" width="720"></a>
-  <br>
   <strong><a href="https://www.pagepop.ai/use-cases/comedy-tank-standoff?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-comedy-tank-standoff">Watch</a></strong>
 </p>
 
@@ -118,8 +114,6 @@ The next morning, Kitten Sister said happily,
 ## Kitten Sister's Clean Teeth
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/kitten-sisters-clean-teeth?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-sisters-clean-teeth"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077686593_41202504_2KE8Y.jpg" alt="Kitten Sister's Clean Teeth — generated Video result" width="720"></a>
-  <br>
   <strong><a href="https://www.pagepop.ai/use-cases/kitten-sisters-clean-teeth?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-sisters-clean-teeth">Watch</a></strong>
 </p>
 

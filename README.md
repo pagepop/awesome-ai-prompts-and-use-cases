@@ -36,7 +36,7 @@ Explore AI prompts and creative examples by model, or browse by use case below.
 
 ### Claude Fable 5.5 community highlights
 
-Explore hand-drawn animation, SVG motion and video examples from community creators. Each example links to its creator and original post.
+Explore hand-drawn animation, SVG motion and video examples from community creators. Each example credits its creator and links to the original post.
 
 **[Browse all 14 examples and complete prompts](https://github.com/pagepop/awesome-fable5.5-prompts)** · **[Explore the Fable 5.5 gallery](https://www.pagepop.ai/use-cases/models/claude-fable-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-collection)**
 
@@ -48,7 +48,7 @@ Explore hand-drawn animation, SVG motion and video examples from community creat
 
 The Moss Keeper: a giant robot wakes and flies over a forest. The brief specifies hand-drawn anime visuals and a self-contained HTML file.
 
-Creator: [Chetaslua](https://x.com/chetaslua) · [Original source](https://x.com/chetaslua/status/2117169796290916732) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper)
+Creator: Chetaslua · [Original source](https://x.com/chetaslua/status/2117169796290916732) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper)
 
 #### Fox anime storyboard prompt with Claude Fable 5.5
 
@@ -58,7 +58,7 @@ Creator: [Chetaslua](https://x.com/chetaslua) · [Original source](https://x.com
 
 The Last Page: a fox wakes a library across nine anime shots. The brief calls for hand-drawn visuals, original sound, and a single HTML file.
 
-Creator: [Chetaslua](https://x.com/chetaslua) · [Original source](https://x.com/chetaslua/status/2117224839010459987) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page)
+Creator: Chetaslua · [Original source](https://x.com/chetaslua/status/2117224839010459987) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page)
 
 #### Claude Fable 5.5 SVG prompt for a cycling pelican
 
@@ -68,7 +68,7 @@ Creator: [Chetaslua](https://x.com/chetaslua) · [Original source](https://x.com
 
 Draw a pelican riding a bicycle in SVG. Compare the compact creative brief with the cycling animation and its visual detail.
 
-Creator: [can](https://x.com/marmaduke091) · [Original source](https://x.com/marmaduke091/status/2116233349391962392) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-pelican-bicycle-svg?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pelican-bicycle-svg)
+Creator: can · [Original source](https://x.com/marmaduke091/status/2116233349391962392) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-pelican-bicycle-svg?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pelican-bicycle-svg)
 
 ---
 
@@ -100,8 +100,6 @@ The prompt collections published in this repository are included below. Use the 
 ### Aroma Diffuser Promo Video
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/aroma-diffuser-promo-video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-aroma-diffuser-promo-video"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779193257970_40932350_TnEWu.jpg" alt="Aroma Diffuser Promo Video — generated Video result" width="720"></a>
-  <br>
   <strong><a href="https://www.pagepop.ai/use-cases/aroma-diffuser-promo-video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-aroma-diffuser-promo-video">Watch</a></strong>
 </p>
 
@@ -120,8 +118,6 @@ The picture is of my product - the aroma diffuser. The original details of the p
 ### Comedy Tank Standoff
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/comedy-tank-standoff?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-comedy-tank-standoff"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188153588_40932350_jAFvt.jpg" alt="Comedy Tank Standoff — generated Video result" width="720"></a>
-  <br>
   <strong><a href="https://www.pagepop.ai/use-cases/comedy-tank-standoff?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-comedy-tank-standoff">Watch</a></strong>
 </p>
 
@@ -203,8 +199,6 @@ The next morning, Kitten Sister said happily,
 ### Kitten Sister's Clean Teeth
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/kitten-sisters-clean-teeth?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-sisters-clean-teeth"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077686593_41202504_2KE8Y.jpg" alt="Kitten Sister's Clean Teeth — generated Video result" width="720"></a>
-  <br>
   <strong><a href="https://www.pagepop.ai/use-cases/kitten-sisters-clean-teeth?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-sisters-clean-teeth">Watch</a></strong>
 </p>
 
@@ -263,10 +257,6 @@ Help me create a 15-second funny video that is suitable for posting on social me
 [Browse the Poster & Flyer gallery on PagePop →](https://www.pagepop.ai/use-cases/categories/poster-and-flyer?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=category-heading-poster-and-flyer)
 
 ### Academic Conference Poster - Mangrove Rodent Eradication Technology
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/academic-conference-poster-mangrove-rodent-eradication-technology?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-academic-conference-poster-mangrove-rodent-eradication-technology"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961263136_1000_mIYia.png" alt="Academic Conference Poster - Mangrove Rodent Eradication Technology — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -336,10 +326,6 @@ Create 4 prints with different styles, a brighter tone, themed around Brooklyn B
 
 ### Country Music Legends Portrait Prints - 4 Styles
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/country-music-legends-portrait-prints-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-country-music-legends-portrait-prints-4-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054611646_1000_FC7zm.png" alt="Country Music Legends Portrait Prints - 4 Styles — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -353,10 +339,6 @@ Create 4 prints with different styles, a brighter tone, themed around  Portrait 
 ---
 
 ### Meritus Paramedical Institute Posters - Vertical Layout
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/meritus-paramedical-institute-posters-vertical-layout?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-meritus-paramedical-institute-posters-vertical-layout"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765962691698_1000_SnkXc.png" alt="Meritus Paramedical Institute Posters - Vertical Layout — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -378,10 +360,6 @@ Technician Etc. please provide colorful and 4k quality
 
 ### New Orleans Jazz Prints - 4 Artistic Styles
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/new-orleans-jazz-prints-4-artistic-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-new-orleans-jazz-prints-4-artistic-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054570598_1000_N4eJx.png" alt="New Orleans Jazz Prints - 4 Artistic Styles — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -395,10 +373,6 @@ Create 4 prints with different styles, a brighter tone, themed around New Orlean
 ---
 
 ### NYC Street Art Exhibition Prints - 4 Distinct Styles
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/nyc-street-art-exhibition-prints-4-distinct-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nyc-street-art-exhibition-prints-4-distinct-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764053915104_1000_hOTyw.png" alt="NYC Street Art Exhibition Prints - 4 Distinct Styles — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -414,10 +388,6 @@ Create 4 prints with different styles, a brighter tone, themed around New York S
 
 ### NYFW Collection Launch Posters - Updated to 2026
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/nyfw-collection-launch-posters-updated-to-2026?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nyfw-collection-launch-posters-updated-to-2026"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055589805_1000_2izlO.png" alt="NYFW Collection Launch Posters - Updated to 2026 — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -432,10 +402,6 @@ Create 4 Posters with different styles, a brighter tone, Realistic photography s
 
 ### Organic Produce Launch Prints - 4 Styles
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/organic-produce-launch-prints-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-organic-produce-launch-prints-4-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054014658_1000_TA2bD.png" alt="Organic Produce Launch Prints - 4 Styles — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -449,10 +415,6 @@ Create 4 prints with different styles, a brighter tone, themed around Grocery St
 ---
 
 ### Pop Bar Football Event Posters - Complete Campaign
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/pop-bar-football-event-posters-complete-campaign?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pop-bar-football-event-posters-complete-campaign"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764056275663_1000_u6Uot.png" alt="Pop Bar Football Event Posters - Complete Campaign — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -485,10 +447,6 @@ Create 4 Posters with different styles, a brighter tone, Realistic photography s
 ---
 
 ### Summer Sounds Fest 2027 Poster - Festival Design Collection
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/summer-sounds-fest-2027-poster-festival-design-collection?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-summer-sounds-fest-2027-poster-festival-design-collection"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961407402_1000_rPQXn.png" alt="Summer Sounds Fest 2027 Poster - Festival Design Collection — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -531,10 +489,6 @@ www.summersoundsfest.com
 
 ### Beach Beauty Clean Background
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/beach-beauty-clean-background?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-beach-beauty-clean-background"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765266855278_1000_MJL5V.png" alt="Beach Beauty Clean Background — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -548,10 +502,6 @@ Eliminar a los transeúntes y escombros en el fondo, conservar solo las bellezas
 ---
 
 ### Beach Sunset Without Watermark
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/beach-sunset-without-watermark?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-beach-sunset-without-watermark"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765281257670_1000_cUEDd.png" alt="Beach Sunset Without Watermark — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -567,10 +517,6 @@ Remove watermarks from images
 
 ### Couple Bedroom Photo
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/couple-bedroom-photo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-couple-bedroom-photo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282426262_1000_hvzBu.png" alt="Couple Bedroom Photo — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -585,10 +531,6 @@ Add a tall young handsome guy with bare upper body and eight pack abs to the lef
 
 ### Edited Photo
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/edited-photo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-edited-photo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271936489_1000_yQObA.png" alt="Edited Photo — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -602,10 +544,6 @@ Remove the man on the left, don't change anything else
 ---
 
 ### Grand Finals Opening Poster
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/grand-finals-opening-poster?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-grand-finals-opening-poster"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765269358113_1000_jz2n9.png" alt="Grand Finals Opening Poster — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -623,10 +561,6 @@ Image ratio 4:5
 
 ### Hiker on Snowy Peak
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/hiker-on-snowy-peak?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-hiker-on-snowy-peak"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765268744073_1000_hH5zP.png" alt="Hiker on Snowy Peak — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -640,10 +574,6 @@ Cambia el Fondo por una montaña nevada y los personajes se paran en la cima de 
 ---
 
 ### Kitten Raising Paw
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/kitten-raising-paw?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-raising-paw"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765270361955_1000_9pYkn.png" alt="Kitten Raising Paw — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -659,10 +589,6 @@ Make the kitten sit up
 
 ### Manicura rosa con diamantes y lazos
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/manicura-rosa-con-diamantes-y-lazos?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-manicura-rosa-con-diamantes-y-lazos"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271876566_1000_v2APx.png" alt="Manicura rosa con diamantes y lazos — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -676,10 +602,6 @@ Cambie a la mujer por una exagerada manicura rosa con diamantes y lazos en la ma
 ---
 
 ### Modified Combat Photo
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/modified-combat-photo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-modified-combat-photo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765278684644_1000_Ge8Jd.png" alt="Modified Combat Photo — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -695,10 +617,6 @@ Modificar la foto, cambiar a los hombres por trajes y sombreros de combate, camb
 
 ### Modified Poster
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/modified-poster?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-modified-poster"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765284563780_1000_ryUHY.png" alt="Modified Poster — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -713,10 +631,6 @@ Change GUNS to LOVE and change the title color to white
 
 ### Niña con cabeza de conejo
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/nina-con-cabeza-de-conejo?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nina-con-cabeza-de-conejo"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765267567930_1000_n2LkD.png" alt="Niña con cabeza de conejo — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -730,10 +644,6 @@ Cambia la cabeza de la niña por una linda cabeza de conejo
 ---
 
 ### Soda Bottle on Beach
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/soda-bottle-on-beach?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-soda-bottle-on-beach"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282356468_1000_eI33o.png" alt="Soda Bottle on Beach — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -772,10 +682,6 @@ Create 4 E-commerces with different styles, a brighter tone, themed around Speci
 ---
 
 ### American Outdoor Camping Gear Value Sets - E-commerce Showcase
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/american-outdoor-camping-gear-value-sets-e-commerce-showcase?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-american-outdoor-camping-gear-value-sets-e-commerce-showcase"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728941190_1000_kyPuU.png" alt="American Outdoor Camping Gear Value Sets - E-commerce Showcase — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -827,10 +733,6 @@ Create 4 E-commerces with different styles, a brighter tone, themed around BLACK
 
 ### British Retro Winter Collection - E-commerce Banners
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/british-retro-winter-collection-e-commerce-banners?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-british-retro-winter-collection-e-commerce-banners"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764730036359_1000_wazoM.png" alt="British Retro Winter Collection - E-commerce Banners — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -845,10 +747,6 @@ Create 4 E-commerces with different styles, a brighter tone, themed around Launc
 
 ### Diffuseur d'Ambiance - Collection avec Textes Marketing Français
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/diffuseur-dambiance-collection-avec-textes-marketing-francais?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-diffuseur-dambiance-collection-avec-textes-marketing-francais"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764902442473_1000_H6YLD.png" alt="Diffuseur d'Ambiance - Collection avec Textes Marketing Français — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -862,10 +760,6 @@ Faire quatre images de commerce électronique de style photoréaliste, avec la s
 ---
 
 ### Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/low-sugar-dried-fruits-e-commerce-4-distinct-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-low-sugar-dried-fruits-e-commerce-4-distinct-styles"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764731517118_1000_lEL6u.jpeg" alt="Low-Sugar Dried Fruits E-Commerce - 4 Distinct Styles — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -899,10 +793,6 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ### おでん食材家庭用セット冷凍配送 - ECバナー4スタイル
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/oden-family-set-frozen-delivery-ecommerce-banners?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-oden-family-set-frozen-delivery-ecommerce-banners"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764731159333_1000_DObsc.jpeg" alt="おでん食材家庭用セット冷凍配送 - ECバナー4スタイル — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -935,10 +825,6 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ### 天然成分フェイスクリーム - Eコマース商品画像
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/natural-ingredient-face-cream-ecommerce-product-images?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-natural-ingredient-face-cream-ecommerce-product-images"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731498008_1000_reA6F.png" alt="天然成分フェイスクリーム - Eコマース商品画像 — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -952,10 +838,6 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 ---
 
 ### 正月福袋ブラインドボックス超価格プロモーション - 4スタイル
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/new-year-lucky-bag-blind-box-promotion-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-new-year-lucky-bag-blind-box-promotion-4-styles"><img src="https://img-volc.jianpian.info/super/overseas/poster/1000/1764732195472_1000_kjEoq.jpeg" alt="正月福袋ブラインドボックス超価格プロモーション - 4スタイル — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -977,10 +859,6 @@ Hacer cuatro imágenes comerciales de estilo fotorrealista, con la temática cen
 
 ### AI Development Direction Plan 2026
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/ai-development-direction-plan-2026?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-ai-development-direction-plan-2026"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685016955_47834393_yj1DV.png" alt="AI Development Direction Plan 2026 — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 #### Original prompt
@@ -994,10 +872,6 @@ We are an ordinary media company. Please generate a slideshow for a feasible AI 
 ---
 
 ### Cosmic Neighborhood 101: A Journey Through Our Solar System
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/cosmic-neighborhood-101-a-journey-through-our-solar-system?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-cosmic-neighborhood-101-a-journey-through-our-solar-system"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687943110_51957609_o3v2h.png" alt="Cosmic Neighborhood 101: A Journey Through Our Solar System — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 
@@ -1014,10 +888,6 @@ Highlight key points in bold, avoid complex and obscure professional terms, and 
 
 ### Exodus: The Horizon Protocol
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/exodus-the-horizon-protocol?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-exodus-the-horizon-protocol"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770793432831_51957609_z5vlj.png" alt="Exodus: The Horizon Protocol — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 #### Original prompt
@@ -1032,10 +902,6 @@ Create a space adventure comic about humanity searching for a new livable home i
 
 ### Global Representative Wines: A Journey Through World's Premier Wine Regions
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/global-representative-wines-a-journey-through-worlds-premier-wine-regions?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-global-representative-wines-a-journey-through-worlds-premier-wine-regions"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683058274_49068998_l1KAS.png" alt="Global Representative Wines: A Journey Through World's Premier Wine Regions — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 #### Original prompt
@@ -1049,10 +915,6 @@ do me a powerpoint slides with at least 6 pages, which is about global represent
 ---
 
 ### KIKI: The Fluffy Adventurer
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/kiki-the-fluffy-adventurer?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kiki-the-fluffy-adventurer"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797976150_51957609_mIPsT.png" alt="KIKI: The Fluffy Adventurer — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 
@@ -1076,10 +938,6 @@ In her owner’s arms, KIKI thinks: What a great adventure!
 
 ### Pophie: The Era of Organic AI Companionship
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/pophie-the-era-of-organic-ai-companionship?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pophie-the-era-of-organic-ai-companionship"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685002814_47834393_laQ2m.png" alt="Pophie: The Era of Organic AI Companionship — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 #### Original prompt
@@ -1093,10 +951,6 @@ Make a product marketing slide deck from this document and website.You must use 
 ---
 
 ### The Chameleon Identity Architecture
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-chameleon-identity-architecture?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-chameleon-identity-architecture"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799950064_51957609_Za2qU.png" alt="The Chameleon Identity Architecture — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 
@@ -1118,10 +972,6 @@ Please change the clothes, background and pose of the person in the image, ensur
 
 ### The Knights and the Naughty Dragon: A Bedtime Tale
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-knights-and-the-naughty-dragon-a-bedtime-tale?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-knights-and-the-naughty-dragon-a-bedtime-tale"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807638629_51957609_p9CB0.png" alt="The Knights and the Naughty Dragon: A Bedtime Tale — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 #### Original prompt
@@ -1135,10 +985,6 @@ I want AI to help me create a bedtime story. The story is about a black dragon c
 ---
 
 ### The Little Prince: A Visual Whisper Journey
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-little-prince-a-visual-whisper-journey?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-little-prince-a-visual-whisper-journey"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798981531_51957609_1A9DP.png" alt="The Little Prince: A Visual Whisper Journey — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 
@@ -1154,10 +1000,6 @@ Create a 12-page children's picture book-style PPT for The Little Prince, design
 
 ### The Midnight Protocol: A Noir Graphic Narrative
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-midnight-protocol-a-noir-graphic-narrative?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-midnight-protocol-a-noir-graphic-narrative"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770790319501_51957609_07olZ.png" alt="The Midnight Protocol: A Noir Graphic Narrative — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 #### Original prompt
@@ -1172,10 +1014,6 @@ Generate a detective story comic set on a rainy night, retro comic style, cool d
 
 ### The Trousdale Pinnacle: A Modern Masterpiece
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-trousdale-pinnacle-a-modern-masterpiece?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-trousdale-pinnacle-a-modern-masterpiece"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769689451063_51957609_gZtrV.png" alt="The Trousdale Pinnacle: A Modern Masterpiece — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 #### Original prompt
@@ -1189,10 +1027,6 @@ I'm a real estate agent in Los Angeles and I need a 10 to 13-page ppt to introdu
 ---
 
 ### What Does a Healthy City Mean? - The Metabolic City Framework
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/what-does-a-healthy-city-mean-the-metabolic-city-framework?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-what-does-a-healthy-city-mean-the-metabolic-city-framework"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684742250_47834393_agwE2.png" alt="What Does a Healthy City Mean? - The Metabolic City Framework — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 
@@ -1214,10 +1048,6 @@ Make a product marketing slide deck from this pdf。
 
 ### Christmas Carnival Instagram Posts - Festive Activities
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/christmas-carnival-instagram-posts-festive-activities?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-christmas-carnival-instagram-posts-festive-activities"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915142729_1000_0eH0o.png" alt="Christmas Carnival Instagram Posts - Festive Activities — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -1231,10 +1061,6 @@ I need to create four social media operation images with a 1:1 aspect ratio, int
 ---
 
 ### Cinque Terre Village Travel Guide
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/cinque-terre-village-travel-guide?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-cinque-terre-village-travel-guide"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389011879_1000_kdm2c.png" alt="Cinque Terre Village Travel Guide — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -1250,10 +1076,6 @@ I need 4 different social media images with the theme of "Global Niche Travel Gu
 
 ### Energy Boost Station 2
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/energy-boost-station-2?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-energy-boost-station-2"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387156008_1000_l1x0t.png" alt="Energy Boost Station 2 — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -1267,10 +1089,6 @@ I need 4 different social media images with the theme of "Worker's Energy Boost 
 ---
 
 ### Foundation Texture Close-up
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/foundation-texture-close-up?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-foundation-texture-close-up"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766392467916_1000_1f8BZ.png" alt="Foundation Texture Close-up — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -1286,10 +1104,6 @@ I need 4 social media pictures with different contents, the theme of which is "B
 
 ### Healing Social Media - Morning Tea
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/healing-social-media-morning-tea?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-healing-social-media-morning-tea"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389511773_1000_pgOoY.png" alt="Healing Social Media - Morning Tea — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -1303,10 +1117,6 @@ I need 4 different social media images with the theme of 'Emotional Healing Litt
 ---
 
 ### Healthy Meal Image 4
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/healthy-meal-image-4?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-healthy-meal-image-4"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766386446772_1000_GprfP.png" alt="Healthy Meal Image 4 — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -1322,10 +1132,6 @@ I need 4 social media images with different content: focusing on healthy food, s
 
 ### Hidden Cafe Image 2
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/hidden-cafe-image-2?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-hidden-cafe-image-2"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766385281530_1000_vYuBs.png" alt="Hidden Cafe Image 2 — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -1339,10 +1145,6 @@ I need 4 social media images: Cozy hidden caf é in a quiet urban alley, warm fa
 ---
 
 ### Minimalist Life - Stones
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/minimalist-life-stones?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-minimalist-life-stones"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766388395354_1000_bUOJL.png" alt="Minimalist Life - Stones — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -1358,10 +1160,6 @@ I need 4 social media images with different content, with the theme of "Minimali
 
 ### Nature Healing 1 - Misty Forest
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/nature-healing-1-misty-forest?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nature-healing-1-misty-forest"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387322246_1000_CbzwD.png" alt="Nature Healing 1 - Misty Forest — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -1375,10 +1173,6 @@ I need 4 different social media images with the theme of "Nature Healing Everyda
 ---
 
 ### Pet Therapy - Golden Retriever
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/pet-therapy-golden-retriever?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pet-therapy-golden-retriever"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389022186_1000_j3zBf.png" alt="Pet Therapy - Golden Retriever — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -1394,10 +1188,6 @@ I need 4 different social media images with the theme of "Pet Healing Everyday",
 
 ### Valentine's Day Date Guide - Romantic TikTok Series
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/valentines-day-date-guide-romantic-tiktok-series?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-valentines-day-date-guide-romantic-tiktok-series"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915547237_1000_lgaU4.png" alt="Valentine's Day Date Guide - Romantic TikTok Series — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 #### Original prompt
@@ -1411,10 +1201,6 @@ I need to create four social media operation images with a 1:1 aspect ratio, int
 ---
 
 ### Watercolor Set Social Media Image
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/watercolor-set-social-media-image?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-watercolor-set-social-media-image"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389200204_1000_WOKJ8.png" alt="Watercolor Set Social Media Image — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 

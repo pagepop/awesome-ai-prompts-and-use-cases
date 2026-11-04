@@ -3,9 +3,52 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 import type { Catalog, CatalogCategory, UseCase } from './types.ts'
-import { readJsonFile } from './types.ts'
+import { hasText, isRecord, readJsonFile } from './types.ts'
 
 const catalogPath = path.resolve('data/use-cases.json')
+const previewVisibilityPath = path.resolve('data/preview-visibility.json')
+
+interface PreviewVisibility {
+  previewUrl: string
+  visible: boolean
+}
+
+function readPreviewVisibility(): Map<string, PreviewVisibility> {
+  const policy = readJsonFile<unknown>(previewVisibilityPath)
+  if (!isRecord(policy) || policy.schemaVersion !== 1 || !hasText(policy.checkedAt) ||
+      !Number.isFinite(Date.parse(policy.checkedAt)) || !hasText(policy.reason) || !Array.isArray(policy.previews) ||
+      Object.keys(policy).some((key) => !['schemaVersion', 'checkedAt', 'reason', 'previews'].includes(key))) {
+    throw new Error('Invalid required preview visibility policy: expected schemaVersion 1, checkedAt, reason and previews.')
+  }
+  const catalog = readJsonFile<Catalog>(catalogPath)
+  if (policy.previews.length !== catalog.cases.length) {
+    throw new Error('Preview visibility policy must explicitly cover every catalog case.')
+  }
+  const bySlug = new Map(catalog.cases.map((item) => [item.slug, item]))
+  const visibility = new Map<string, PreviewVisibility>()
+  for (const entry of policy.previews) {
+    if (!isRecord(entry) || !hasText(entry.slug) || !hasText(entry.previewUrl) || typeof entry.visible !== 'boolean' ||
+        Object.keys(entry).some((key) => !['slug', 'previewUrl', 'visible'].includes(key))) {
+      throw new Error('Each preview visibility entry requires exactly slug, previewUrl and visible.')
+    }
+    const item = bySlug.get(entry.slug)
+    if (!item || visibility.has(entry.slug) || previewUrl(item) !== entry.previewUrl) {
+      throw new Error(`Unknown, duplicate or mismatched preview visibility entry: ${entry.slug}`)
+    }
+    visibility.set(entry.slug, { previewUrl: entry.previewUrl, visible: entry.visible })
+  }
+  return visibility
+}
+
+const previewVisibility = readPreviewVisibility()
+
+export function isPreviewVisible(item: UseCase): boolean {
+  const entry = previewVisibility.get(item.slug)
+  if (!entry || entry.previewUrl !== previewUrl(item)) {
+    throw new Error(`Missing or mismatched required preview visibility for ${item.slug}.`)
+  }
+  return entry.visible
+}
 
 export const categoryDirectoryBySlug: Readonly<Record<string, string>> = {
   video: 'video',
@@ -91,16 +134,18 @@ export function renderResultPreview(
   options: ResultPreviewOptions = {},
 ): string {
   const preview = previewUrl(item)
-  if (!preview) return ''
+  if (!preview) throw new Error(`Missing required public preview URL for ${item.slug}.`)
 
   const resultKindLabel = outputLabels[item.result.kind] || item.result.kind
   const alt = escapeAlt(options.altText || `${item.title} — generated ${resultKindLabel} result`)
   const playVideoLabel = options.playVideoLabel || 'Watch'
+  const visible = isPreviewVisible(item)
+  const image = visible ? `<a href="${detailUrl}"><img src="${preview}" alt="${alt}" width="720"></a>` : ''
   const playLink = item.result.kind === 'video'
-    ? `\n  <br>\n  <strong><a href="${detailUrl}">${playVideoLabel}</a></strong>`
+    ? `${visible ? '\n  <br>\n  ' : ''}<strong><a href="${detailUrl}">${playVideoLabel}</a></strong>`
     : ''
 
-  return `<p align="center">\n  <a href="${detailUrl}"><img src="${preview}" alt="${alt}" width="720"></a>${playLink}\n</p>\n\n`
+  return image || playLink ? `<p align="center">\n  ${image}${playLink}\n</p>\n\n` : ''
 }
 
 export function categoryReadmePath(categorySlug: string): string {
