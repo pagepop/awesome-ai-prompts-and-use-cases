@@ -8,7 +8,10 @@
   "featuredSlugs": [
     "fable55-the-moss-keeper",
     "fable55-the-last-page",
-    "fable55-pelican-bicycle-svg"
+    "fable55-threejs-sports-car",
+    "fable55-threejs-pelican",
+    "fable55-chris-cinematic-animation",
+    "fable55-pixel-art-animation"
   ],
   "cases": [
     {
@@ -931,6 +934,676 @@
           "title": "Claude Fable 5.5: prompt SVG de encaixe e início Switch",
           "description": "Anime os controles do Nintendo Switch se encaixando no console e a tela iniciando com o logo. O SVG une montagem e inicialização.",
           "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-nintendo-switch-svg-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-chris-cinematic-animation",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/8a/8a527c7df9e342e46879aba7aa88356942ff799642523ffe0461051d27dc8d55.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/6d/6dd10a8313e856344827cce80d3d0b3584a0702fdd120c47727a27bd932e7c36.mp4",
+      "source": {
+        "url": "https://x.com/ChrisGPT/status/2117381015069212910",
+        "authorName": "Chris",
+        "authorUrl": "https://x.com/ChrisGPT"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Clockwork frog animation: Claude Fable 5.5 example",
+          "description": "A brass mechanical frog wakes in a dim clockwork workshop before a hammer brings a comic ending. Explore this Claude Fable 5.5 animation example.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-chris-cinematic-animation",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 动画案例：钟表工坊里的机械青蛙",
+          "description": "黄铜机械青蛙在昏暗钟表工坊中苏醒，蓝色核心亮起，最后以铁锤落下的反转收尾。参考这个 Claude Fable 5.5 动画案例的角色设计、镜头与机械音效。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-chris-cinematic-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 動畫案例：鐘錶工坊裡的機械青蛙",
+          "description": "黃銅機械青蛙在昏暗的鐘錶工坊中甦醒，藍色核心亮起，最後以鐵鎚落下的意外反轉收尾。參考這個 Claude Fable 5.5 動畫案例的角色造型、鏡頭安排、光影層次與機械音效。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-chris-cinematic-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5の動画事例：時計工房の機械カエル",
+          "description": "薄暗い時計工房で真鍮の機械カエルが目覚め、ハンマーが意外な笑いを生む短編です。Claude Fable 5.5の動画事例から、キャラクター造形、光の演出、機械音と動きの合わせ方を探れます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-chris-cinematic-animation",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 애니메이션 사례: 시계 공방의 개구리",
+          "description": "어두운 시계 공방에서 황동 기계 개구리가 깨어나고, 망치가 코믹한 결말을 만듭니다. 이 Claude Fable 5.5 영상 사례에서 캐릭터 디자인, 조명, 장면 전환과 기계음의 조합을 살펴보세요.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-chris-cinematic-animation",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Rana mecánica: ejemplo de Claude Fable 5.5",
+          "description": "Una rana mecánica de latón despierta en un taller oscuro y un martillo da el giro cómico. Explora este ejemplo animado de Claude Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-chris-cinematic-animation",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Grenouille mécanique : exemple Claude Fable 5.5",
+          "description": "Une grenouille mécanique en laiton s’éveille dans un atelier sombre, puis un marteau crée la chute comique. Explorez cet exemple Claude Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-chris-cinematic-animation",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Uhrwerkfrosch: Beispiel mit Claude Fable 5.5",
+          "description": "Ein Messingfrosch erwacht in einer dunklen Uhrwerkstatt, bevor ein Hammer die komische Pointe setzt. Entdecke dieses Beispiel mit Claude Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-chris-cinematic-animation",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Sapo mecânico: exemplo de Claude Fable 5.5",
+          "description": "Um sapo mecânico de latão desperta numa oficina escura e um martelo traz o desfecho cômico. Explore este exemplo de animação com Claude Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-chris-cinematic-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-combat-animation",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/d3/d3ae11fbf27adbec6cbadf41a693d98d338ccf796439e6ecc3ef6ec811da028d.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/94/94cc80de1fd496fcc2e23a72049087b80dc751d0874ab5fa31bddaf82d765d83.mp4",
+      "source": {
+        "url": "https://x.com/notjazii/status/2117261864904351848",
+        "authorName": "J A Z I I",
+        "authorUrl": "https://x.com/notjazii"
+      },
+      "locales": {
+        "en-US": {
+          "title": "2D combat animation: Claude Fable 5.5 example",
+          "description": "A red-visored fighter crosses an industrial setting in a fast 2D action sequence. Study staging, silhouettes and impact timing in this Fable 5.5 example.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-combat-animation",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 战斗动画案例：2D 横版动作编排",
+          "description": "红色目镜主角穿过工业设施，2D 横版镜头串联移动、闪避与战斗动作。参考 Claude Fable 5.5 战斗动画案例中的角色剪影、动作衔接和打击节奏。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-combat-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 戰鬥動畫案例：2D 橫向動作編排",
+          "description": "戴著紅色目鏡的主角穿越工業設施，橫向鏡頭串連快速移動、閃避與近身戰鬥。參考這個 Claude Fable 5.5 2D 動畫案例中的角色剪影、動作銜接、場面調度與打擊節奏。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-combat-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5の2D戦闘アニメーション事例",
+          "description": "赤いバイザーの戦士が工業施設を進む、テンポの速い2Dアクションです。Claude Fable 5.5の動画事例から、見分けやすいシルエット、動作のつなぎ方、打撃のタイミングを参考にできます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-combat-animation",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 2D 전투 애니메이션 사례",
+          "description": "붉은 바이저를 쓴 전사가 산업 시설을 가로지르는 빠른 2D 액션입니다. 이 Claude Fable 5.5 영상 사례에서 장면 구성, 구별하기 쉬운 실루엣과 타격 순간의 리듬을 살펴보세요.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-combat-animation",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Combate 2D: ejemplo de Claude Fable 5.5",
+          "description": "Un luchador con visor rojo recorre un entorno industrial en una rápida secuencia 2D. Explora siluetas y ritmo de impacto en este ejemplo Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-combat-animation",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Combat 2D : exemple Claude Fable 5.5",
+          "description": "Un combattant à visière rouge traverse un site industriel dans une action 2D rapide. Étudiez silhouettes et rythme des impacts dans cet exemple Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-combat-animation",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "2D-Kampfanimation: Beispiel mit Claude Fable 5.5",
+          "description": "Ein Kämpfer mit rotem Visier durchquert eine Industrieanlage in einer schnellen 2D-Sequenz. Entdecke Silhouetten und Treffer-Timing bei Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-combat-animation",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Combate 2D: exemplo de Claude Fable 5.5",
+          "description": "Um lutador de visor vermelho atravessa uma instalação industrial numa ação 2D rápida. Observe silhuetas e ritmo dos impactos neste exemplo Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-combat-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-threejs-sports-car",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/8a/8aa5ae16087b86aa3939c795a1a909500295c248554fe046801df7e9cbca097a.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/7b/7bea9fe6ff02b11c9250241c80cbff0af98cf7d1c1b3feb409fff4074eaf4f26.mp4",
+      "source": {
+        "url": "https://x.com/chetaslua/status/2116975056014430419",
+        "authorName": "Chetaslua",
+        "authorUrl": "https://x.com/chetaslua"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Three.js sports car: Claude Fable 5.5 3D example",
+          "description": "Explore a sports-car scene shared as a Claude Fable 5.5 Three.js example, with attention to bodywork, materials, lighting and camera movement.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-threejs-sports-car",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 3D 案例：Three.js 跑车展示",
+          "description": "查看作者标注为 Claude Fable 5.5 的 Three.js 跑车场景，参考车身造型、材质、灯光与镜头运动，探索可交互产品展示的创作方式。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-threejs-sports-car",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 3D 案例：Three.js 跑車展示",
+          "description": "查看作者標註為 Claude Fable 5.5 的 Three.js 跑車場景，觀察車身線條、材質、燈光與鏡頭運動。從作品細節尋找可互動產品展示的場景安排與創作靈感。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-threejs-sports-car",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5の3D事例：Three.jsスポーツカー",
+          "description": "Claude Fable 5.5のThree.js事例として共有されたスポーツカーのシーンです。車体の造形、塗装やガラスなどの質感、照明とカメラワークを観察し、製品展示のアイデアを探せます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-threejs-sports-car",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 3D 사례: Three.js 스포츠카",
+          "description": "Claude Fable 5.5의 Three.js 사례로 공유된 스포츠카 장면을 살펴보세요. 차체의 형태, 도장과 유리의 질감, 조명과 카메라 움직임을 관찰하며 인터랙티브 제품 전시 아이디어를 얻을 수 있습니다.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-threejs-sports-car",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Coche 3D en Three.js: ejemplo de Claude Fable 5.5",
+          "description": "Explora un deportivo compartido como ejemplo Three.js de Claude Fable 5.5. Observa la carrocería, los materiales, la luz y el movimiento de cámara.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-threejs-sports-car",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Voiture 3D en Three.js : exemple Claude Fable 5.5",
+          "description": "Explorez une voiture de sport partagée comme exemple Three.js de Claude Fable 5.5. Observez carrosserie, matériaux, éclairage et mouvements de caméra.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-threejs-sports-car",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "3D-Sportwagen in Three.js: Beispiel mit Claude Fable 5.5",
+          "description": "Entdecke einen Sportwagen, geteilt als Three.js-Beispiel mit Claude Fable 5.5. Betrachte Karosserie, Materialien, Licht und die Kamerabewegung.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-threejs-sports-car",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Esportivo 3D em Three.js: exemplo de Claude Fable 5.5",
+          "description": "Explore um carro esportivo compartilhado como exemplo Three.js de Claude Fable 5.5. Observe carroceria, materiais, iluminação e movimento de câmera.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-threejs-sports-car",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-threejs-pelican",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/ce/ce7db36ffd9a941e07fbd64cbe1e7244c94565e58510280b370029e3bdef9af8.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/73/7367684ad7948ef43fb0cbacf2e356035612f5470b5ec5f2e4ee8c690a4a750b.mp4",
+      "source": {
+        "url": "https://x.com/chetaslua/status/2116882694026269148",
+        "authorName": "Chetaslua",
+        "authorUrl": "https://x.com/chetaslua"
+      },
+      "locales": {
+        "en-US": {
+          "title": "3D cycling pelican: Claude Fable 5.5 Three.js example",
+          "description": "A pelican rides a bicycle in a 3D scene. Explore this Claude Fable 5.5 Three.js example for character modelling, pedalling and coordinated wheel movement.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-threejs-pelican",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 Three.js 案例：3D 鹈鹕骑自行车",
+          "description": "鹈鹕在 3D 场景中骑行，角色造型与自行车运动相互配合。参考这个 Claude Fable 5.5 Three.js 案例的鸟类建模、踩踏动作和车轮联动。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-threejs-pelican",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 Three.js 案例：3D 鵜鶘騎車",
+          "description": "鵜鶘在 3D 場景中騎著自行車，鳥類造型與踩踏、車輪運動彼此配合。參考這個 Claude Fable 5.5 Three.js 案例的角色建模、騎乘姿態、動作銜接與機械部件連動。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-threejs-pelican",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5のThree.js事例：3Dペリカン",
+          "description": "ペリカンが自転車をこぐ3Dシーンです。Claude Fable 5.5のThree.js事例として、鳥の特徴を捉えた造形、乗車姿勢、ペダルと車輪の連動、体のさりげない動きを参考にできます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-threejs-pelican",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 Three.js 사례: 3D 펠리컨",
+          "description": "펠리컨이 3D 장면에서 자전거를 탑니다. 이 Claude Fable 5.5 Three.js 사례를 통해 새의 특징을 살린 모델링, 주행 자세, 페달과 바퀴의 연동, 몸의 작은 움직임을 살펴보세요.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-threejs-pelican",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Pelícano ciclista 3D: ejemplo de Claude Fable 5.5",
+          "description": "Un pelícano monta en bicicleta en 3D. Explora este ejemplo Three.js de Claude Fable 5.5 y la coordinación del personaje, los pedales y las ruedas.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-threejs-pelican",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Pélican cycliste 3D : exemple Claude Fable 5.5",
+          "description": "Un pélican roule à vélo dans une scène 3D. Explorez cet exemple Three.js de Claude Fable 5.5 pour le personnage, le pédalage et la rotation des roues.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-threejs-pelican",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Radfahrender 3D-Pelikan: Beispiel mit Claude Fable 5.5",
+          "description": "Ein Pelikan fährt in einer 3D-Szene Fahrrad. Dieses Three.js-Beispiel mit Claude Fable 5.5 zeigt die Figur und das Zusammenspiel von Pedalen und Rädern.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-threejs-pelican",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Pelicano ciclista 3D: exemplo de Claude Fable 5.5",
+          "description": "Um pelicano anda de bicicleta em uma cena 3D. Explore este exemplo Three.js de Claude Fable 5.5, com foco no personagem, nos pedais e nas rodas.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-threejs-pelican",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-historical-sailing-ship",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/7c/7ca710fe713f468bc604fde089e77c1c7dc145a6e3fb0dfdd4fa8c65a10206dc.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/34/340028847ac2b0aec856208ecbfd29a72f3bcbebcfee788ce629b0ac56324fa7.mp4",
+      "source": {
+        "url": "https://x.com/abhinavflac/status/2116945827738665060",
+        "authorName": "Synopsis",
+        "authorUrl": "https://x.com/abhinavflac"
+      },
+      "locales": {
+        "en-US": {
+          "title": "3D sailing ship: Claude Fable 5.5 interactive example",
+          "description": "Explore an interactive historical sailing ship attributed to Claude Fable 5.5. Inspect the sails, rigging, hull and atmosphere of the 3D scene.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-historical-sailing-ship",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 交互案例：3D 历史帆船场景",
+          "description": "可环绕观察的历史帆船场景，包含船帆、索具、船体与环境氛围。通过这个 Claude Fable 5.5 3D 案例，参考复杂物体的细节组织和交互展示。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-historical-sailing-ship",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 互動案例：3D 歷史帆船場景",
+          "description": "這個標註為 Claude Fable 5.5 的歷史帆船場景可環繞觀察，呈現船帆、索具、船體與環境氛圍。從 3D 作品參考複雜物件的細節安排、材質層次與互動展示方式。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-historical-sailing-ship",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5のインタラクティブ3D事例：帆船",
+          "description": "Claude Fable 5.5による事例とされる歴史的帆船の3Dシーンです。周回しながら帆、索具、木造の船体や周囲の雰囲気を観察し、複雑な物体の細部を見せる方法を探れます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-historical-sailing-ship",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 인터랙티브 3D 사례: 범선",
+          "description": "Claude Fable 5.5 사례로 소개된 역사적 범선의 3D 장면입니다. 주변을 돌며 돛, 밧줄과 선체를 관찰하고, 복잡한 구조의 세부 묘사와 분위기를 보여 주는 인터랙티브 전시 방식을 살펴보세요.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-historical-sailing-ship",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Velero 3D interactivo: ejemplo de Claude Fable 5.5",
+          "description": "Explora un velero histórico interactivo atribuido a Claude Fable 5.5. Observa las velas, la jarcia, el casco y la atmósfera de la escena 3D.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-historical-sailing-ship",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Voilier 3D interactif : exemple Claude Fable 5.5",
+          "description": "Explorez un voilier historique interactif attribué à Claude Fable 5.5. Examinez les voiles, le gréement, la coque et l’atmosphère de cette scène 3D.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-historical-sailing-ship",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Interaktives 3D-Segelschiff: Beispiel mit Claude Fable 5.5",
+          "description": "Entdecke ein interaktives historisches Segelschiff, das Claude Fable 5.5 zugeschrieben wird. Betrachte Segel, Takelage, Rumpf und die 3D-Atmosphäre.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-historical-sailing-ship",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Veleiro 3D interativo: exemplo de Claude Fable 5.5",
+          "description": "Explore um veleiro histórico interativo atribuído a Claude Fable 5.5. Observe as velas, o cordame, o casco e a atmosfera desta cena em 3D.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-historical-sailing-ship",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-post-human-short",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/6f/6f4e3e9e0a5f775cd5af4f6cab528936f84996170a9ec7e6f8c3301925174bfb.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/7b/7b678b5ece22c646258a62958953d6c370e27ef745b44f20936f13edbe1a5855.mp4",
+      "source": {
+        "url": "https://x.com/chetaslua/status/2116878661035106515",
+        "authorName": "Chetaslua",
+        "authorUrl": "https://x.com/chetaslua"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Isometric pixel worlds: Claude Fable 5.5 animation example",
+          "description": "Five miniature pixel worlds move through farm seasons, a growing town, a night harbour, a volcano and a rocket launch in this Claude Fable 5.5 example.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-post-human-short",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 像素动画案例：五幕等轴测微缩世界",
+          "description": "农场四季、城镇生长、海港昼夜、火山喷发与火箭发射组成五幕微缩景观。参考这个 Claude Fable 5.5 案例的等轴测像素画风、章节组织和环境动画。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-post-human-short",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 像素動畫案例：五幕等軸測世界",
+          "description": "農場四季、城鎮成長、海港晝夜、火山噴發與火箭發射構成五幕微縮景觀。參考這個 Claude Fable 5.5 動畫案例的等軸測像素畫風、方形地台、章節安排與環境動態。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-post-human-short",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5のピクセル動画事例：五つの箱庭世界",
+          "description": "農場の四季、成長する町、昼から夜へ移る港、火山、ロケット発射が五つの小さな世界を作ります。Claude Fable 5.5の事例から、等角投影のピクセル表現と章立てを参考にできます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-post-human-short",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 픽셀 애니메이션 사례: 다섯 미니어처 세계",
+          "description": "농장의 사계절, 자라는 마을, 항구의 낮과 밤, 화산과 로켓 발사가 다섯 개의 작은 세계를 만듭니다. 이 Claude Fable 5.5 사례에서 등각 투영 픽셀 표현과 장면별 구성을 살펴보세요.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-post-human-short",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Cinco mundos de píxeles: ejemplo de Claude Fable 5.5",
+          "description": "Cinco mundos de píxeles muestran una granja estacional, un pueblo, un puerto, un volcán y un cohete. Explora esta animación de Claude Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-post-human-short",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Cinq mondes en pixels : exemple Claude Fable 5.5",
+          "description": "Cinq mondes miniatures montrent une ferme au fil des saisons, un village, un port, un volcan et une fusée dans cet exemple animé Claude Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-post-human-short",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Fünf Pixelwelten: Beispiel mit Claude Fable 5.5",
+          "description": "Fünf Pixelwelten zeigen Hof und Jahreszeiten, eine wachsende Stadt, Hafen, Vulkan und Raketenstart in diesem Animationsbeispiel mit Claude Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-post-human-short",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Cinco mundos em pixels: exemplo de Claude Fable 5.5",
+          "description": "Cinco mundos em pixels mostram uma fazenda nas estações, uma cidade, um porto, um vulcão e um foguete neste exemplo animado de Claude Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-post-human-short",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-motion-launch-video",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/95/95325ff6018e9b98f250e5d63ab5ae622b6d7d095dda008944a2260cca442c4c.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/31/3164df30d5dbc51873798569da8a1c3a269efc876831c0d60e818b908896d4d5.mp4",
+      "source": {
+        "url": "https://x.com/motion_so/status/2117287037170778544",
+        "authorName": "Motion",
+        "authorUrl": "https://x.com/motion_so"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Product launch motion: Claude Fable 5.5 video example",
+          "description": "Motion shares a Fable 5.5 launch-video workflow using its harness. Explore product storytelling through typography, UI transitions and editable animation.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-motion-launch-video",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 动效案例：产品发布宣传视频",
+          "description": "Motion 展示了配合其 harness 制作的 Fable 5.5 产品发布视频。参考动态文字、界面转场、音乐节奏与可编辑动画的产品叙事方式。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-motion-launch-video",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 動態設計案例：產品發表影片",
+          "description": "Motion 展示了搭配其 harness 製作的 Fable 5.5 產品發表影片流程。從作品參考動態文字、介面轉場、音樂節奏與可編輯動畫，思考如何安排產品故事與視覺重點。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-motion-launch-video",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5の動画事例：製品発表のモーション",
+          "description": "Motionが自社のharnessを使ったFable 5.5の製品発表動画制作フローを紹介しています。動く文字、UIの切り替え、音楽に合わせた動き、編集可能なアニメーションで製品を伝える方法を探れます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-motion-launch-video",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 영상 사례: 제품 출시 모션",
+          "description": "Motion이 자체 harness를 활용한 Fable 5.5 제품 출시 영상 제작 흐름을 공유합니다. 움직이는 글자, UI 전환, 음악에 맞춘 동작과 편집 가능한 애니메이션으로 제품을 소개하는 방식을 살펴보세요.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-motion-launch-video",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Lanzamiento de producto: ejemplo de Claude Fable 5.5",
+          "description": "Motion comparte su flujo con Fable 5.5 y su harness para un vídeo de lanzamiento. Explora tipografía, transiciones de UI y animación editable.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-motion-launch-video",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Lancement de produit : exemple Claude Fable 5.5",
+          "description": "Motion présente son flux Fable 5.5 avec son harness pour une vidéo de lancement. Explorez typographie, transitions d’interface et animation éditable.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-motion-launch-video",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Produktstart mit Motion: Beispiel mit Claude Fable 5.5",
+          "description": "Motion zeigt seinen Ablauf mit Fable 5.5 und eigenem Harness für ein Launchvideo. Entdecke Typografie, UI-Übergänge und bearbeitbare Animationen.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-motion-launch-video",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Lançamento de produto: exemplo de Claude Fable 5.5",
+          "description": "A Motion compartilha seu fluxo com Fable 5.5 e seu harness para um vídeo de lançamento. Explore tipografia, transições de UI e animação editável.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-motion-launch-video",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-moon-pelican-svg",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/e3/e3a727ef9542119e34b72c34e40322a8fc845332e2ddb3ecf7edbae5c8436a4e.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/ad/ad25cdc59ff0c79aa8546e6fa7a0a65003e104c4359b7e56605b244a8769f868.mp4",
+      "source": {
+        "url": "https://x.com/ChrisGPT/status/2117495471346176156",
+        "authorName": "Chris",
+        "authorUrl": "https://x.com/ChrisGPT"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Moon cycling SVG: Claude Fable 5.5 animation example",
+          "description": "An astronaut sits on a pelican riding a road bike on the Moon. This Fable 5.5-labelled SVG example combines wheel spokes, pedalling and a blinking bird.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-moon-pelican-svg",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 SVG 案例：月球上的宇航员与骑行鹈鹕",
+          "description": "宇航员坐在鹈鹕背上，鹈鹕骑着公路自行车行进于月球。这个 Fable 5.5 SVG 动画案例结合交叉轮辐、踩踏联动与鸟类眨眼等细节，展示趣味角色组合与机械动作。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-moon-pelican-svg",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 SVG 案例：月球騎行的鵜鶘與太空人",
+          "description": "太空人坐在鵜鶘背上，鵜鶘騎著公路自行車行進於月球。這個標註為 Fable 5.5 的 SVG 動畫案例，結合交叉輪輻、踩踏連動與鳥類眨眼等細節，呈現不同部件的協調運動。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-moon-pelican-svg",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5のSVG事例：月を走るペリカン",
+          "description": "月でロードバイクに乗るペリカンの背に、宇宙飛行士が座っています。Fable 5.5と表示されたSVGの事例から、交差するスポーク、ペダルの連動、鳥のまばたきなどの動きを観察できます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-moon-pelican-svg",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 SVG 사례: 달에서 자전거 타는 펠리컨",
+          "description": "우주 비행사가 펠리컨 등에 앉고, 펠리컨은 달에서 로드 자전거를 탑니다. Fable 5.5로 표시된 이 SVG 사례에서 교차 스포크, 페달의 연동과 새의 눈 깜박임 같은 움직임을 살펴보세요.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-moon-pelican-svg",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Pelícano lunar en SVG: ejemplo de Claude Fable 5.5",
+          "description": "Un astronauta va sobre un pelícano ciclista en la Luna. Este SVG etiquetado Fable 5.5 coordina radios cruzados, pedaleo y parpadeos del ave.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-moon-pelican-svg",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Pélican lunaire en SVG : exemple Claude Fable 5.5",
+          "description": "Un astronaute monte sur un pélican à vélo sur la Lune. Cet exemple SVG étiqueté Fable 5.5 associe rayons croisés, pédalage et clignements de l’oiseau.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-moon-pelican-svg",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Mond-Pelikan als SVG: Beispiel mit Claude Fable 5.5",
+          "description": "Ein Astronaut sitzt auf einem radfahrenden Pelikan auf dem Mond. Das als Fable 5.5 markierte SVG verbindet Speichen, Pedalbewegung und Blinzeln.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-moon-pelican-svg",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Pelicano lunar em SVG: exemplo de Claude Fable 5.5",
+          "description": "Um astronauta vai sobre um pelicano ciclista na Lua. Este exemplo SVG identificado como Fable 5.5 combina raios cruzados, pedaladas e piscadas da ave.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-moon-pelican-svg",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-pixel-art-animation",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/45/454ecf9c87818975867584c669b18f9714e5e1f312321e0fcd22fedd9654de98.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/32/327d283233392d0df5ef125ff5cd0df74183c02b3f5dcd32244c14e55c3c4795.mp4",
+      "source": {
+        "url": "https://x.com/abhinavflac/status/2117582497743786159",
+        "authorName": "Synopsis",
+        "authorUrl": "https://x.com/abhinavflac"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Pixel diorama animation: Claude Fable 5.5 video example",
+          "description": "A wooden deck, an aquarium, a waterside game night and a furnished living room take shape in four isometric pixel-art scenes attributed to Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-pixel-art-animation",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 像素动画案例：四幕生活微缩景观",
+          "description": "木质露台、水族箱、水边游戏之夜和客厅布置在白底等轴测像素场景中逐步成形。参考这个 Claude Fable 5.5 案例的搭建顺序、场景细节与环境动画。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-pixel-art-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 像素動畫案例：四幕生活微縮景觀",
+          "description": "木質露台、水族箱、水邊遊戲之夜與客廳布置，在白底等軸測像素場景中逐步成形。參考這個標註為 Fable 5.5 的動畫作品，觀察搭建順序、居家細節、章節安排與環境動態。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-pixel-art-animation",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5のピクセル動画事例：四つの暮らし",
+          "description": "木のデッキ、水槽、水辺でのゲームの夜、家具のある居間が四つの等角投影ピクセルシーンで形になります。Fable 5.5の事例とされる作品から、組み立てる順序や暮らしの細部を参考にできます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-pixel-art-animation",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 픽셀 영상 사례: 네 가지 생활 디오라마",
+          "description": "나무 데크, 수족관, 물가의 게임 모임과 가구가 놓인 거실이 네 등각 투영 픽셀 장면에서 완성됩니다. Fable 5.5 사례로 소개된 작품에서 조립 순서, 생활 공간의 디테일과 환경 움직임을 살펴보세요.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-pixel-art-animation",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Dioramas de píxeles: ejemplo de Claude Fable 5.5",
+          "description": "Una terraza, un acuario, una noche de juegos junto al agua y una sala se forman en cuatro escenas de pixel art atribuidas a Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-pixel-art-animation",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Dioramas en pixels : exemple Claude Fable 5.5",
+          "description": "Une terrasse, un aquarium, une soirée jeux au bord de l’eau et un salon se forment dans quatre scènes en pixel art attribuées à Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-pixel-art-animation",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "Pixel-Dioramen: Beispiel mit Claude Fable 5.5",
+          "description": "Holzterrasse, Aquarium, Spieleabend am Wasser und Wohnzimmer entstehen in vier isometrischen Pixelszenen, die Fable 5.5 zugeschrieben werden.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-pixel-art-animation",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Dioramas em pixels: exemplo de Claude Fable 5.5",
+          "description": "Um deck, um aquário, uma noite de jogos à beira d’água e uma sala mobiliada ganham forma em quatro cenas de pixel art atribuídas a Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-pixel-art-animation",
+          "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
+        }
+      }
+    },
+    {
+      "slug": "fable55-mountain-voxel-village",
+      "promptKind": "pagepop-recreation",
+      "coverUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/95/95e1d0dcee6128a9b27d562b114aa5626c796b931e21f83a26bb890c74b0e9a0.jpg",
+      "videoUrl": "https://agent-imagex.pagepop.cn/case-library-assets/content/da/daff467acc2fb8b44ebf49c0d068b5fc08393f3e6d60766f9dcc4bd4b16c3ed6.mp4",
+      "source": {
+        "url": "https://x.com/abhinavflac/status/2117377130388656569",
+        "authorName": "Synopsis",
+        "authorUrl": "https://x.com/abhinavflac"
+      },
+      "locales": {
+        "en-US": {
+          "title": "Voxel village: Claude Fable 5.5 interactive 3D example",
+          "description": "A voxel village sits between huge mountains, with characters and an explorable scene. Explore this Fable 5.5 example for worldbuilding and interaction.",
+          "detailUrl": "https://www.pagepop.ai/use-cases/fable55-mountain-voxel-village",
+          "topicUrl": "https://www.pagepop.ai/use-cases/models/claude-fable-5-5"
+        },
+        "zh-CN": {
+          "title": "Claude Fable 5.5 3D 案例：群山中的可探索体素村庄",
+          "description": "巨大的山体之间分布着体素房屋、道路与村民，镜头可以进入村庄探索。参考这个 Claude Fable 5.5 交互案例的世界构建、空间层次和角色活动。",
+          "detailUrl": "https://www.pagepop.ai/zh-cn/use-cases/fable55-mountain-voxel-village",
+          "topicUrl": "https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5"
+        },
+        "zh-TW": {
+          "title": "Claude Fable 5.5 3D 案例：群山中的體素村莊",
+          "description": "巨大的山體之間散布著體素房屋、道路與村民，場景可進入探索。參考這個 Fable 5.5 互動式案例的世界建構、空間層次、角色日常活動與鏡頭安排，尋找自己的場景靈感。",
+          "detailUrl": "https://www.pagepop.ai/zh-tw/use-cases/fable55-mountain-voxel-village",
+          "topicUrl": "https://www.pagepop.ai/zh-tw/use-cases/models/claude-fable-5-5"
+        },
+        "ja-JP": {
+          "title": "Claude Fable 5.5の3D事例：山間のボクセル村",
+          "description": "巨大な山々の間に小さなボクセルの村があり、住民のいるシーンを探索できます。Fable 5.5の事例として、家や道の配置、風景の奥行き、世界づくりと操作の見せ方を参考にできます。",
+          "detailUrl": "https://www.pagepop.ai/jp/use-cases/fable55-mountain-voxel-village",
+          "topicUrl": "https://www.pagepop.ai/jp/use-cases/models/claude-fable-5-5"
+        },
+        "ko-KR": {
+          "title": "Claude Fable 5.5 3D 사례: 산 사이의 복셀 마을",
+          "description": "거대한 산 사이에 작은 복셀 마을이 자리하고, 주민이 있는 장면을 탐험할 수 있습니다. 이 Fable 5.5 사례에서 집과 길의 배치, 공간의 깊이, 세계 구성과 인터랙션 방식을 살펴보세요.",
+          "detailUrl": "https://www.pagepop.ai/ko/use-cases/fable55-mountain-voxel-village",
+          "topicUrl": "https://www.pagepop.ai/ko/use-cases/models/claude-fable-5-5"
+        },
+        "es-ES": {
+          "title": "Aldea de vóxeles 3D: ejemplo de Claude Fable 5.5",
+          "description": "Una pequeña aldea de vóxeles se esconde entre grandes montañas, con vecinos y zonas explorables. Descubre el mundo y la interacción de este Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/es/use-cases/fable55-mountain-voxel-village",
+          "topicUrl": "https://www.pagepop.ai/es/use-cases/models/claude-fable-5-5"
+        },
+        "fr-FR": {
+          "title": "Village 3D en voxels : exemple Claude Fable 5.5",
+          "description": "Un petit village en voxels se niche entre de hautes montagnes, avec des habitants et une scène à explorer. Découvrez ce monde interactif Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/fr/use-cases/fable55-mountain-voxel-village",
+          "topicUrl": "https://www.pagepop.ai/fr/use-cases/models/claude-fable-5-5"
+        },
+        "de-DE": {
+          "title": "3D-Voxel-Dorf: Beispiel mit Claude Fable 5.5",
+          "description": "Ein kleines Voxel-Dorf liegt zwischen riesigen Bergen, mit Bewohnern und erkundbarer Umgebung. Entdecke Weltaufbau und Interaktion bei Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/de/use-cases/fable55-mountain-voxel-village",
+          "topicUrl": "https://www.pagepop.ai/de/use-cases/models/claude-fable-5-5"
+        },
+        "pt-BR": {
+          "title": "Aldeia 3D de voxels: exemplo de Claude Fable 5.5",
+          "description": "Uma pequena aldeia de voxels fica entre montanhas enormes, com moradores e um cenário explorável. Conheça o mundo e a interação deste Fable 5.5.",
+          "detailUrl": "https://www.pagepop.ai/pt-br/use-cases/fable55-mountain-voxel-village",
           "topicUrl": "https://www.pagepop.ai/pt-br/use-cases/models/claude-fable-5-5"
         }
       }

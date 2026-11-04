@@ -36,39 +36,81 @@ Explore AI prompts and creative examples by model, or browse by use case below.
 
 ### Claude Fable 5.5 community highlights
 
-Explore hand-drawn animation, SVG motion and video examples from community creators. Each example credits its creator and links to the original post.
+Curated daily and continuously updated with popular community examples, from hand-drawn animation and 3D scenes to SVG motion and video. Each example credits its creator and links to the original post. Watch the result and recreate a favorite in PagePop.
 
-**[Browse all 14 examples and complete prompts](https://github.com/pagepop/awesome-fable5.5-prompts)** · **[Explore the Fable 5.5 gallery](https://www.pagepop.ai/use-cases/models/claude-fable-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-collection)**
+**[Browse the growing collection of examples and prompts](https://github.com/pagepop/awesome-fable5.5-prompts)** · **[Explore the Fable 5.5 gallery](https://www.pagepop.ai/use-cases/models/claude-fable-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-collection)**
 
 #### Hand-drawn forest robot: Claude Fable 5.5 anime prompt
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/86/8641fc62e43e707dfefe43c7891afd55579534ad0d2c000075fb69ee64f02f3c.jpg" alt="Hand-drawn forest robot: Claude Fable 5.5 anime prompt" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper">Watch</a></strong>
 </p>
 
 The Moss Keeper: a giant robot wakes and flies over a forest. The brief specifies hand-drawn anime visuals and a self-contained HTML file.
 
-Creator: Chetaslua · [Original source](https://x.com/chetaslua/status/2117169796290916732) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper)
+Creator: Chetaslua · [Original source](https://x.com/chetaslua/status/2117169796290916732) · [Recreate in PagePop](https://www.pagepop.ai/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper)
 
 #### Fox anime storyboard prompt with Claude Fable 5.5
 
 <p align="center">
   <a href="https://www.pagepop.ai/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/2e/2ee16a14af881cec01a74f208f2e62cc208f33c979a70ddd7e2a3253cb59dd99.jpg" alt="Fox anime storyboard prompt with Claude Fable 5.5" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page">Watch</a></strong>
 </p>
 
 The Last Page: a fox wakes a library across nine anime shots. The brief calls for hand-drawn visuals, original sound, and a single HTML file.
 
-Creator: Chetaslua · [Original source](https://x.com/chetaslua/status/2117224839010459987) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page)
+Creator: Chetaslua · [Original source](https://x.com/chetaslua/status/2117224839010459987) · [Recreate in PagePop](https://www.pagepop.ai/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page)
 
-#### Claude Fable 5.5 SVG prompt for a cycling pelican
+#### Three.js sports car: Claude Fable 5.5 3D example
 
 <p align="center">
-  <a href="https://www.pagepop.ai/use-cases/fable55-pelican-bicycle-svg?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pelican-bicycle-svg"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/23/239de1f15853e2201e1f69957bba68c2eeef76e35586daa62b5d992e9dccf8df.jpg" alt="Claude Fable 5.5 SVG prompt for a cycling pelican" width="720"></a>
+  <a href="https://www.pagepop.ai/use-cases/fable55-threejs-sports-car?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-sports-car"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/8a/8aa5ae16087b86aa3939c795a1a909500295c248554fe046801df7e9cbca097a.jpg" alt="Three.js sports car: Claude Fable 5.5 3D example" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/use-cases/fable55-threejs-sports-car?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-sports-car">Watch</a></strong>
 </p>
 
-Draw a pelican riding a bicycle in SVG. Compare the compact creative brief with the cycling animation and its visual detail.
+Explore a sports-car scene shared as a Claude Fable 5.5 Three.js example, with attention to bodywork, materials, lighting and camera movement.
 
-Creator: can · [Original source](https://x.com/marmaduke091/status/2116233349391962392) · [View example and prompt →](https://www.pagepop.ai/use-cases/fable55-pelican-bicycle-svg?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pelican-bicycle-svg)
+Creator: Chetaslua · [Original source](https://x.com/chetaslua/status/2116975056014430419) · [Recreate in PagePop](https://www.pagepop.ai/use-cases/fable55-threejs-sports-car?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-sports-car)
+
+#### 3D cycling pelican: Claude Fable 5.5 Three.js example
+
+<p align="center">
+  <a href="https://www.pagepop.ai/use-cases/fable55-threejs-pelican?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-pelican"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/ce/ce7db36ffd9a941e07fbd64cbe1e7244c94565e58510280b370029e3bdef9af8.jpg" alt="3D cycling pelican: Claude Fable 5.5 Three.js example" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/use-cases/fable55-threejs-pelican?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-pelican">Watch</a></strong>
+</p>
+
+A pelican rides a bicycle in a 3D scene. Explore this Claude Fable 5.5 Three.js example for character modelling, pedalling and coordinated wheel movement.
+
+Creator: Chetaslua · [Original source](https://x.com/chetaslua/status/2116882694026269148) · [Recreate in PagePop](https://www.pagepop.ai/use-cases/fable55-threejs-pelican?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-pelican)
+
+#### Clockwork frog animation: Claude Fable 5.5 example
+
+<p align="center">
+  <a href="https://www.pagepop.ai/use-cases/fable55-chris-cinematic-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-chris-cinematic-animation"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/8a/8a527c7df9e342e46879aba7aa88356942ff799642523ffe0461051d27dc8d55.jpg" alt="Clockwork frog animation: Claude Fable 5.5 example" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/use-cases/fable55-chris-cinematic-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-chris-cinematic-animation">Watch</a></strong>
+</p>
+
+A brass mechanical frog wakes in a dim clockwork workshop before a hammer brings a comic ending. Explore this Claude Fable 5.5 animation example.
+
+Creator: Chris · [Original source](https://x.com/ChrisGPT/status/2117381015069212910) · [Recreate in PagePop](https://www.pagepop.ai/use-cases/fable55-chris-cinematic-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-chris-cinematic-animation)
+
+#### Pixel diorama animation: Claude Fable 5.5 video example
+
+<p align="center">
+  <a href="https://www.pagepop.ai/use-cases/fable55-pixel-art-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pixel-art-animation"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/45/454ecf9c87818975867584c669b18f9714e5e1f312321e0fcd22fedd9654de98.jpg" alt="Pixel diorama animation: Claude Fable 5.5 video example" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/use-cases/fable55-pixel-art-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pixel-art-animation">Watch</a></strong>
+</p>
+
+A wooden deck, an aquarium, a waterside game night and a furnished living room take shape in four isometric pixel-art scenes attributed to Fable 5.5.
+
+Creator: Synopsis · [Original source](https://x.com/abhinavflac/status/2117582497743786159) · [Recreate in PagePop](https://www.pagepop.ai/use-cases/fable55-pixel-art-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pixel-art-animation)
 
 ---
 

@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict'
 
-import { readModelCollections, websiteUrlForLocale } from './model-collections.ts'
+import { readModelCollections, renderModelDiscovery, validateModelCollections, websiteUrlForLocale } from './model-collections.ts'
 import { projectFableData } from './sync-model-collections.ts'
 
 const index = readModelCollections()
@@ -25,7 +25,39 @@ function invalid(change: (value: typeof source) => void): void {
 }
 
 assert.throws(() => projectFableData(null))
-invalid((value) => { value.cases.pop() })
+// Collection growth and removal of an unfeatured case must not require code changes.
+const expanded = structuredClone(source)
+const extraCase = structuredClone(source.cases[0]!)
+extraCase.slug = 'fable55-dynamic-collection-fixture'
+for (const copy of Object.values(extraCase.locales)) {
+  copy.detailUrl = copy.detailUrl.replace(source.cases[0]!.slug, extraCase.slug)
+}
+expanded.cases.push(extraCase)
+const expandedIndex = projectFableData(expanded) as typeof index
+assert.equal(expandedIndex.cases.length, source.cases.length + 1)
+const reduced = structuredClone(source)
+reduced.cases = reduced.cases.filter((item) => index.featuredSlugs.includes(item.slug))
+assert.equal((projectFableData(reduced) as typeof index).cases.length, index.featuredSlugs.length)
+
+for (const promptKind of ['original', 'pagepop-recreation']) {
+  const withKind = structuredClone(source)
+  Object.assign(withKind.cases[0]!, { promptKind })
+  const result = projectFableData(withKind) as typeof index
+  assert.equal(result.cases[0]!.promptKind, promptKind)
+  assert(!JSON.stringify(result).includes('Source prompt used only'))
+}
+const withoutKind = structuredClone(source)
+Reflect.deleteProperty(withoutKind.cases[0]!, 'promptKind')
+assert(!Object.hasOwn((projectFableData(withoutKind) as typeof index).cases[0]!, 'promptKind'))
+for (const promptKind of ['', 'community', null, undefined]) {
+  invalid((value) => { Object.assign(value.cases[0]!, { promptKind }) })
+}
+invalid((value) => { value.cases = [] })
+invalid((value) => { value.cases.splice(value.cases.findIndex((item) => item.slug === index.featuredSlugs[0]), 1) })
+assert.throws(() => validateModelCollections({ ...index, cases: [] }))
+const invalidIndexKind = structuredClone(index)
+Object.assign(invalidIndexKind.cases[0]!, { promptKind: 'unverified' })
+assert.throws(() => validateModelCollections(invalidIndexKind))
 invalid((value) => { value.cases[0]!.prompt = '' })
 invalid((value) => { value.cases[0]!.locales['zh-CN'].detailUrl = value.cases[0]!.locales['en-US'].detailUrl })
 invalid((value) => { value.cases[0]!.locales['zh-CN'].topicUrl = value.cases[0]!.locales['en-US'].topicUrl })
@@ -38,4 +70,21 @@ assert.equal(
   'https://www.pagepop.ai/zh-cn/use-cases/example?utm_source=github#result',
 )
 assert.throws(() => websiteUrlForLocale('https://private.example.test/use-cases/example', 'zh'))
-console.log('Passed Fable metadata projection, invalid export, locale and URL boundary checks.')
+for (const locale of ['en', 'zh'] as const) {
+  const rendered = renderModelDiscovery(locale, 'Models', 'Discover community work.')
+  const copyLocale = locale === 'zh' ? 'zh-CN' : 'en-US'
+  for (const slug of index.featuredSlugs) {
+    const item = index.cases.find((entry) => entry.slug === slug)!
+    const expectedDetail = new URL(item.locales[copyLocale].detailUrl)
+    const links = [...rendered.matchAll(/<a href="([^"]+)">(.*?)<\/a>/g)]
+    const watchLink = links.find(([, href, label]) => new URL(href!).pathname === expectedDetail.pathname &&
+      label === (locale === 'zh' ? '观看' : 'Watch'))
+    assert(watchLink)
+    assert.equal(rendered.split(`](${item.source.url})`).length - 1, 1)
+    assert(!rendered.includes(`](${item.source.authorUrl})`))
+    assert(!rendered.includes(item.videoUrl))
+    assert(rendered.includes(`[${locale === 'zh' ? '在 PagePop 做同款' : 'Recreate in PagePop'}](${watchLink[1]})`))
+  }
+  assert(!/(?:all \d+ (?:examples|cases|prompts)|全部\s*\d+\s*个案例)/i.test(rendered))
+}
+console.log('Passed dynamic Fable metadata projection, prompt provenance, invalid export, locale and URL boundary checks.')

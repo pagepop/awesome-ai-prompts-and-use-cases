@@ -582,7 +582,7 @@ for (const document of rootReadmeDocuments) {
   }
   const covers = modelCollections.cases.filter((item) => document.content.includes(`src="${item.coverUrl}"`))
   if (covers.length !== modelCollections.featuredSlugs.length) {
-    errors.push(`${document.fileName} must show exactly three Fable highlight covers.`)
+    errors.push(`${document.fileName} must show exactly the selected Fable highlight covers.`)
   }
   for (const slug of modelCollections.featuredSlugs) {
     const item = modelCollections.cases.find((entry) => entry.slug === slug)

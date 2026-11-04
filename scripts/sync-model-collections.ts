@@ -9,8 +9,14 @@ import {
 } from './model-collections.ts'
 import { hasText, isRecord, readJsonFile } from './types.ts'
 
-function assertPublicFields(value: Record<string, unknown>, fields: string[], label: string): void {
-  if (Object.keys(value).some((key) => !fields.includes(key)) || fields.some((key) => !(key in value))) {
+function assertPublicFields(
+  value: Record<string, unknown>,
+  fields: string[],
+  label: string,
+  optionalFields: string[] = [],
+): void {
+  if (Object.keys(value).some((key) => !fields.includes(key) && !optionalFields.includes(key)) ||
+      fields.some((key) => !(key in value))) {
     throw new Error(`${label} must contain exactly the public export fields: ${fields.join(', ')}`)
   }
 }
@@ -27,9 +33,10 @@ export function projectFableData(source: unknown): unknown {
     if (!isRecord(item) || !hasText(item.prompt) || !hasText(item.title) || !hasText(item.description)) {
       throw new Error('Every Fable source case must contain its complete public prompt, title and description.')
     }
-    assertPublicFields(item, ['slug', 'title', 'description', 'prompt', 'coverUrl', 'videoUrl', 'source', 'locales'], 'Fable source case')
+    assertPublicFields(item, ['slug', 'title', 'description', 'prompt', 'coverUrl', 'videoUrl', 'source', 'locales'], 'Fable source case', ['promptKind'])
     return {
       slug: item.slug,
+      ...('promptKind' in item ? { promptKind: item.promptKind } : {}),
       coverUrl: item.coverUrl,
       videoUrl: item.videoUrl,
       source: item.source,
@@ -61,9 +68,9 @@ if (isMain) {
     if (fs.readFileSync(outputPath, 'utf8') !== content) {
       throw new Error('Model metadata index differs from the supplied public export. Run sync:models and regenerate.')
     }
-    console.log('Confirmed model metadata matches all 14 cases in the supplied public export.')
+    console.log('Confirmed model metadata matches the complete supplied public export.')
   } else {
     fs.writeFileSync(outputPath, content)
-    console.log('Synced all 14 public Fable cases into the model metadata index; legacy catalog unchanged.')
+    console.log('Synced the complete public Fable collection into the model metadata index; legacy catalog unchanged.')
   }
 }
