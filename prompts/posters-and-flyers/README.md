@@ -14,10 +14,6 @@ Every prompt below is reproduced in full. Select a preview or the complete-proce
 
 ## Academic Conference Poster - Mangrove Rodent Eradication Technology
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/academic-conference-poster-mangrove-rodent-eradication-technology?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-academic-conference-poster-mangrove-rodent-eradication-technology"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961263136_1000_mIYia.png" alt="Academic Conference Poster - Mangrove Rodent Eradication Technology — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -86,10 +82,6 @@ Create 4 prints with different styles, a brighter tone, themed around Brooklyn B
 
 ## Country Music Legends Portrait Prints - 4 Styles
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/country-music-legends-portrait-prints-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-country-music-legends-portrait-prints-4-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054611646_1000_FC7zm.png" alt="Country Music Legends Portrait Prints - 4 Styles — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -103,10 +95,6 @@ Create 4 prints with different styles, a brighter tone, themed around  Portrait 
 ---
 
 ## Meritus Paramedical Institute Posters - Vertical Layout
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/meritus-paramedical-institute-posters-vertical-layout?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-meritus-paramedical-institute-posters-vertical-layout"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765962691698_1000_SnkXc.png" alt="Meritus Paramedical Institute Posters - Vertical Layout — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -128,10 +116,6 @@ Technician Etc. please provide colorful and 4k quality
 
 ## New Orleans Jazz Prints - 4 Artistic Styles
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/new-orleans-jazz-prints-4-artistic-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-new-orleans-jazz-prints-4-artistic-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054570598_1000_N4eJx.png" alt="New Orleans Jazz Prints - 4 Artistic Styles — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -145,10 +129,6 @@ Create 4 prints with different styles, a brighter tone, themed around New Orlean
 ---
 
 ## NYC Street Art Exhibition Prints - 4 Distinct Styles
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/nyc-street-art-exhibition-prints-4-distinct-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nyc-street-art-exhibition-prints-4-distinct-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764053915104_1000_hOTyw.png" alt="NYC Street Art Exhibition Prints - 4 Distinct Styles — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -164,10 +144,6 @@ Create 4 prints with different styles, a brighter tone, themed around New York S
 
 ## NYFW Collection Launch Posters - Updated to 2026
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/nyfw-collection-launch-posters-updated-to-2026?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nyfw-collection-launch-posters-updated-to-2026"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055589805_1000_2izlO.png" alt="NYFW Collection Launch Posters - Updated to 2026 — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -182,10 +158,6 @@ Create 4 Posters with different styles, a brighter tone, Realistic photography s
 
 ## Organic Produce Launch Prints - 4 Styles
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/organic-produce-launch-prints-4-styles?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-organic-produce-launch-prints-4-styles"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054014658_1000_TA2bD.png" alt="Organic Produce Launch Prints - 4 Styles — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -199,10 +171,6 @@ Create 4 prints with different styles, a brighter tone, themed around Grocery St
 ---
 
 ## Pop Bar Football Event Posters - Complete Campaign
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/pop-bar-football-event-posters-complete-campaign?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pop-bar-football-event-posters-complete-campaign"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764056275663_1000_u6Uot.png" alt="Pop Bar Football Event Posters - Complete Campaign — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -235,10 +203,6 @@ Create 4 Posters with different styles, a brighter tone, Realistic photography s
 ---
 
 ## Summer Sounds Fest 2027 Poster - Festival Design Collection
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/summer-sounds-fest-2027-poster-festival-design-collection?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-summer-sounds-fest-2027-poster-festival-design-collection"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961407402_1000_rPQXn.png" alt="Summer Sounds Fest 2027 Poster - Festival Design Collection — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 

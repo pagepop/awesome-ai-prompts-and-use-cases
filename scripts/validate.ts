@@ -6,6 +6,7 @@ import {
   categoryReadmePath,
   isPublishedCategory,
   isPublishedUseCase,
+  isPreviewVisible,
   previewUrl,
   publicCategorySlugs,
   renderCategoryReadme,
@@ -425,12 +426,16 @@ for (const [itemIndex, item] of catalog.cases.entries()) {
     }
     if (isPublished) {
       for (const rootDocument of rootReadmeDocuments) {
-        if (rootDocument.exists && !rootDocument.content.includes(preview)) {
+        const visible = isPreviewVisible(item)
+        if (rootDocument.exists && visible && !rootDocument.content.includes(preview)) {
           errors.push(`${rootDocument.fileName} is missing the CDN preview for ${item.slug}.`)
         }
         const detailUrl = appendTracking(item.websiteUrl, `case-${item.slug}`)
-        if (rootDocument.exists && !rootDocument.content.includes(`<a href="${detailUrl}"><img src="${preview}"`)) {
+        if (rootDocument.exists && visible && !rootDocument.content.includes(`<a href="${detailUrl}"><img src="${preview}"`)) {
           errors.push(`${rootDocument.fileName} preview must open the case detail page for ${item.slug}.`)
+        }
+        if (rootDocument.exists && !visible && rootDocument.content.includes(`src="${preview}"`)) {
+          errors.push(`${rootDocument.fileName} must hide the unavailable preview for ${item.slug}.`)
         }
       }
     }
@@ -530,11 +535,15 @@ for (const category of catalog.categories) {
     if (!categoryReadme.includes(item.originalPrompt)) {
       errors.push(`Category README ${category.slug} is missing the full prompt for ${item.slug}.`)
     }
-    if (!categoryReadme.includes(preview)) {
+    const visible = isPreviewVisible(item)
+    if (visible && !categoryReadme.includes(preview)) {
       errors.push(`Category README ${category.slug} is missing the CDN preview for ${item.slug}.`)
     }
-    if (!categoryReadme.includes(`<a href="${detailUrl}"><img src="${preview}"`)) {
+    if (visible && !categoryReadme.includes(`<a href="${detailUrl}"><img src="${preview}"`)) {
       errors.push(`Category README ${category.slug} preview must open the case detail page for ${item.slug}.`)
+    }
+    if (!visible && categoryReadme.includes(`src="${preview}"`)) {
+      errors.push(`Category README ${category.slug} must hide the unavailable preview for ${item.slug}.`)
     }
     if (!categoryReadme.includes(detailUrl)) {
       errors.push(`Category README ${category.slug} is missing the tracked detail link for ${item.slug}.`)
@@ -580,8 +589,12 @@ for (const document of rootReadmeDocuments) {
     if (!item) throw new Error(`Missing required Fable metadata: ${slug}`)
     const detailUrl = appendTracking(item.locales[zh ? 'zh-CN' : 'en-US'].detailUrl, `fable-case-${slug}`)
     if (!document.content.includes(`<a href="${detailUrl}"><img src="${item.coverUrl}"`) ||
-        !document.content.includes(item.source.url) || !document.content.includes(item.source.authorUrl)) {
+        !document.content.includes(item.source.url) || !document.content.includes(item.source.authorName)) {
       errors.push(`${document.fileName} is missing a localized clickable cover or source credit for ${slug}.`)
+    }
+    if (document.content.includes(`](${item.source.authorUrl})`) ||
+        document.content.includes(`href="${item.source.authorUrl}"`)) {
+      errors.push(`${document.fileName} must credit the author in plain text and link only to the original post for ${slug}.`)
     }
   }
   const legacyEnglishPaths = new Set(catalog.cases.map((item) => new URL(item.websiteUrl).pathname))

@@ -14,10 +14,6 @@ Every prompt below is reproduced in full. Select a preview or the complete-proce
 
 ## Christmas Carnival Instagram Posts - Festive Activities
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/christmas-carnival-instagram-posts-festive-activities?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-christmas-carnival-instagram-posts-festive-activities"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915142729_1000_0eH0o.png" alt="Christmas Carnival Instagram Posts - Festive Activities — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -31,10 +27,6 @@ I need to create four social media operation images with a 1:1 aspect ratio, int
 ---
 
 ## Cinque Terre Village Travel Guide
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/cinque-terre-village-travel-guide?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-cinque-terre-village-travel-guide"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389011879_1000_kdm2c.png" alt="Cinque Terre Village Travel Guide — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -50,10 +42,6 @@ I need 4 different social media images with the theme of "Global Niche Travel Gu
 
 ## Energy Boost Station 2
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/energy-boost-station-2?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-energy-boost-station-2"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387156008_1000_l1x0t.png" alt="Energy Boost Station 2 — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -67,10 +55,6 @@ I need 4 different social media images with the theme of "Worker's Energy Boost 
 ---
 
 ## Foundation Texture Close-up
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/foundation-texture-close-up?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-foundation-texture-close-up"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766392467916_1000_1f8BZ.png" alt="Foundation Texture Close-up — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -86,10 +70,6 @@ I need 4 social media pictures with different contents, the theme of which is "B
 
 ## Healing Social Media - Morning Tea
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/healing-social-media-morning-tea?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-healing-social-media-morning-tea"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389511773_1000_pgOoY.png" alt="Healing Social Media - Morning Tea — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -103,10 +83,6 @@ I need 4 different social media images with the theme of 'Emotional Healing Litt
 ---
 
 ## Healthy Meal Image 4
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/healthy-meal-image-4?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-healthy-meal-image-4"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766386446772_1000_GprfP.png" alt="Healthy Meal Image 4 — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -122,10 +98,6 @@ I need 4 social media images with different content: focusing on healthy food, s
 
 ## Hidden Cafe Image 2
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/hidden-cafe-image-2?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-hidden-cafe-image-2"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766385281530_1000_vYuBs.png" alt="Hidden Cafe Image 2 — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -139,10 +111,6 @@ I need 4 social media images: Cozy hidden caf é in a quiet urban alley, warm fa
 ---
 
 ## Minimalist Life - Stones
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/minimalist-life-stones?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-minimalist-life-stones"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766388395354_1000_bUOJL.png" alt="Minimalist Life - Stones — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -158,10 +126,6 @@ I need 4 social media images with different content, with the theme of "Minimali
 
 ## Nature Healing 1 - Misty Forest
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/nature-healing-1-misty-forest?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-nature-healing-1-misty-forest"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387322246_1000_CbzwD.png" alt="Nature Healing 1 - Misty Forest — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -175,10 +139,6 @@ I need 4 different social media images with the theme of "Nature Healing Everyda
 ---
 
 ## Pet Therapy - Golden Retriever
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/pet-therapy-golden-retriever?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pet-therapy-golden-retriever"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389022186_1000_j3zBf.png" alt="Pet Therapy - Golden Retriever — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 
@@ -194,10 +154,6 @@ I need 4 different social media images with the theme of "Pet Healing Everyday",
 
 ## Valentine's Day Date Guide - Romantic TikTok Series
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/valentines-day-date-guide-romantic-tiktok-series?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-valentines-day-date-guide-romantic-tiktok-series"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915547237_1000_lgaU4.png" alt="Valentine's Day Date Guide - Romantic TikTok Series — generated Image result" width="720"></a>
-</p>
-
 **Output:** Image
 
 ### Original prompt
@@ -211,10 +167,6 @@ I need to create four social media operation images with a 1:1 aspect ratio, int
 ---
 
 ## Watercolor Set Social Media Image
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/watercolor-set-social-media-image?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-watercolor-set-social-media-image"><img src="https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389200204_1000_WOKJ8.png" alt="Watercolor Set Social Media Image — generated Image result" width="720"></a>
-</p>
 
 **Output:** Image
 

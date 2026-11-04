@@ -1,0 +1,337 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-04T04:01:32.966Z",
+  "reason": "Show only covers verified as real images through GitHub Camo GET; temporarily hide failed covers while preserving every case and its website links.",
+  "previews": [
+    {
+      "slug": "aroma-diffuser-promo-video",
+      "previewUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779193257970_40932350_TnEWu.jpg",
+      "visible": false
+    },
+    {
+      "slug": "comedy-tank-standoff",
+      "previewUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188153588_40932350_jAFvt.jpg",
+      "visible": false
+    },
+    {
+      "slug": "dolphin-sunset-transition",
+      "previewUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188491734_40932350_8TPtz.jpg",
+      "visible": true
+    },
+    {
+      "slug": "grandma-moons-sweet-dream",
+      "previewUrl": "https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077875529_41202504_HdNou.jpg",
+      "visible": true
+    },
+    {
+      "slug": "kitten-sisters-clean-teeth",
+      "previewUrl": "https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077686593_41202504_2KE8Y.jpg",
+      "visible": false
+    },
+    {
+      "slug": "quirky-object-transformations",
+      "previewUrl": "https://img-volc.jianpian.info/super/video_concat/image/40932350/1779175906528_40932350_Vt6ym.jpg",
+      "visible": true
+    },
+    {
+      "slug": "academic-conference-poster-mangrove-rodent-eradication-technology",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961263136_1000_mIYia.png",
+      "visible": false
+    },
+    {
+      "slug": "american-frontier-western-wagon-prints-4-artistic-styles",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054606388_1000_fCa52.png",
+      "visible": true
+    },
+    {
+      "slug": "brooklyn-bridge-urban-landscape-prints-4-style-variations",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055330176_1000_sOXT3.png",
+      "visible": true
+    },
+    {
+      "slug": "country-music-legends-portrait-prints-4-styles",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054611646_1000_FC7zm.png",
+      "visible": false
+    },
+    {
+      "slug": "meritus-paramedical-institute-posters-vertical-layout",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765962691698_1000_SnkXc.png",
+      "visible": false
+    },
+    {
+      "slug": "new-orleans-jazz-prints-4-artistic-styles",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054570598_1000_N4eJx.png",
+      "visible": false
+    },
+    {
+      "slug": "nyc-street-art-exhibition-prints-4-distinct-styles",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764053915104_1000_hOTyw.png",
+      "visible": false
+    },
+    {
+      "slug": "nyfw-collection-launch-posters-updated-to-2026",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055589805_1000_2izlO.png",
+      "visible": false
+    },
+    {
+      "slug": "organic-produce-launch-prints-4-styles",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764054014658_1000_TA2bD.png",
+      "visible": false
+    },
+    {
+      "slug": "pop-bar-football-event-posters-complete-campaign",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764056275663_1000_u6Uot.png",
+      "visible": false
+    },
+    {
+      "slug": "route-66-vintage-americana-posters-retro-road-trip-series",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764055464196_1000_xr74g.png",
+      "visible": true
+    },
+    {
+      "slug": "summer-sounds-fest-2027-poster-festival-design-collection",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765961407402_1000_rPQXn.png",
+      "visible": false
+    },
+    {
+      "slug": "beach-beauty-clean-background",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765266855278_1000_MJL5V.png",
+      "visible": false
+    },
+    {
+      "slug": "beach-sunset-without-watermark",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765281257670_1000_cUEDd.png",
+      "visible": false
+    },
+    {
+      "slug": "couple-bedroom-photo",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282426262_1000_hvzBu.png",
+      "visible": false
+    },
+    {
+      "slug": "edited-photo",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271936489_1000_yQObA.png",
+      "visible": false
+    },
+    {
+      "slug": "grand-finals-opening-poster",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765269358113_1000_jz2n9.png",
+      "visible": false
+    },
+    {
+      "slug": "hiker-on-snowy-peak",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765268744073_1000_hH5zP.png",
+      "visible": false
+    },
+    {
+      "slug": "kitten-raising-paw",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765270361955_1000_9pYkn.png",
+      "visible": false
+    },
+    {
+      "slug": "manicura-rosa-con-diamantes-y-lazos",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765271876566_1000_v2APx.png",
+      "visible": false
+    },
+    {
+      "slug": "modified-combat-photo",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765278684644_1000_Ge8Jd.png",
+      "visible": false
+    },
+    {
+      "slug": "modified-poster",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765284563780_1000_ryUHY.png",
+      "visible": false
+    },
+    {
+      "slug": "nina-con-cabeza-de-conejo",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765267567930_1000_n2LkD.png",
+      "visible": false
+    },
+    {
+      "slug": "soda-bottle-on-beach",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1765282356468_1000_eI33o.png",
+      "visible": false
+    },
+    {
+      "slug": "american-campus-stationery-special-offer-4-style-variations",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729481504_1000_wUrxO.png",
+      "visible": true
+    },
+    {
+      "slug": "american-outdoor-camping-gear-value-sets-e-commerce-showcase",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728941190_1000_kyPuU.png",
+      "visible": false
+    },
+    {
+      "slug": "artisanal-coffee-e-commerce-collection-bright-and-vibrant-styles",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764728956240_1000_pTz1b.png",
+      "visible": true
+    },
+    {
+      "slug": "black-friday-electronics-modern-minimalist-variations",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764729081399_1000_3XT4d.png",
+      "visible": true
+    },
+    {
+      "slug": "british-retro-winter-collection-e-commerce-banners",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764730036359_1000_wazoM.png",
+      "visible": false
+    },
+    {
+      "slug": "diffuseur-dambiance-collection-avec-textes-marketing-francais",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764902442473_1000_H6YLD.png",
+      "visible": false
+    },
+    {
+      "slug": "low-sugar-dried-fruits-e-commerce-4-distinct-styles",
+      "previewUrl": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731517118_1000_lEL6u.jpeg",
+      "visible": false
+    },
+    {
+      "slug": "pendientes-flamenco-pasion-flamenca",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764903066413_1000_Sw7tP.png",
+      "visible": true
+    },
+    {
+      "slug": "oden-family-set-frozen-delivery-ecommerce-banners",
+      "previewUrl": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731159333_1000_DObsc.jpeg",
+      "visible": false
+    },
+    {
+      "slug": "silk-revival-ecommerce-content-4-styles",
+      "previewUrl": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764731012640_1000_iS1ic.jpeg",
+      "visible": true
+    },
+    {
+      "slug": "natural-ingredient-face-cream-ecommerce-product-images",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764731498008_1000_reA6F.png",
+      "visible": false
+    },
+    {
+      "slug": "new-year-lucky-bag-blind-box-promotion-4-styles",
+      "previewUrl": "https://img-volc.jianpian.info/super/overseas/poster/1000/1764732195472_1000_kjEoq.jpeg",
+      "visible": false
+    },
+    {
+      "slug": "ai-development-direction-plan-2026",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685016955_47834393_yj1DV.png",
+      "visible": false
+    },
+    {
+      "slug": "cosmic-neighborhood-101-a-journey-through-our-solar-system",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687943110_51957609_o3v2h.png",
+      "visible": false
+    },
+    {
+      "slug": "exodus-the-horizon-protocol",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770793432831_51957609_z5vlj.png",
+      "visible": false
+    },
+    {
+      "slug": "global-representative-wines-a-journey-through-worlds-premier-wine-regions",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683058274_49068998_l1KAS.png",
+      "visible": false
+    },
+    {
+      "slug": "kiki-the-fluffy-adventurer",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797976150_51957609_mIPsT.png",
+      "visible": false
+    },
+    {
+      "slug": "pophie-the-era-of-organic-ai-companionship",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685002814_47834393_laQ2m.png",
+      "visible": false
+    },
+    {
+      "slug": "the-chameleon-identity-architecture",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799950064_51957609_Za2qU.png",
+      "visible": false
+    },
+    {
+      "slug": "the-knights-and-the-naughty-dragon-a-bedtime-tale",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807638629_51957609_p9CB0.png",
+      "visible": false
+    },
+    {
+      "slug": "the-little-prince-a-visual-whisper-journey",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798981531_51957609_1A9DP.png",
+      "visible": false
+    },
+    {
+      "slug": "the-midnight-protocol-a-noir-graphic-narrative",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770790319501_51957609_07olZ.png",
+      "visible": false
+    },
+    {
+      "slug": "the-trousdale-pinnacle-a-modern-masterpiece",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769689451063_51957609_gZtrV.png",
+      "visible": false
+    },
+    {
+      "slug": "what-does-a-healthy-city-mean-the-metabolic-city-framework",
+      "previewUrl": "https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684742250_47834393_agwE2.png",
+      "visible": false
+    },
+    {
+      "slug": "christmas-carnival-instagram-posts-festive-activities",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915142729_1000_0eH0o.png",
+      "visible": false
+    },
+    {
+      "slug": "cinque-terre-village-travel-guide",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389011879_1000_kdm2c.png",
+      "visible": false
+    },
+    {
+      "slug": "energy-boost-station-2",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387156008_1000_l1x0t.png",
+      "visible": false
+    },
+    {
+      "slug": "foundation-texture-close-up",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766392467916_1000_1f8BZ.png",
+      "visible": false
+    },
+    {
+      "slug": "healing-social-media-morning-tea",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389511773_1000_pgOoY.png",
+      "visible": false
+    },
+    {
+      "slug": "healthy-meal-image-4",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766386446772_1000_GprfP.png",
+      "visible": false
+    },
+    {
+      "slug": "hidden-cafe-image-2",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766385281530_1000_vYuBs.png",
+      "visible": false
+    },
+    {
+      "slug": "minimalist-life-stones",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766388395354_1000_bUOJL.png",
+      "visible": false
+    },
+    {
+      "slug": "nature-healing-1-misty-forest",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766387322246_1000_CbzwD.png",
+      "visible": false
+    },
+    {
+      "slug": "pet-therapy-golden-retriever",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389022186_1000_j3zBf.png",
+      "visible": false
+    },
+    {
+      "slug": "valentines-day-date-guide-romantic-tiktok-series",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1764915547237_1000_lgaU4.png",
+      "visible": false
+    },
+    {
+      "slug": "watercolor-set-social-media-image",
+      "previewUrl": "https://img-volc.jianpian.info/super/super/overseas/poster/1000/1766389200204_1000_WOKJ8.png",
+      "visible": false
+    }
+  ]
+}

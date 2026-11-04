@@ -14,10 +14,6 @@ Every prompt below is reproduced in full. Select a preview or the complete-proce
 
 ## AI Development Direction Plan 2026
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/ai-development-direction-plan-2026?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-ai-development-direction-plan-2026"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685016955_47834393_yj1DV.png" alt="AI Development Direction Plan 2026 — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 ### Original prompt
@@ -31,10 +27,6 @@ We are an ordinary media company. Please generate a slideshow for a feasible AI 
 ---
 
 ## Cosmic Neighborhood 101: A Journey Through Our Solar System
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/cosmic-neighborhood-101-a-journey-through-our-solar-system?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-cosmic-neighborhood-101-a-journey-through-our-solar-system"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769687943110_51957609_o3v2h.png" alt="Cosmic Neighborhood 101: A Journey Through Our Solar System — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 
@@ -51,10 +43,6 @@ Highlight key points in bold, avoid complex and obscure professional terms, and 
 
 ## Exodus: The Horizon Protocol
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/exodus-the-horizon-protocol?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-exodus-the-horizon-protocol"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770793432831_51957609_z5vlj.png" alt="Exodus: The Horizon Protocol — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 ### Original prompt
@@ -69,10 +57,6 @@ Create a space adventure comic about humanity searching for a new livable home i
 
 ## Global Representative Wines: A Journey Through World's Premier Wine Regions
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/global-representative-wines-a-journey-through-worlds-premier-wine-regions?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-global-representative-wines-a-journey-through-worlds-premier-wine-regions"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/49068998/1769683058274_49068998_l1KAS.png" alt="Global Representative Wines: A Journey Through World's Premier Wine Regions — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 ### Original prompt
@@ -86,10 +70,6 @@ do me a powerpoint slides with at least 6 pages, which is about global represent
 ---
 
 ## KIKI: The Fluffy Adventurer
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/kiki-the-fluffy-adventurer?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kiki-the-fluffy-adventurer"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770797976150_51957609_mIPsT.png" alt="KIKI: The Fluffy Adventurer — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 
@@ -113,10 +93,6 @@ In her owner’s arms, KIKI thinks: What a great adventure!
 
 ## Pophie: The Era of Organic AI Companionship
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/pophie-the-era-of-organic-ai-companionship?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-pophie-the-era-of-organic-ai-companionship"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769685002814_47834393_laQ2m.png" alt="Pophie: The Era of Organic AI Companionship — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 ### Original prompt
@@ -130,10 +106,6 @@ Make a product marketing slide deck from this document and website.You must use 
 ---
 
 ## The Chameleon Identity Architecture
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-chameleon-identity-architecture?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-chameleon-identity-architecture"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770799950064_51957609_Za2qU.png" alt="The Chameleon Identity Architecture — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 
@@ -155,10 +127,6 @@ Please change the clothes, background and pose of the person in the image, ensur
 
 ## The Knights and the Naughty Dragon: A Bedtime Tale
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-knights-and-the-naughty-dragon-a-bedtime-tale?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-knights-and-the-naughty-dragon-a-bedtime-tale"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770807638629_51957609_p9CB0.png" alt="The Knights and the Naughty Dragon: A Bedtime Tale — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 ### Original prompt
@@ -172,10 +140,6 @@ I want AI to help me create a bedtime story. The story is about a black dragon c
 ---
 
 ## The Little Prince: A Visual Whisper Journey
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-little-prince-a-visual-whisper-journey?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-little-prince-a-visual-whisper-journey"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770798981531_51957609_1A9DP.png" alt="The Little Prince: A Visual Whisper Journey — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 
@@ -191,10 +155,6 @@ Create a 12-page children's picture book-style PPT for The Little Prince, design
 
 ## The Midnight Protocol: A Noir Graphic Narrative
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-midnight-protocol-a-noir-graphic-narrative?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-midnight-protocol-a-noir-graphic-narrative"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1770790319501_51957609_07olZ.png" alt="The Midnight Protocol: A Noir Graphic Narrative — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 ### Original prompt
@@ -209,10 +169,6 @@ Generate a detective story comic set on a rainy night, retro comic style, cool d
 
 ## The Trousdale Pinnacle: A Modern Masterpiece
 
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/the-trousdale-pinnacle-a-modern-masterpiece?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-the-trousdale-pinnacle-a-modern-masterpiece"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/51957609/1769689451063_51957609_gZtrV.png" alt="The Trousdale Pinnacle: A Modern Masterpiece — generated Presentation result" width="720"></a>
-</p>
-
 **Output:** Presentation
 
 ### Original prompt
@@ -226,10 +182,6 @@ I'm a real estate agent in Los Angeles and I need a 10 to 13-page ppt to introdu
 ---
 
 ## What Does a Healthy City Mean? - The Metabolic City Framework
-
-<p align="center">
-  <a href="https://www.pagepop.ai/use-cases/what-does-a-healthy-city-mean-the-metabolic-city-framework?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-what-does-a-healthy-city-mean-the-metabolic-city-framework"><img src="https://img-volc.jianpian.info/ai/gemini3_pro/47834393/1769684742250_47834393_agwE2.png" alt="What Does a Healthy City Mean? - The Metabolic City Framework — generated Presentation result" width="720"></a>
-</p>
 
 **Output:** Presentation
 

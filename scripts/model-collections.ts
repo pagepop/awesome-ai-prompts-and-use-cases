@@ -157,7 +157,7 @@ export function renderModelDiscovery(locale: 'en' | 'zh', heading: string, intro
   markdown += `### ${zh ? 'Claude Fable 5.5 社区精选' : 'Claude Fable 5.5 community highlights'}\n\n`
   markdown += zh
     ? '探索社区作者创作的手绘动画、SVG 动效与视频案例，查看效果、提示词和原始来源。\n\n'
-    : 'Explore hand-drawn animation, SVG motion and video examples from community creators. Each example links to its creator and original post.\n\n'
+    : 'Explore hand-drawn animation, SVG motion and video examples from community creators. Each example credits its creator and links to the original post.\n\n'
   markdown += `**[${zh ? '查看全部 14 个案例与完整提示词' : 'Browse all 14 examples and complete prompts'}](${repoUrl})** · **[${zh ? '浏览官网 Fable 5.5 专题' : 'Explore the Fable 5.5 gallery'}](${appendTracking(modelTopicUrl(fableModelId, locale), 'fable-collection')})**\n\n`
   for (const slug of data.featuredSlugs) {
     const item = data.cases.find((entry) => entry.slug === slug)
@@ -165,7 +165,7 @@ export function renderModelDiscovery(locale: 'en' | 'zh', heading: string, intro
     const copy = item.locales[zh ? 'zh-CN' : 'en-US']
     const detailUrl = appendTracking(copy.detailUrl, `fable-case-${slug}`)
     markdown += `#### ${copy.title}\n\n<p align="center">\n  <a href="${detailUrl}"><img src="${item.coverUrl}" alt="${escapeHtml(copy.title)}" width="720"></a>\n</p>\n\n${copy.description}\n\n`
-    markdown += `${zh ? '原作者' : 'Creator'}: [${escapeHtml(item.source.authorName)}](${item.source.authorUrl}) · [${zh ? '原帖' : 'Original source'}](${item.source.url}) · [${zh ? '查看案例与提示词 →' : 'View example and prompt →'}](${detailUrl})\n\n`
+    markdown += `${zh ? '原作者' : 'Creator'}: ${escapeHtml(item.source.authorName)} · [${zh ? '原帖' : 'Original source'}](${item.source.url}) · [${zh ? '查看案例与提示词 →' : 'View example and prompt →'}](${detailUrl})\n\n`
   }
   return `${markdown}---\n\n`
 }
