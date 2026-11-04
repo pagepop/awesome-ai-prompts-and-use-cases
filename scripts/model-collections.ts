@@ -8,7 +8,10 @@ export const fableModelId = 'claude-fable-5-5'
 export const fableFeaturedSlugs = [
   'fable55-the-moss-keeper',
   'fable55-the-last-page',
-  'fable55-pelican-bicycle-svg',
+  'fable55-threejs-sports-car',
+  'fable55-threejs-pelican',
+  'fable55-chris-cinematic-animation',
+  'fable55-pixel-art-animation',
 ] as const
 
 export const localePrefixes = {
@@ -34,6 +37,7 @@ export interface ModelCase {
   slug: string
   coverUrl: string
   videoUrl: string
+  promptKind?: 'original' | 'pagepop-recreation'
   source: { url: string; authorName: string; authorUrl: string }
   locales: Record<ModelLocale, ModelCaseLocale>
 }
@@ -67,10 +71,15 @@ export function modelTopicUrl(id: string, locale: 'en' | 'zh'): string {
   return websiteUrlForLocale(`https://www.pagepop.ai/use-cases/models/${id}`, locale)
 }
 
-function assertFields(value: unknown, fields: string[], label: string): asserts value is Record<string, unknown> {
-  if (!isRecord(value) || Object.keys(value).some((key) => !fields.includes(key)) ||
+function assertFields(
+  value: unknown,
+  fields: string[],
+  label: string,
+  optionalFields: string[] = [],
+): asserts value is Record<string, unknown> {
+  if (!isRecord(value) || Object.keys(value).some((key) => !fields.includes(key) && !optionalFields.includes(key)) ||
       fields.some((key) => !(key in value))) {
-    throw new Error(`${label} must contain exactly: ${fields.join(', ')}`)
+    throw new Error(`${label} must contain required fields ${fields.join(', ')} and only supported optional fields.`)
   }
 }
 
@@ -93,14 +102,17 @@ export function validateModelCollections(value: unknown): asserts value is Model
   if (value.model.id !== fableModelId || value.model.name !== 'Claude Fable 5.5' ||
       value.model.repositoryUrl !== fableRepositoryUrl) throw new Error('Unexpected Fable model identity.')
   if (JSON.stringify(value.featuredSlugs) !== JSON.stringify(fableFeaturedSlugs)) {
-    throw new Error('Fable highlights must contain the three selected public cases in order.')
+    throw new Error('Fable highlights must contain the selected public cases in order.')
   }
-  if (!Array.isArray(value.cases) || value.cases.length !== 14) {
-    throw new Error('The Fable metadata index must contain all 14 public cases.')
+  if (!Array.isArray(value.cases) || value.cases.length === 0) {
+    throw new Error('The Fable metadata index must contain a non-empty public case collection.')
   }
   const slugs = new Set<string>()
   for (const item of value.cases) {
-    assertFields(item, ['slug', 'coverUrl', 'videoUrl', 'source', 'locales'], 'Model case')
+    assertFields(item, ['slug', 'coverUrl', 'videoUrl', 'source', 'locales'], 'Model case', ['promptKind'])
+    if ('promptKind' in item && item.promptKind !== 'original' && item.promptKind !== 'pagepop-recreation') {
+      throw new Error('Case promptKind must be original or pagepop-recreation when present.')
+    }
     assertText(item.slug, 'Case slug')
     if (!/^fable55-[a-z0-9]+(?:-[a-z0-9]+)*$/.test(item.slug) || slugs.has(item.slug)) {
       throw new Error(`Invalid or duplicate Fable case slug: ${item.slug}`)
@@ -156,16 +168,16 @@ export function renderModelDiscovery(locale: 'en' | 'zh', heading: string, intro
   let markdown = `<a id="${previousAnchor}"></a>\n\n## ${heading}\n\n${introduction}\n\n${navigation}\n\n`
   markdown += `### ${zh ? 'Claude Fable 5.5 社区精选' : 'Claude Fable 5.5 community highlights'}\n\n`
   markdown += zh
-    ? '探索社区作者创作的手绘动画、SVG 动效与视频案例，查看效果、提示词和原始来源。\n\n'
-    : 'Explore hand-drawn animation, SVG motion and video examples from community creators. Each example credits its creator and links to the original post.\n\n'
-  markdown += `**[${zh ? '查看全部 14 个案例与完整提示词' : 'Browse all 14 examples and complete prompts'}](${repoUrl})** · **[${zh ? '浏览官网 Fable 5.5 专题' : 'Explore the Fable 5.5 gallery'}](${appendTracking(modelTopicUrl(fableModelId, locale), 'fable-collection')})**\n\n`
+    ? '每日精选社区热门案例并持续更新，涵盖手绘动画、3D 场景、SVG 动效与视频。每个案例保留作者署名与原帖，可在 PagePop 查看效果并做同款。\n\n'
+    : 'Curated daily and continuously updated with popular community examples, from hand-drawn animation and 3D scenes to SVG motion and video. Each example credits its creator and links to the original post. Watch the result and recreate a favorite in PagePop.\n\n'
+  markdown += `**[${zh ? '浏览持续更新的案例与提示词' : 'Browse the growing collection of examples and prompts'}](${repoUrl})** · **[${zh ? '浏览官网 Fable 5.5 专题' : 'Explore the Fable 5.5 gallery'}](${appendTracking(modelTopicUrl(fableModelId, locale), 'fable-collection')})**\n\n`
   for (const slug of data.featuredSlugs) {
     const item = data.cases.find((entry) => entry.slug === slug)
     if (!item) throw new Error(`Missing Fable highlight: ${slug}`)
     const copy = item.locales[zh ? 'zh-CN' : 'en-US']
     const detailUrl = appendTracking(copy.detailUrl, `fable-case-${slug}`)
-    markdown += `#### ${copy.title}\n\n<p align="center">\n  <a href="${detailUrl}"><img src="${item.coverUrl}" alt="${escapeHtml(copy.title)}" width="720"></a>\n</p>\n\n${copy.description}\n\n`
-    markdown += `${zh ? '原作者' : 'Creator'}: ${escapeHtml(item.source.authorName)} · [${zh ? '原帖' : 'Original source'}](${item.source.url}) · [${zh ? '查看案例与提示词 →' : 'View example and prompt →'}](${detailUrl})\n\n`
+    markdown += `#### ${copy.title}\n\n<p align="center">\n  <a href="${detailUrl}"><img src="${item.coverUrl}" alt="${escapeHtml(copy.title)}" width="720"></a>\n  <br>\n  <strong><a href="${detailUrl}">${zh ? '观看' : 'Watch'}</a></strong>\n</p>\n\n${copy.description}\n\n`
+    markdown += `${zh ? '原作者' : 'Creator'}: ${escapeHtml(item.source.authorName)} · [${zh ? '原帖' : 'Original source'}](${item.source.url}) · [${zh ? '在 PagePop 做同款' : 'Recreate in PagePop'}](${detailUrl})\n\n`
   }
   return `${markdown}---\n\n`
 }

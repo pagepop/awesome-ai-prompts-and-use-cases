@@ -36,39 +36,81 @@
 
 ### Claude Fable 5.5 社区精选
 
-探索社区作者创作的手绘动画、SVG 动效与视频案例，查看效果、提示词和原始来源。
+每日精选社区热门案例并持续更新，涵盖手绘动画、3D 场景、SVG 动效与视频。每个案例保留作者署名与原帖，可在 PagePop 查看效果并做同款。
 
-**[查看全部 14 个案例与完整提示词](https://github.com/pagepop/awesome-fable5.5-prompts/blob/main/README_zh-CN.md)** · **[浏览官网 Fable 5.5 专题](https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-collection)**
+**[浏览持续更新的案例与提示词](https://github.com/pagepop/awesome-fable5.5-prompts/blob/main/README_zh-CN.md)** · **[浏览官网 Fable 5.5 专题](https://www.pagepop.ai/zh-cn/use-cases/models/claude-fable-5-5?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-collection)**
 
 #### 森林机器人苏醒的 Claude Fable 5.5 手绘动画提示词
 
 <p align="center">
   <a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/86/8641fc62e43e707dfefe43c7891afd55579534ad0d2c000075fb69ee64f02f3c.jpg" alt="森林机器人苏醒的 Claude Fable 5.5 手绘动画提示词" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper">观看</a></strong>
 </p>
 
 《苔藓守护者》中，巨型机器人在日出时苏醒，挣脱藤蔓飞向天空。提示词围绕森林薄雾、重量感与手绘机器人组织动画，并要求以单文件 HTML 交付。
 
-原作者: Chetaslua · [原帖](https://x.com/chetaslua/status/2117169796290916732) · [查看案例与提示词 →](https://www.pagepop.ai/zh-cn/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper)
+原作者: Chetaslua · [原帖](https://x.com/chetaslua/status/2117169796290916732) · [在 PagePop 做同款](https://www.pagepop.ai/zh-cn/use-cases/fable55-the-moss-keeper?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-moss-keeper)
 
 #### Claude Fable 5.5 狐狸图书馆动画分镜提示词
 
 <p align="center">
   <a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/2e/2ee16a14af881cec01a74f208f2e62cc208f33c979a70ddd7e2a3253cb59dd99.jpg" alt="Claude Fable 5.5 狐狸图书馆动画分镜提示词" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page">观看</a></strong>
 </p>
 
 《最后一页》中，小狐狸唤醒图书馆，书页化成纸鸟飞向日出。提示词通过九个镜头组织故事，要求手绘动画美术、原创配乐与单文件 HTML 交付。
 
-原作者: Chetaslua · [原帖](https://x.com/chetaslua/status/2117224839010459987) · [查看案例与提示词 →](https://www.pagepop.ai/zh-cn/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page)
+原作者: Chetaslua · [原帖](https://x.com/chetaslua/status/2117224839010459987) · [在 PagePop 做同款](https://www.pagepop.ai/zh-cn/use-cases/fable55-the-last-page?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-the-last-page)
 
-#### 鹈鹕骑车的 Claude Fable 5.5 SVG 动画提示词
+#### Claude Fable 5.5 3D 案例：Three.js 跑车展示
 
 <p align="center">
-  <a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-pelican-bicycle-svg?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pelican-bicycle-svg"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/23/239de1f15853e2201e1f69957bba68c2eeef76e35586daa62b5d992e9dccf8df.jpg" alt="鹈鹕骑车的 Claude Fable 5.5 SVG 动画提示词" width="720"></a>
+  <a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-threejs-sports-car?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-sports-car"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/8a/8aa5ae16087b86aa3939c795a1a909500295c248554fe046801df7e9cbca097a.jpg" alt="Claude Fable 5.5 3D 案例：Three.js 跑车展示" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-threejs-sports-car?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-sports-car">观看</a></strong>
 </p>
 
-用 SVG 描绘骑自行车的鹈鹕，观察角色与自行车如何组合成动画画面。简短指令保留创作空间，适合参考主体设计与细节表达。
+查看作者标注为 Claude Fable 5.5 的 Three.js 跑车场景，参考车身造型、材质、灯光与镜头运动，探索可交互产品展示的创作方式。
 
-原作者: can · [原帖](https://x.com/marmaduke091/status/2116233349391962392) · [查看案例与提示词 →](https://www.pagepop.ai/zh-cn/use-cases/fable55-pelican-bicycle-svg?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pelican-bicycle-svg)
+原作者: Chetaslua · [原帖](https://x.com/chetaslua/status/2116975056014430419) · [在 PagePop 做同款](https://www.pagepop.ai/zh-cn/use-cases/fable55-threejs-sports-car?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-sports-car)
+
+#### Claude Fable 5.5 Three.js 案例：3D 鹈鹕骑自行车
+
+<p align="center">
+  <a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-threejs-pelican?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-pelican"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/ce/ce7db36ffd9a941e07fbd64cbe1e7244c94565e58510280b370029e3bdef9af8.jpg" alt="Claude Fable 5.5 Three.js 案例：3D 鹈鹕骑自行车" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-threejs-pelican?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-pelican">观看</a></strong>
+</p>
+
+鹈鹕在 3D 场景中骑行，角色造型与自行车运动相互配合。参考这个 Claude Fable 5.5 Three.js 案例的鸟类建模、踩踏动作和车轮联动。
+
+原作者: Chetaslua · [原帖](https://x.com/chetaslua/status/2116882694026269148) · [在 PagePop 做同款](https://www.pagepop.ai/zh-cn/use-cases/fable55-threejs-pelican?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-threejs-pelican)
+
+#### Claude Fable 5.5 动画案例：钟表工坊里的机械青蛙
+
+<p align="center">
+  <a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-chris-cinematic-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-chris-cinematic-animation"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/8a/8a527c7df9e342e46879aba7aa88356942ff799642523ffe0461051d27dc8d55.jpg" alt="Claude Fable 5.5 动画案例：钟表工坊里的机械青蛙" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-chris-cinematic-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-chris-cinematic-animation">观看</a></strong>
+</p>
+
+黄铜机械青蛙在昏暗钟表工坊中苏醒，蓝色核心亮起，最后以铁锤落下的反转收尾。参考这个 Claude Fable 5.5 动画案例的角色设计、镜头与机械音效。
+
+原作者: Chris · [原帖](https://x.com/ChrisGPT/status/2117381015069212910) · [在 PagePop 做同款](https://www.pagepop.ai/zh-cn/use-cases/fable55-chris-cinematic-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-chris-cinematic-animation)
+
+#### Claude Fable 5.5 像素动画案例：四幕生活微缩景观
+
+<p align="center">
+  <a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-pixel-art-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pixel-art-animation"><img src="https://agent-imagex.pagepop.cn/case-library-assets/content/45/454ecf9c87818975867584c669b18f9714e5e1f312321e0fcd22fedd9654de98.jpg" alt="Claude Fable 5.5 像素动画案例：四幕生活微缩景观" width="720"></a>
+  <br>
+  <strong><a href="https://www.pagepop.ai/zh-cn/use-cases/fable55-pixel-art-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pixel-art-animation">观看</a></strong>
+</p>
+
+木质露台、水族箱、水边游戏之夜和客厅布置在白底等轴测像素场景中逐步成形。参考这个 Claude Fable 5.5 案例的搭建顺序、场景细节与环境动画。
+
+原作者: Synopsis · [原帖](https://x.com/abhinavflac/status/2117582497743786159) · [在 PagePop 做同款](https://www.pagepop.ai/zh-cn/use-cases/fable55-pixel-art-animation?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=fable-case-fable55-pixel-art-animation)
 
 ---
 
