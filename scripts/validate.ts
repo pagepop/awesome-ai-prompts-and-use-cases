@@ -125,6 +125,26 @@ function validatePublicFields(
   }
 }
 
+function validateViewingLinks(content: string, label: string): void {
+  // Prompts are reproduced verbatim; inspect the surrounding reader navigation only.
+  const navigation = content.replace(/^(`{3,})[^\n]*\n[\s\S]*?^\1\s*$/gm, '')
+  if (/<(?:video|source)\b/i.test(navigation)) {
+    errors.push(`${label} must send readers to a case page instead of embedding direct video sources.`)
+  }
+  const links = [
+    ...Array.from(navigation.matchAll(/<a\b[^>]*\bhref=["']([^"']+)["']/gi), (match) => match[1]),
+    ...Array.from(navigation.replace(/!\[[^\]]*\]\([^)]*\)/g, '').matchAll(/\[[^\]]*\]\((https?:\/\/[^\s)]+)\)/g), (match) => match[1]),
+  ]
+  for (const href of links) {
+    if (!href?.startsWith('https://')) continue
+    const url = new URL(href)
+    if (['img-volc.jianpian.info', 'agent-imagex.pagepop.cn'].includes(url.hostname) ||
+        /\.(?:mp4|webm|mov|m4v|gif|jpe?g|png|webp|svg|pdf|pptx?)$/i.test(url.pathname)) {
+      errors.push(`${label} has a direct media viewing link instead of a case detail link: ${href}`)
+    }
+  }
+}
+
 interface ImageDimensions {
   width: number
   height: number
@@ -173,6 +193,7 @@ for (const rootDocument of rootReadmeDocuments) {
   }
 
   if (!rootDocument.exists) continue
+  validateViewingLinks(rootDocument.content, rootDocument.fileName)
 
   let expectedRootReadme: string
   try {
@@ -407,6 +428,10 @@ for (const [itemIndex, item] of catalog.cases.entries()) {
         if (rootDocument.exists && !rootDocument.content.includes(preview)) {
           errors.push(`${rootDocument.fileName} is missing the CDN preview for ${item.slug}.`)
         }
+        const detailUrl = appendTracking(item.websiteUrl, `case-${item.slug}`)
+        if (rootDocument.exists && !rootDocument.content.includes(`<a href="${detailUrl}"><img src="${preview}"`)) {
+          errors.push(`${rootDocument.fileName} preview must open the case detail page for ${item.slug}.`)
+        }
       }
     }
   }
@@ -425,10 +450,12 @@ for (const [itemIndex, item] of catalog.cases.entries()) {
     ) {
       errors.push(`Video use case ${item.slug} must provide a public HTTPS MP4 URL.`)
     }
-    if (isPublished && directVideoUrl) {
+    if (isPublished) {
       for (const rootDocument of rootReadmeDocuments) {
-        if (rootDocument.exists && !rootDocument.content.includes(directVideoUrl)) {
-          errors.push(`${rootDocument.fileName} is missing the direct MP4 link for ${item.slug}.`)
+        const detailUrl = appendTracking(item.websiteUrl, `case-${item.slug}`)
+        const label = rootDocument.locale === 'zh' ? '观看（英文）' : 'Watch'
+        if (rootDocument.exists && !rootDocument.content.includes(`<a href="${detailUrl}">${label}</a>`)) {
+          errors.push(`${rootDocument.fileName} is missing the case-page watch link for ${item.slug}.`)
         }
       }
     }
@@ -468,6 +495,7 @@ for (const category of catalog.categories) {
   }
 
   const categoryReadme = fs.readFileSync(outputPath, 'utf8')
+  validateViewingLinks(categoryReadme, rootRelativeCategoryPath)
   const expectedCategoryReadme = renderCategoryReadme(catalog, category)
   const secondRender = renderCategoryReadme(catalog, category)
   if (expectedCategoryReadme !== secondRender) {
@@ -505,6 +533,9 @@ for (const category of catalog.categories) {
     if (!categoryReadme.includes(preview)) {
       errors.push(`Category README ${category.slug} is missing the CDN preview for ${item.slug}.`)
     }
+    if (!categoryReadme.includes(`<a href="${detailUrl}"><img src="${preview}"`)) {
+      errors.push(`Category README ${category.slug} preview must open the case detail page for ${item.slug}.`)
+    }
     if (!categoryReadme.includes(detailUrl)) {
       errors.push(`Category README ${category.slug} is missing the tracked detail link for ${item.slug}.`)
     }
@@ -512,9 +543,8 @@ for (const category of catalog.categories) {
       errors.push(`Category README ${category.slug} is missing the tracked create link for ${item.slug}.`)
     }
     if (item.result.kind === 'video') {
-      const directVideoUrl = videoUrl(item)
-      if (!directVideoUrl || !categoryReadme.includes(directVideoUrl)) {
-        errors.push(`Category README ${category.slug} is missing the direct MP4 link for ${item.slug}.`)
+      if (!categoryReadme.includes(`<a href="${detailUrl}">Watch</a>`)) {
+        errors.push(`Category README ${category.slug} is missing the case-page watch link for ${item.slug}.`)
       }
     }
   }

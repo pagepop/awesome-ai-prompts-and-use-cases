@@ -93,16 +93,14 @@ export function renderResultPreview(
   const preview = previewUrl(item)
   if (!preview) return ''
 
-  const directVideoUrl = item.result.kind === 'video' ? videoUrl(item) : ''
-  const previewHref = directVideoUrl || detailUrl
   const resultKindLabel = outputLabels[item.result.kind] || item.result.kind
   const alt = escapeAlt(options.altText || `${item.title} — generated ${resultKindLabel} result`)
-  const playVideoLabel = options.playVideoLabel || '▶ Play video (MP4)'
-  const playLink = directVideoUrl
-    ? `\n  <br>\n  <strong><a href="${directVideoUrl}">${playVideoLabel}</a></strong>`
+  const playVideoLabel = options.playVideoLabel || 'Watch'
+  const playLink = item.result.kind === 'video'
+    ? `\n  <br>\n  <strong><a href="${detailUrl}">${playVideoLabel}</a></strong>`
     : ''
 
-  return `<p align="center">\n  <a href="${previewHref}"><img src="${preview}" alt="${alt}" width="720"></a>${playLink}\n</p>\n\n`
+  return `<p align="center">\n  <a href="${detailUrl}"><img src="${preview}" alt="${alt}" width="720"></a>${playLink}\n</p>\n\n`
 }
 
 export function categoryReadmePath(categorySlug: string): string {
