@@ -80,7 +80,7 @@ const englishCopy: LocalizedCopy = {
   detailCta: 'View the complete creative process →',
   createCta: 'Create in PagePop →',
   previewAlt: '{title} — generated {output} result',
-  playVideoLabel: '▶ Play video (MP4)',
+  playVideoLabel: 'Watch',
   howHeading: 'How PagePop turns a prompt into a result',
   howSteps: [
     'Start with an ordinary description of what you want.',

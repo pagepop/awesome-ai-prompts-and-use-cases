@@ -15,9 +15,9 @@ Every prompt below is reproduced in full. Select a preview or the complete-proce
 ## Aroma Diffuser Promo Video
 
 <p align="center">
-  <a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779193256874_40932350_GoXHN.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779193257970_40932350_TnEWu.jpg" alt="Aroma Diffuser Promo Video — generated Video result" width="720"></a>
+  <a href="https://www.pagepop.ai/use-cases/aroma-diffuser-promo-video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-aroma-diffuser-promo-video"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779193257970_40932350_TnEWu.jpg" alt="Aroma Diffuser Promo Video — generated Video result" width="720"></a>
   <br>
-  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779193256874_40932350_GoXHN.mp4">▶ Play video (MP4)</a></strong>
+  <strong><a href="https://www.pagepop.ai/use-cases/aroma-diffuser-promo-video?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-aroma-diffuser-promo-video">Watch</a></strong>
 </p>
 
 **Output:** Video
@@ -35,9 +35,9 @@ The picture is of my product - the aroma diffuser. The original details of the p
 ## Comedy Tank Standoff
 
 <p align="center">
-  <a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188152384_40932350_6QX1Y.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188153588_40932350_jAFvt.jpg" alt="Comedy Tank Standoff — generated Video result" width="720"></a>
+  <a href="https://www.pagepop.ai/use-cases/comedy-tank-standoff?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-comedy-tank-standoff"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188153588_40932350_jAFvt.jpg" alt="Comedy Tank Standoff — generated Video result" width="720"></a>
   <br>
-  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188152384_40932350_6QX1Y.mp4">▶ Play video (MP4)</a></strong>
+  <strong><a href="https://www.pagepop.ai/use-cases/comedy-tank-standoff?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-comedy-tank-standoff">Watch</a></strong>
 </p>
 
 **Output:** Video
@@ -55,9 +55,9 @@ Generate a video with a comedy scene set in a living room at home. A little girl
 ## Dolphin Sunset Transition
 
 <p align="center">
-  <a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188490823_40932350_HEDLy.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188491734_40932350_8TPtz.jpg" alt="Dolphin Sunset Transition — generated Video result" width="720"></a>
+  <a href="https://www.pagepop.ai/use-cases/dolphin-sunset-transition?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-dolphin-sunset-transition"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779188491734_40932350_8TPtz.jpg" alt="Dolphin Sunset Transition — generated Video result" width="720"></a>
   <br>
-  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779188490823_40932350_HEDLy.mp4">▶ Play video (MP4)</a></strong>
+  <strong><a href="https://www.pagepop.ai/use-cases/dolphin-sunset-transition?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-dolphin-sunset-transition">Watch</a></strong>
 </p>
 
 **Output:** Video
@@ -75,9 +75,9 @@ Generate a video based on the reference image I provided. Start underwater with 
 ## Grandma Moon's Sweet Dream
 
 <p align="center">
-  <a href="https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077874120_41202504_QlZU4.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077875529_41202504_HdNou.jpg" alt="Grandma Moon's Sweet Dream — generated Video result" width="720"></a>
+  <a href="https://www.pagepop.ai/use-cases/grandma-moons-sweet-dream?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-grandma-moons-sweet-dream"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077875529_41202504_HdNou.jpg" alt="Grandma Moon's Sweet Dream — generated Video result" width="720"></a>
   <br>
-  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077874120_41202504_QlZU4.mp4">▶ Play video (MP4)</a></strong>
+  <strong><a href="https://www.pagepop.ai/use-cases/grandma-moons-sweet-dream?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-grandma-moons-sweet-dream">Watch</a></strong>
 </p>
 
 **Output:** Video
@@ -118,9 +118,9 @@ The next morning, Kitten Sister said happily,
 ## Kitten Sister's Clean Teeth
 
 <p align="center">
-  <a href="https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077682990_41202504_9YgVT.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077686593_41202504_2KE8Y.jpg" alt="Kitten Sister's Clean Teeth — generated Video result" width="720"></a>
+  <a href="https://www.pagepop.ai/use-cases/kitten-sisters-clean-teeth?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-sisters-clean-teeth"><img src="https://img-volc.jianpian.info/super/video_concat/image/41202504/1779077686593_41202504_2KE8Y.jpg" alt="Kitten Sister's Clean Teeth — generated Video result" width="720"></a>
   <br>
-  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/41202504/1779077682990_41202504_9YgVT.mp4">▶ Play video (MP4)</a></strong>
+  <strong><a href="https://www.pagepop.ai/use-cases/kitten-sisters-clean-teeth?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-kitten-sisters-clean-teeth">Watch</a></strong>
 </p>
 
 **Output:** Video
@@ -154,9 +154,9 @@ Kitten Sister said happily, “My teeth are nice and clean now. I can go to slee
 ## Quirky Object Transformations
 
 <p align="center">
-  <a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779175905311_40932350_fm3Zt.mp4"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779175906528_40932350_Vt6ym.jpg" alt="Quirky Object Transformations — generated Video result" width="720"></a>
+  <a href="https://www.pagepop.ai/use-cases/quirky-object-transformations?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-quirky-object-transformations"><img src="https://img-volc.jianpian.info/super/video_concat/image/40932350/1779175906528_40932350_Vt6ym.jpg" alt="Quirky Object Transformations — generated Video result" width="720"></a>
   <br>
-  <strong><a href="https://img-volc.jianpian.info/super/video_concat/video/40932350/1779175905311_40932350_fm3Zt.mp4">▶ Play video (MP4)</a></strong>
+  <strong><a href="https://www.pagepop.ai/use-cases/quirky-object-transformations?utm_source=github&utm_medium=referral&utm_campaign=awesome-ai-prompts-and-use-cases&utm_content=case-quirky-object-transformations">Watch</a></strong>
 </p>
 
 **Output:** Video
